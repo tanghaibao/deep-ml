@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:33.802Z",
+  "generated_at": "2026-09-20T21:23:36.526Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -258,6 +258,32 @@
       "path": "problems/0024-single-neuron",
       "first_solved_at": "2024-08-03T23:56:10.075Z",
       "last_pushed_at": "2024-08-03T23:56:10.075Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2024-08-04T00:04:48.156Z",
+      "last_pushed_at": "2024-08-04T00:04:48.156Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2024-08-04T22:59:57.986Z",
+      "last_pushed_at": "2024-08-04T22:59:57.986Z",
       "language": "python",
       "lines": 1
     }
