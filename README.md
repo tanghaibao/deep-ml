@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 22 problems · 0 labs · 0 math
+**25** solved · 25 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2024-08-03 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2024-08-03 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-08-04 | [solution](problems/0016-feature-scaling-implementation) |
+| [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2024-08-08 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2024-08-03 | [solution](problems/0001-matrix-vector-dot-product) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2024-08-03 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2024-08-03 | [solution](problems/0029-random-shuffle-of-dataset) |
@@ -34,6 +35,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-08-03 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-08-03 | [solution](problems/0007-matrix-transformation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2024-08-04 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-08-08 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2024-08-08 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 
 ---
 

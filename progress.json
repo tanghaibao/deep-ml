@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:36.526Z",
+  "generated_at": "2026-09-20T21:23:37.884Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -284,6 +284,45 @@
       "path": "problems/0011-solve-linear-equations-using-jacobi-method",
       "first_solved_at": "2024-08-04T22:59:57.986Z",
       "last_pushed_at": "2024-08-04T22:59:57.986Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:40": {
+      "kind": "problem",
+      "id": "40",
+      "title": "Implementing a Custom Dense Layer in Python",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/40",
+      "path": "problems/0040-implementing-a-custom-dense-layer-in-python",
+      "first_solved_at": "2024-08-08T06:07:21.993Z",
+      "last_pushed_at": "2024-08-08T06:07:21.993Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2024-08-08T06:09:15.364Z",
+      "last_pushed_at": "2024-08-08T06:09:15.364Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2024-08-08T06:14:59.804Z",
+      "last_pushed_at": "2024-08-08T06:14:59.804Z",
       "language": "python",
       "lines": 1
     }
