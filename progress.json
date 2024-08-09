@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:37.884Z",
+  "generated_at": "2026-09-20T21:23:39.375Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -323,6 +323,97 @@
       "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
       "first_solved_at": "2024-08-08T06:14:59.804Z",
       "last_pushed_at": "2024-08-08T06:14:59.804Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2024-08-09T03:14:00.086Z",
+      "last_pushed_at": "2024-08-09T03:14:00.086Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2024-08-09T03:16:17.928Z",
+      "last_pushed_at": "2024-08-09T03:16:17.928Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:32": {
+      "kind": "problem",
+      "id": "32",
+      "title": "Generate Sorted Polynomial Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/32",
+      "path": "problems/0032-generate-sorted-polynomial-features",
+      "first_solved_at": "2024-08-09T03:44:21.302Z",
+      "last_pushed_at": "2024-08-09T03:44:21.302Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2024-08-09T04:21:35.632Z",
+      "last_pushed_at": "2024-08-09T04:21:35.632Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2024-08-09T04:53:36.165Z",
+      "last_pushed_at": "2024-08-09T04:53:36.165Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:31": {
+      "kind": "problem",
+      "id": "31",
+      "title": "Divide Dataset Based on Feature Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/31",
+      "path": "problems/0031-divide-dataset-based-on-feature-threshold",
+      "first_solved_at": "2024-08-09T05:06:17.900Z",
+      "last_pushed_at": "2024-08-09T05:06:17.900Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:33": {
+      "kind": "problem",
+      "id": "33",
+      "title": "Generate Random Subsets of a Dataset",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/33",
+      "path": "problems/0033-generate-random-subsets-of-a-dataset",
+      "first_solved_at": "2024-08-09T05:37:11.715Z",
+      "last_pushed_at": "2024-08-09T05:37:11.715Z",
       "language": "python",
       "lines": 1
     }
