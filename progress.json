@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:39.375Z",
+  "generated_at": "2026-09-20T21:23:41.203Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -414,6 +414,32 @@
       "path": "problems/0033-generate-random-subsets-of-a-dataset",
       "first_solved_at": "2024-08-09T05:37:11.715Z",
       "last_pushed_at": "2024-08-09T05:37:11.715Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2024-08-16T19:28:50.225Z",
+      "last_pushed_at": "2024-08-16T19:28:50.225Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2024-08-16T19:32:04.502Z",
+      "last_pushed_at": "2024-08-16T19:32:04.502Z",
       "language": "python",
       "lines": 1
     }
