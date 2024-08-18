@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:41.203Z",
+  "generated_at": "2026-09-20T21:23:42.680Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -440,6 +440,19 @@
       "path": "problems/0043-implement-ridge-regression-loss-function",
       "first_solved_at": "2024-08-16T19:32:04.502Z",
       "last_pushed_at": "2024-08-16T19:32:04.502Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2024-08-18T05:56:03.294Z",
+      "last_pushed_at": "2024-08-18T05:56:03.294Z",
       "language": "python",
       "lines": 1
     }

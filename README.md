@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 34 problems · 0 labs · 0 math
+**35** solved · 35 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2024-08-09 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2024-08-09 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2024-08-09 | [solution](problems/0032-generate-sorted-polynomial-features) |
+| [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2024-08-18 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-08-03 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-08-03 | [solution](problems/0007-matrix-transformation) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-08-09 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
