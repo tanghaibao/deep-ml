@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 35 problems · 0 labs · 0 math
+**42** solved · 42 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2024-08-16 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2024-08-16 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2024-08-08 | [solution](problems/0039-implementation-of-log-softmax-function) |
+| [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2024-08-21 | [solution](problems/0044-leaky-relu-activation-function) |
+| [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2024-08-21 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2024-08-09 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2024-08-09 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2024-08-03 | [solution](problems/0001-matrix-vector-dot-product) |
@@ -39,14 +41,19 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2024-08-09 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2024-08-09 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2024-08-09 | [solution](problems/0032-generate-sorted-polynomial-features) |
+| [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2024-08-21 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2024-08-18 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2024-08-21 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-08-03 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-08-03 | [solution](problems/0007-matrix-transformation) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-08-09 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2024-08-09 | [solution](problems/0041-simple-convolutional-2d-layer) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2024-08-21 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2024-08-04 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-21 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-08-08 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2024-08-08 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
+| [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2024-08-21 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 
 ---
 

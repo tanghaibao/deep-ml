@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:42.680Z",
+  "generated_at": "2026-09-20T21:23:44.171Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -453,6 +453,97 @@
       "path": "problems/0026-implementing-basic-autograd-operations",
       "first_solved_at": "2024-08-18T05:56:03.294Z",
       "last_pushed_at": "2024-08-18T05:56:03.294Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2024-08-21T15:32:11.625Z",
+      "last_pushed_at": "2024-08-21T15:32:11.625Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2024-08-21T15:32:56.989Z",
+      "last_pushed_at": "2024-08-21T15:32:56.989Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:25": {
+      "kind": "problem",
+      "id": "25",
+      "title": "Single Neuron with Backpropagation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/25",
+      "path": "problems/0025-single-neuron-with-backpropagation",
+      "first_solved_at": "2024-08-21T17:54:07.275Z",
+      "last_pushed_at": "2024-08-21T17:54:07.275Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2024-08-21T18:16:10.710Z",
+      "last_pushed_at": "2024-08-21T18:16:10.710Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2024-08-21T18:41:53.304Z",
+      "last_pushed_at": "2024-08-21T18:41:53.304Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:20": {
+      "kind": "problem",
+      "id": "20",
+      "title": "Decision Tree Learning",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/20",
+      "path": "problems/0020-decision-tree-learning",
+      "first_solved_at": "2024-08-21T20:18:26.940Z",
+      "last_pushed_at": "2024-08-21T20:18:26.940Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:28": {
+      "kind": "problem",
+      "id": "28",
+      "title": "SVD of a 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/28",
+      "path": "problems/0028-svd-of-a-2x2-matrix",
+      "first_solved_at": "2024-08-21T22:00:56.000Z",
+      "last_pushed_at": "2024-08-21T22:00:56.000Z",
       "language": "python",
       "lines": 1
     }
