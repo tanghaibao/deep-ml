@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:44.171Z",
+  "generated_at": "2026-09-20T21:23:45.885Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -544,6 +544,45 @@
       "path": "problems/0028-svd-of-a-2x2-matrix",
       "first_solved_at": "2024-08-21T22:00:56.000Z",
       "last_pushed_at": "2024-08-21T22:00:56.000Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2024-08-24T16:00:45.579Z",
+      "last_pushed_at": "2024-08-24T16:00:45.579Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:21": {
+      "kind": "problem",
+      "id": "21",
+      "title": "Pegasos Kernel SVM Implementation",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/21",
+      "path": "problems/0021-pegasos-kernel-svm-implementation",
+      "first_solved_at": "2024-08-24T21:05:19.472Z",
+      "last_pushed_at": "2024-08-24T21:05:19.472Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:38": {
+      "kind": "problem",
+      "id": "38",
+      "title": "Implement AdaBoost Fit Method",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/38",
+      "path": "problems/0038-implement-adaboost-fit-method",
+      "first_solved_at": "2024-08-24T21:33:30.322Z",
+      "last_pushed_at": "2024-08-24T21:33:30.322Z",
       "language": "python",
       "lines": 1
     }
