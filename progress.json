@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:45.885Z",
+  "generated_at": "2026-09-20T21:23:47.410Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -583,6 +583,19 @@
       "path": "problems/0038-implement-adaboost-fit-method",
       "first_solved_at": "2024-08-24T21:33:30.322Z",
       "last_pushed_at": "2024-08-24T21:33:30.322Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2024-08-26T22:23:55.557Z",
+      "last_pushed_at": "2024-08-26T22:23:55.557Z",
       "language": "python",
       "lines": 1
     }
