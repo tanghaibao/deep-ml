@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:48.808Z",
+  "generated_at": "2026-09-20T21:23:50.322Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -609,6 +609,19 @@
       "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
       "first_solved_at": "2024-08-30T23:26:24.277Z",
       "last_pushed_at": "2024-08-30T23:26:24.277Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:48": {
+      "kind": "problem",
+      "id": "48",
+      "title": "Implement Reduced Row Echelon Form (RREF) Function",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/48",
+      "path": "problems/0048-implement-reduced-row-echelon-form-rref-function",
+      "first_solved_at": "2024-09-02T02:05:17.994Z",
+      "last_pushed_at": "2024-09-02T02:05:17.994Z",
       "language": "python",
       "lines": 1
     }
