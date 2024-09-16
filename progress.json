@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:53.534Z",
+  "generated_at": "2026-09-20T21:23:55.002Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -648,6 +648,19 @@
       "path": "problems/0050-implement-lasso-regression-using-ista",
       "first_solved_at": "2024-09-09T06:41:45.224Z",
       "last_pushed_at": "2024-09-09T06:41:45.224Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:51": {
+      "kind": "problem",
+      "id": "51",
+      "title": "Optimal String Alignment Distance",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/51",
+      "path": "problems/0051-optimal-string-alignment-distance",
+      "first_solved_at": "2024-09-16T02:52:42.418Z",
+      "last_pushed_at": "2024-09-16T02:52:42.418Z",
       "language": "python",
       "lines": 1
     }
