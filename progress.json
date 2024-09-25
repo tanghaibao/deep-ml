@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:55.002Z",
+  "generated_at": "2026-09-20T21:23:56.468Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -661,6 +661,45 @@
       "path": "problems/0051-optimal-string-alignment-distance",
       "first_solved_at": "2024-09-16T02:52:42.418Z",
       "last_pushed_at": "2024-09-16T02:52:42.418Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2024-09-25T04:04:07.507Z",
+      "last_pushed_at": "2024-09-25T04:04:07.507Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2024-09-25T04:19:42.420Z",
+      "last_pushed_at": "2024-09-25T04:19:42.420Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2024-09-25T04:27:29.957Z",
+      "last_pushed_at": "2024-09-25T04:27:29.957Z",
       "language": "python",
       "lines": 1
     }
