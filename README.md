@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**55** solved · 55 problems · 0 labs · 0 math
+**57** solved · 57 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2024-08-16 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2024-08-16 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2024-08-08 | [solution](problems/0039-implementation-of-log-softmax-function) |
+| [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2024-10-07 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2024-08-21 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2024-08-21 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2024-08-09 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -42,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-08-03 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-03 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2024-08-09 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
+| [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2024-10-07 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2024-08-09 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2024-08-09 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2024-09-05 | [solution](problems/0049-implement-adam-optimization-algorithm) |

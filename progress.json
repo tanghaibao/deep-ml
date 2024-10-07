@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:58.078Z",
+  "generated_at": "2026-09-20T21:23:59.510Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -713,6 +713,32 @@
       "path": "problems/0055-2d-translation-matrix-implementation",
       "first_solved_at": "2024-10-03T03:00:36.234Z",
       "last_pushed_at": "2024-10-03T03:00:36.234Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2024-10-07T03:07:35.098Z",
+      "last_pushed_at": "2024-10-07T03:07:35.098Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:57": {
+      "kind": "problem",
+      "id": "57",
+      "title": "Gauss-Seidel Method for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/57",
+      "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
+      "first_solved_at": "2024-10-07T03:36:21.305Z",
+      "last_pushed_at": "2024-10-07T03:36:21.305Z",
       "language": "python",
       "lines": 1
     }
