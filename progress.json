@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:23:59.510Z",
+  "generated_at": "2026-09-20T21:24:00.880Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -739,6 +739,19 @@
       "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
       "first_solved_at": "2024-10-07T03:36:21.305Z",
       "last_pushed_at": "2024-10-07T03:36:21.305Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2024-10-11T04:18:56.450Z",
+      "last_pushed_at": "2024-10-11T04:18:56.450Z",
       "language": "python",
       "lines": 1
     }
