@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:09:13.517Z",
+  "generated_at": "2026-11-14T14:09:15.399Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1930,6 +1930,19 @@
       "path": "problems/0059-implement-long-short-term-memory-lstm-network",
       "first_solved_at": "2024-10-16T03:10:37.975Z",
       "last_pushed_at": "2024-10-16T03:10:37.975Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:60": {
+      "kind": "problem",
+      "id": "60",
+      "title": "Implement TF-IDF (Term Frequency-Inverse Document Frequency)",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/60",
+      "path": "problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency",
+      "first_solved_at": "2024-10-18T15:18:26.913Z",
+      "last_pushed_at": "2024-10-18T15:18:26.913Z",
       "language": "python",
       "lines": 1
     }
