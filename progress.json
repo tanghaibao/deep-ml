@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:09:15.399Z",
+  "generated_at": "2026-11-14T14:09:17.050Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1943,6 +1943,19 @@
       "path": "problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency",
       "first_solved_at": "2024-10-18T15:18:26.913Z",
       "last_pushed_at": "2024-10-18T15:18:26.913Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2024-10-24T04:56:13.550Z",
+      "last_pushed_at": "2024-10-24T04:56:13.550Z",
       "language": "python",
       "lines": 1
     }
