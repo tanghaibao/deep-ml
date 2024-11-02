@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:09:20.300Z",
+  "generated_at": "2026-11-14T14:09:55.608Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1982,6 +1982,32 @@
       "path": "problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt",
       "first_solved_at": "2024-10-28T00:00:38.373Z",
       "last_pushed_at": "2024-10-28T00:00:38.373Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2024-11-02T01:29:16.812Z",
+      "last_pushed_at": "2024-11-02T01:29:16.812Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2024-11-02T01:30:36.678Z",
+      "last_pushed_at": "2024-11-02T01:30:36.678Z",
       "language": "python",
       "lines": 1
     }
