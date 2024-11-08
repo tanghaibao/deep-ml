@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:09:55.608Z",
+  "generated_at": "2026-11-14T14:09:57.360Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2008,6 +2008,19 @@
       "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
       "first_solved_at": "2024-11-02T01:30:36.678Z",
       "last_pushed_at": "2024-11-02T01:30:36.678Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:67": {
+      "kind": "problem",
+      "id": "67",
+      "title": "Implement Compressed Column Sparse Matrix Format (CSC)",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/67",
+      "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
+      "first_solved_at": "2024-11-08T04:18:11.147Z",
+      "last_pushed_at": "2024-11-08T04:18:11.147Z",
       "language": "python",
       "lines": 1
     }
