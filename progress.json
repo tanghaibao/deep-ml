@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:09:57.360Z",
+  "generated_at": "2026-11-14T14:09:59.113Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2021,6 +2021,19 @@
       "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
       "first_solved_at": "2024-11-08T04:18:11.147Z",
       "last_pushed_at": "2024-11-08T04:18:11.147Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:68": {
+      "kind": "problem",
+      "id": "68",
+      "title": "Find the column space of a matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/68",
+      "path": "problems/0068-find-the-column-space-of-a-matrix",
+      "first_solved_at": "2024-11-11T04:56:33.897Z",
+      "last_pushed_at": "2024-11-11T04:56:33.897Z",
       "language": "python",
       "lines": 1
     }
