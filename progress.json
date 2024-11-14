@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:09:59.113Z",
+  "generated_at": "2026-11-14T14:10:00.796Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2034,6 +2034,45 @@
       "path": "problems/0068-find-the-column-space-of-a-matrix",
       "first_solved_at": "2024-11-11T04:56:33.897Z",
       "last_pushed_at": "2024-11-11T04:56:33.897Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2024-11-14T22:32:01.945Z",
+      "last_pushed_at": "2024-11-14T22:32:01.945Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2024-11-14T22:33:08.997Z",
+      "last_pushed_at": "2024-11-14T22:33:08.997Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2024-11-14T22:37:56.730Z",
+      "last_pushed_at": "2024-11-14T22:37:56.730Z",
       "language": "python",
       "lines": 1
     }
