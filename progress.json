@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:00.796Z",
+  "generated_at": "2026-11-14T14:10:02.573Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2073,6 +2073,32 @@
       "path": "problems/0070-calculate-image-brightness",
       "first_solved_at": "2024-11-14T22:37:56.730Z",
       "last_pushed_at": "2024-11-14T22:37:56.730Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2024-11-21T03:33:17.592Z",
+      "last_pushed_at": "2024-11-21T03:33:17.592Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2024-11-21T03:36:37.304Z",
+      "last_pushed_at": "2024-11-21T03:36:37.304Z",
       "language": "python",
       "lines": 1
     }
