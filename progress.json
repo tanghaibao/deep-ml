@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:02.573Z",
+  "generated_at": "2026-11-14T14:10:04.227Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2099,6 +2099,32 @@
       "path": "problems/0073-calculate-dice-score-for-classification",
       "first_solved_at": "2024-11-21T03:36:37.304Z",
       "last_pushed_at": "2024-11-21T03:36:37.304Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2024-12-06T09:38:12.977Z",
+      "last_pushed_at": "2024-12-06T09:38:12.977Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2024-12-06T09:40:38.133Z",
+      "last_pushed_at": "2024-12-06T09:40:38.133Z",
       "language": "python",
       "lines": 1
     }
