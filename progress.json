@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:04.227Z",
+  "generated_at": "2026-11-14T14:10:05.943Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2125,6 +2125,32 @@
       "path": "problems/0076-calculate-cosine-similarity-between-vectors",
       "first_solved_at": "2024-12-06T09:40:38.133Z",
       "last_pushed_at": "2024-12-06T09:40:38.133Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2024-12-07T03:51:47.209Z",
+      "last_pushed_at": "2024-12-07T03:51:47.209Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:74": {
+      "kind": "problem",
+      "id": "74",
+      "title": "Create Composite Hypervector for a Dataset Row",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/74",
+      "path": "problems/0074-create-composite-hypervector-for-a-dataset-row",
+      "first_solved_at": "2024-12-07T07:15:35.959Z",
+      "last_pushed_at": "2024-12-07T07:15:35.959Z",
       "language": "python",
       "lines": 1
     }
