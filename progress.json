@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:07.718Z",
+  "generated_at": "2026-11-14T14:10:09.368Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2166,6 +2166,110 @@
       "last_pushed_at": "2024-12-21T05:13:23.808Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2025-01-08T16:15:41.264Z",
+      "last_pushed_at": "2025-01-08T16:15:41.264Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2025-01-08T16:17:59.524Z",
+      "last_pushed_at": "2025-01-08T16:17:59.524Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2025-01-08T16:19:59.654Z",
+      "last_pushed_at": "2025-01-08T16:19:59.654Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:82": {
+      "kind": "problem",
+      "id": "82",
+      "title": "Grayscale Image Contrast Calculator",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/82",
+      "path": "problems/0082-grayscale-image-contrast-calculator",
+      "first_solved_at": "2025-01-08T16:22:15.876Z",
+      "last_pushed_at": "2025-01-08T16:22:15.876Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:84": {
+      "kind": "problem",
+      "id": "84",
+      "title": "Phi Transformation for Polynomial Features",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/84",
+      "path": "problems/0084-phi-transformation-for-polynomial-features",
+      "first_solved_at": "2025-01-08T16:27:11.183Z",
+      "last_pushed_at": "2025-01-08T16:27:11.183Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2025-01-08T18:24:23.538Z",
+      "last_pushed_at": "2025-01-08T18:24:23.538Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2025-01-08T18:32:27.962Z",
+      "last_pushed_at": "2025-01-08T18:32:27.962Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:89": {
+      "kind": "problem",
+      "id": "89",
+      "title": "The Pattern Weaver's Code",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/89",
+      "path": "problems/0089-the-pattern-weaver-s-code",
+      "first_solved_at": "2025-01-08T18:55:55.280Z",
+      "last_pushed_at": "2025-01-08T18:55:55.280Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

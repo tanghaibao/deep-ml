@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**178** solved · 104 problems · 0 labs · 74 math
+**186** solved · 112 problems · 0 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,10 +28,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-23 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-11-09 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2024-12-21 | [solution](problems/0078-descriptive-statistics-calculator) |
+| [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2025-01-08 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-20 | [solution](problems/0083-dot-product-calculator) |
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-05 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-08-04 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2024-12-06 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
+| [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-01-08 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Greedy Autoregressive Text Generation](https://www.deep-ml.com/problems/1070) | easy | 2026-10-05 | [solution](problems/1070-greedy-autoregressive-text-generation) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2024-11-08 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2024-11-02 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
@@ -53,6 +55,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2024-08-03 | [solution](problems/0001-matrix-vector-dot-product) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2024-08-03 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-09-20 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
+| [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2025-01-08 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
+| [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-01-08 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-10-05 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2024-08-03 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-11-09 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
@@ -70,8 +74,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2024-08-03 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-09-20 | [solution](problems/0121-vector-element-wise-sum) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2024-10-03 | [solution](problems/0055-2d-translation-matrix-implementation) |
+| [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-01-08 | [solution](problems/0087-adam-optimizer) |
 | [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-09-23 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-09-28 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
+| [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-01-08 | [solution](problems/0079-binomial-distribution-probability) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-04 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-08-03 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-03 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
@@ -101,12 +107,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-08-03 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-08-03 | [solution](problems/0007-matrix-transformation) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-09-23 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
+| [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-01-08 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2024-09-16 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-08-09 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Reward Model Loss from Pairwise Human Preferences](https://www.deep-ml.com/problems/484) | medium | 2026-09-29 | [solution](problems/0484-reward-model-loss-from-pairwise-human-preferences) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2024-08-09 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2024-08-21 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2024-08-04 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2025-01-08 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-09-21 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-21 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-08-08 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
