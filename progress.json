@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:11.326Z",
+  "generated_at": "2026-11-14T14:10:13.052Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2283,6 +2283,32 @@
       "last_pushed_at": "2025-01-11T03:22:21.848Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:91": {
+      "kind": "problem",
+      "id": "91",
+      "title": "Calculate F1 Score from Predicted and True Labels",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/91",
+      "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
+      "first_solved_at": "2025-01-16T01:00:54.750Z",
+      "last_pushed_at": "2025-01-16T01:00:54.750Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2025-01-16T01:01:59.031Z",
+      "last_pushed_at": "2025-01-16T01:01:59.031Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
