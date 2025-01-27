@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:14.670Z",
+  "generated_at": "2026-11-14T14:10:16.331Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2322,6 +2322,71 @@
       "last_pushed_at": "2025-01-19T06:48:37.105Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:95": {
+      "kind": "problem",
+      "id": "95",
+      "title": "Calculate the Phi Coefficient",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/95",
+      "path": "problems/0095-calculate-the-phi-coefficient",
+      "first_solved_at": "2025-01-27T03:28:12.569Z",
+      "last_pushed_at": "2025-01-27T03:28:12.569Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:96": {
+      "kind": "problem",
+      "id": "96",
+      "title": "Implement the Hard Sigmoid Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/96",
+      "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
+      "first_solved_at": "2025-01-27T05:11:39.444Z",
+      "last_pushed_at": "2025-01-27T05:11:39.444Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:98": {
+      "kind": "problem",
+      "id": "98",
+      "title": "Implement PReLU Forward and Backward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/98",
+      "path": "problems/0098-implement-prelu-forward-and-backward-pass",
+      "first_solved_at": "2025-01-27T05:13:29.256Z",
+      "last_pushed_at": "2025-01-27T05:13:29.256Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2025-01-27T05:14:00.352Z",
+      "last_pushed_at": "2025-01-27T05:14:00.352Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2025-01-27T05:15:35.695Z",
+      "last_pushed_at": "2025-01-27T05:15:35.695Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
