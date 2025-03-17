@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:25.082Z",
+  "generated_at": "2026-11-14T14:10:27.075Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2476,6 +2476,19 @@
       "path": "problems/0109-implement-layer-normalization-for-sequence-data",
       "first_solved_at": "2025-03-14T06:08:48.292Z",
       "last_pushed_at": "2025-03-14T06:08:48.292Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:111": {
+      "kind": "problem",
+      "id": "111",
+      "title": "Compute Pointwise Mutual Information",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/111",
+      "path": "problems/0111-compute-pointwise-mutual-information",
+      "first_solved_at": "2025-03-17T02:46:18.015Z",
+      "last_pushed_at": "2025-03-17T02:46:18.015Z",
       "language": "python",
       "lines": 9
     }
