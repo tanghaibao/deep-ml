@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**203** solved · 129 problems · 0 labs · 74 math
+**204** solved · 130 problems · 0 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2024-08-09 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2024-08-03 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2025-02-26 | [solution](problems/0108-measure-disorder-in-apple-colors) |
+| [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2025-03-22 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2024-08-03 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-09-20 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2025-01-08 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
