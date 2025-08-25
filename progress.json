@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:29.655Z",
+  "generated_at": "2026-11-14T14:10:31.851Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2504,6 +2504,45 @@
       "last_pushed_at": "2025-03-22T04:29:17.183Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2025-08-25T04:08:42.587Z",
+      "last_pushed_at": "2025-08-25T04:08:42.587Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:110": {
+      "kind": "problem",
+      "id": "110",
+      "title": "Evaluate Translation Quality with METEOR Score",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/110",
+      "path": "problems/0110-evaluate-translation-quality-with-meteor-score",
+      "first_solved_at": "2025-08-25T04:17:14.144Z",
+      "last_pushed_at": "2025-08-25T04:17:14.144Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:176": {
+      "kind": "problem",
+      "id": "176",
+      "title": "Chi-square Probability Distribution",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/176",
+      "path": "problems/0176-chi-square-probability-distribution",
+      "first_solved_at": "2025-08-25T04:22:28.847Z",
+      "last_pushed_at": "2025-08-25T04:22:28.847Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
