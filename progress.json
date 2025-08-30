@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:34.329Z",
+  "generated_at": "2026-11-14T14:10:37.764Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2595,6 +2595,45 @@
       "last_pushed_at": "2025-08-27T04:57:41.166Z",
       "language": "python",
       "lines": 3
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2025-08-30T05:26:45.106Z",
+      "last_pushed_at": "2025-08-30T05:26:45.106Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:141": {
+      "kind": "problem",
+      "id": "141",
+      "title": "Shift and Scale Array to Target Range",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/141",
+      "path": "problems/0141-shift-and-scale-array-to-target-range",
+      "first_solved_at": "2025-08-30T05:33:41.946Z",
+      "last_pushed_at": "2025-08-30T05:33:41.946Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2025-08-30T05:44:13.797Z",
+      "last_pushed_at": "2025-08-30T05:44:13.797Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }

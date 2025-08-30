@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**211** solved · 137 problems · 0 labs · 74 math
+**214** solved · 140 problems · 0 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2024-11-14 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2025-01-27 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2025-08-27 | [solution](problems/0165-compute-discounted-return) |
+| [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2025-08-30 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute TPR and FPR from Classifications](https://www.deep-ml.com/problems/1217) | easy | 2026-09-28 | [solution](problems/1217-compute-tpr-and-fpr-from-classifications) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2024-08-03 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-23 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
@@ -42,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2024-12-06 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-01-08 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Greedy Autoregressive Text Generation](https://www.deep-ml.com/problems/1070) | easy | 2026-10-05 | [solution](problems/1070-greedy-autoregressive-text-generation) |
+| [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2025-08-30 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2024-11-08 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2024-11-02 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2024-10-24 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
@@ -80,6 +82,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [RMS-Matched Update Rescaling for Orthogonalized Optimizers](https://www.deep-ml.com/problems/740) | easy | 2026-11-11 | [solution](problems/0740-rms-matched-update-rescaling-for-orthogonalized-optimizers) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2024-08-03 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-11-14 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
+| [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2025-08-30 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2024-08-03 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-11-14 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2024-08-03 | [solution](problems/0024-single-neuron) |
