@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**214** solved · 140 problems · 0 labs · 74 math
+**215** solved · 141 problems · 0 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -100,6 +100,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-04 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-08-03 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-03 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2025-08-31 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2024-12-07 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-08-25 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2025-03-17 | [solution](problems/0111-compute-pointwise-mutual-information) |
