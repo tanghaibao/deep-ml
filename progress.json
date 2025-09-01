@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:39.753Z",
+  "generated_at": "2026-11-14T14:10:41.407Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2647,6 +2647,58 @@
       "last_pushed_at": "2025-08-31T07:23:41.168Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:171": {
+      "kind": "problem",
+      "id": "171",
+      "title": "Minimax Algorithm for Tic-Tac-Toe",
+      "difficulty": "medium",
+      "category": "Game Theory",
+      "url": "https://www.deep-ml.com/problems/171",
+      "path": "problems/0171-minimax-algorithm-for-tic-tac-toe",
+      "first_solved_at": "2025-09-01T00:29:29.647Z",
+      "last_pushed_at": "2025-09-01T00:29:29.647Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:114": {
+      "kind": "problem",
+      "id": "114",
+      "title": "Implement Global Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/114",
+      "path": "problems/0114-implement-global-average-pooling",
+      "first_solved_at": "2025-09-01T04:00:49.164Z",
+      "last_pushed_at": "2025-09-01T04:00:49.164Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:115": {
+      "kind": "problem",
+      "id": "115",
+      "title": "Implement Batch Normalization for BCHW Input",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/115",
+      "path": "problems/0115-implement-batch-normalization-for-bchw-input",
+      "first_solved_at": "2025-09-01T04:14:24.204Z",
+      "last_pushed_at": "2025-09-01T04:14:24.204Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:117": {
+      "kind": "problem",
+      "id": "117",
+      "title": "Compute Orthonormal Basis for 2D Vectors",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/117",
+      "path": "problems/0117-compute-orthonormal-basis-for-2d-vectors",
+      "first_solved_at": "2025-09-01T17:37:43.895Z",
+      "last_pushed_at": "2025-09-01T17:37:43.895Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
