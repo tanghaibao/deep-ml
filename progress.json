@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:41.407Z",
+  "generated_at": "2026-11-14T14:10:43.138Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2699,6 +2699,84 @@
       "last_pushed_at": "2025-09-01T17:37:43.895Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2025-09-03T05:44:12.739Z",
+      "last_pushed_at": "2025-09-03T05:44:12.739Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:178": {
+      "kind": "problem",
+      "id": "178",
+      "title": "Implement Position-wise Feed-Forward Block with Residual and Dropout",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/178",
+      "path": "problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout",
+      "first_solved_at": "2025-09-03T06:42:39.645Z",
+      "last_pushed_at": "2025-09-03T06:42:39.645Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:180": {
+      "kind": "problem",
+      "id": "180",
+      "title": "Conditional Probability from Joint Distribution",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/180",
+      "path": "problems/0180-conditional-probability-from-joint-distribution",
+      "first_solved_at": "2025-09-03T13:44:02.553Z",
+      "last_pushed_at": "2025-09-03T13:44:02.553Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:123": {
+      "kind": "problem",
+      "id": "123",
+      "title": "Calculate Computational Efficiency of MoE",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/123",
+      "path": "problems/0123-calculate-computational-efficiency-of-moe",
+      "first_solved_at": "2025-09-03T14:09:53.576Z",
+      "last_pushed_at": "2025-09-03T14:09:53.576Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:120": {
+      "kind": "problem",
+      "id": "120",
+      "title": "Bhattacharyya Distance Between Two Distributions",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/120",
+      "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
+      "first_solved_at": "2025-09-03T15:48:09.771Z",
+      "last_pushed_at": "2025-09-03T15:48:09.771Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:147": {
+      "kind": "problem",
+      "id": "147",
+      "title": "GeLU Activation Function ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/147",
+      "path": "problems/0147-gelu-activation-function",
+      "first_solved_at": "2025-09-03T15:51:24.647Z",
+      "last_pushed_at": "2025-09-03T15:51:24.647Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
