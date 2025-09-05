@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**225** solved · 151 problems · 0 labs · 74 math
+**226** solved · 152 problems · 0 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -85,6 +85,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-11-09 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2024-08-03 | [solution](problems/0003-reshape-matrix) |
 | [RMS-Matched Update Rescaling for Orthogonalized Optimizers](https://www.deep-ml.com/problems/740) | easy | 2026-11-11 | [solution](problems/0740-rms-matched-update-rescaling-for-orthogonalized-optimizers) |
+| [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2025-09-05 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2024-08-03 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-11-14 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2025-08-30 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
