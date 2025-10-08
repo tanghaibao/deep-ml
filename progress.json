@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:56.468Z",
+  "generated_at": "2026-11-14T14:10:58.109Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2881,6 +2881,32 @@
       "last_pushed_at": "2025-10-05T04:58:18.596Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:135": {
+      "kind": "problem",
+      "id": "135",
+      "title": "Implement Early Stopping Based on Validation Loss",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/135",
+      "path": "problems/0135-implement-early-stopping-based-on-validation-loss",
+      "first_solved_at": "2025-10-08T05:40:57.930Z",
+      "last_pushed_at": "2025-10-08T05:40:57.930Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:151": {
+      "kind": "problem",
+      "id": "151",
+      "title": "Dropout Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/151",
+      "path": "problems/0151-dropout-layer",
+      "first_solved_at": "2025-10-08T05:53:32.682Z",
+      "last_pushed_at": "2025-10-08T05:53:32.682Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
