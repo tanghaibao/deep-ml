@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:58.109Z",
+  "generated_at": "2026-11-14T14:10:59.737Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2907,6 +2907,45 @@
       "last_pushed_at": "2025-10-08T05:53:32.682Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:145": {
+      "kind": "problem",
+      "id": "145",
+      "title": "Adagrad Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/145",
+      "path": "problems/0145-adagrad-optimizer",
+      "first_solved_at": "2025-10-11T04:14:31.748Z",
+      "last_pushed_at": "2025-10-11T04:14:31.748Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2025-10-11T04:16:50.301Z",
+      "last_pushed_at": "2025-10-11T04:16:50.301Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2025-10-11T04:18:50.776Z",
+      "last_pushed_at": "2025-10-11T04:18:50.776Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**235** solved · 161 problems · 0 labs · 74 math
+**238** solved · 164 problems · 0 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Adagrad Optimizer](https://www.deep-ml.com/problems/145) | easy | 2025-10-11 | [solution](problems/0145-adagrad-optimizer) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2024-08-03 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2025-09-03 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2025-02-08 | [solution](problems/0104-binary-classification-with-logistic-regression) |
@@ -46,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dynamic Tanh: Normalization-Free Transformer Activation](https://www.deep-ml.com/problems/128) | easy | 2025-10-04 | [solution](problems/0128-dynamic-tanh-normalization-free-transformer-activation) |
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-05 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2025-09-19 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
+| [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2025-10-11 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-08-04 | [solution](problems/0016-feature-scaling-implementation) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2025-09-03 | [solution](problems/0147-gelu-activation-function) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2024-12-06 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
@@ -80,6 +82,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2024-08-03 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2025-02-26 | [solution](problems/0108-measure-disorder-in-apple-colors) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2025-03-22 | [solution](problems/0112-min-max-scaling-of-feature-values) |
+| [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2025-10-11 | [solution](problems/0146-momentum-optimizer) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2024-08-03 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-09-20 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2025-01-08 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
