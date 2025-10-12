@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:10:59.737Z",
+  "generated_at": "2026-11-14T14:11:01.422Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -2946,6 +2946,32 @@
       "last_pushed_at": "2025-10-11T04:18:50.776Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:169": {
+      "kind": "problem",
+      "id": "169",
+      "title": "Implement AdamW Optimizer Step",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/169",
+      "path": "problems/0169-implement-adamw-optimizer-step",
+      "first_solved_at": "2025-10-12T21:52:02.565Z",
+      "last_pushed_at": "2025-10-12T21:52:02.565Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:156": {
+      "kind": "problem",
+      "id": "156",
+      "title": "Implement SwiGLU activation function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/156",
+      "path": "problems/0156-implement-swiglu-activation-function",
+      "first_solved_at": "2025-10-12T22:08:06.026Z",
+      "last_pushed_at": "2025-10-12T22:08:06.026Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
