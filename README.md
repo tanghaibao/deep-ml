@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**241** solved · 167 problems · 0 labs · 74 math
+**242** solved · 168 problems · 0 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -51,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-08-04 | [solution](problems/0016-feature-scaling-implementation) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2025-09-03 | [solution](problems/0147-gelu-activation-function) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2024-12-06 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
+| [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2025-10-19 | [solution](problems/0188-gradient-checkpointing) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-01-08 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Greedy Autoregressive Text Generation](https://www.deep-ml.com/problems/1070) | easy | 2026-10-05 | [solution](problems/1070-greedy-autoregressive-text-generation) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2025-08-30 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
