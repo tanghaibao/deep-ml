@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**243** solved · 169 problems · 0 labs · 74 math
+**244** solved · 170 problems · 0 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -129,6 +129,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-11-14 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2024-08-09 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2025-10-08 | [solution](problems/0151-dropout-layer) |
+| [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2025-10-21 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2025-08-25 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2025-08-25 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2024-11-11 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
