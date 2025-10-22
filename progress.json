@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:13:42.382Z",
+  "generated_at": "2026-11-14T14:13:44.546Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -3024,6 +3024,32 @@
       "last_pushed_at": "2025-10-21T05:41:18.092Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:167": {
+      "kind": "problem",
+      "id": "167",
+      "title": "Calculate the Discounted Return for a Given Trajectory",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/167",
+      "path": "problems/0167-calculate-the-discounted-return-for-a-given-trajectory",
+      "first_solved_at": "2025-10-22T05:44:15.041Z",
+      "last_pushed_at": "2025-10-22T05:44:15.041Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:162": {
+      "kind": "problem",
+      "id": "162",
+      "title": "Upper Confidence Bound (UCB) Action Selection",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/162",
+      "path": "problems/0162-upper-confidence-bound-ucb-action-selection",
+      "first_solved_at": "2025-10-22T23:23:45.260Z",
+      "last_pushed_at": "2025-10-22T23:23:45.260Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
