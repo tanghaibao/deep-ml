@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**247** solved · 173 problems · 0 labs · 74 math
+**248** solved · 174 problems · 0 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -168,6 +168,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-09-23 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-01-08 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2024-09-16 | [solution](problems/0051-optimal-string-alignment-distance) |
+| [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2025-10-25 | [solution](problems/0190-overlapping-max-pooling) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-08-09 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Reward Model Loss from Pairwise Human Preferences](https://www.deep-ml.com/problems/484) | medium | 2026-09-29 | [solution](problems/0484-reward-model-loss-from-pairwise-human-preferences) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2024-08-09 | [solution](problems/0041-simple-convolutional-2d-layer) |
