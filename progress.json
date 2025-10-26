@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:13:48.308Z",
+  "generated_at": "2026-11-14T14:13:50.275Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -3076,6 +3076,45 @@
       "last_pushed_at": "2025-10-25T00:40:43.052Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:150": {
+      "kind": "problem",
+      "id": "150",
+      "title": "Nesterov Accelerated Gradient Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/150",
+      "path": "problems/0150-nesterov-accelerated-gradient-optimizer",
+      "first_solved_at": "2025-10-26T17:53:04.711Z",
+      "last_pushed_at": "2025-10-26T17:53:04.711Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:153": {
+      "kind": "problem",
+      "id": "153",
+      "title": "StepLR Learning Rate Scheduler",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/153",
+      "path": "problems/0153-steplr-learning-rate-scheduler",
+      "first_solved_at": "2025-10-26T17:57:55.302Z",
+      "last_pushed_at": "2025-10-26T17:57:55.302Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:154": {
+      "kind": "problem",
+      "id": "154",
+      "title": "ExponentialLR Learning Rate Scheduler",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/154",
+      "path": "problems/0154-exponentiallr-learning-rate-scheduler",
+      "first_solved_at": "2025-10-26T17:59:26.862Z",
+      "last_pushed_at": "2025-10-26T17:59:26.862Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
