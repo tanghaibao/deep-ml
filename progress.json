@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:13:58.630Z",
+  "generated_at": "2026-11-14T14:14:00.586Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -3193,6 +3193,19 @@
       "last_pushed_at": "2025-11-09T23:16:35.806Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:177": {
+      "kind": "problem",
+      "id": "177",
+      "title": "Implement MuonClip (qk-clip) for Stabilizing Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/177",
+      "path": "problems/0177-implement-muonclip-qk-clip-for-stabilizing-attention",
+      "first_solved_at": "2025-11-10T00:33:27.958Z",
+      "last_pushed_at": "2025-11-10T00:33:27.958Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
