@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" role="img" aria-label="Deep-ML coverage: 184 of 2280 problems solved">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" role="img" aria-label="Deep-ML coverage: 185 of 2280 problems solved">
 <style>
   .bg{fill:#ffffff}.tx{fill:#18181b}.dim{fill:#71717a}.none{fill:#e4e4e7}
   .e{fill:#15a349}.m{fill:#d08700}.h{fill:#dc2626}.u{fill:#a1a1aa}
@@ -496,7 +496,7 @@
 <rect x="182" y="77" width="7" height="7" rx="1.5" class="none"/>
 <rect x="191" y="77" width="7" height="7" rx="1.5" class="none"/>
 <text x="20" y="102" class="tx" font-size="11" font-family="ui-monospace,monospace">Machine Learning</text>
-<text x="860" y="102" class="dim" font-size="11" text-anchor="end" font-family="ui-monospace,monospace">50/411</text>
+<text x="860" y="102" class="dim" font-size="11" text-anchor="end" font-family="ui-monospace,monospace">51/411</text>
 <rect x="20" y="110" width="7" height="7" rx="1.5" class="e"/>
 <rect x="29" y="110" width="7" height="7" rx="1.5" class="e"/>
 <rect x="38" y="110" width="7" height="7" rx="1.5" class="e"/>
@@ -553,7 +553,7 @@
 <rect x="497" y="110" width="7" height="7" rx="1.5" class="e"/>
 <rect x="506" y="110" width="7" height="7" rx="1.5" class="m"/>
 <rect x="515" y="110" width="7" height="7" rx="1.5" class="m"/>
-<rect x="524" y="110" width="7" height="7" rx="1.5" class="none"/>
+<rect x="524" y="110" width="7" height="7" rx="1.5" class="m"/>
 <rect x="533" y="110" width="7" height="7" rx="1.5" class="none"/>
 <rect x="542" y="110" width="7" height="7" rx="1.5" class="none"/>
 <rect x="551" y="110" width="7" height="7" rx="1.5" class="none"/>
@@ -1605,5 +1605,5 @@
 <rect x="794" y="380" width="7" height="7" rx="1.5" class="none"/>
 <rect x="803" y="380" width="7" height="7" rx="1.5" class="none"/>
 <rect x="812" y="380" width="7" height="7" rx="1.5" class="none"/>
-<text x="20" y="411" class="dim" font-size="10.5" font-family="ui-monospace,monospace">184 of 2280 problems solved on Deep-ML  ·  top 8 categories shown</text>
+<text x="20" y="411" class="dim" font-size="10.5" font-family="ui-monospace,monospace">185 of 2280 problems solved on Deep-ML  ·  top 8 categories shown</text>
 </svg>
