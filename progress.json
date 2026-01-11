@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:14:04.442Z",
+  "generated_at": "2026-11-14T14:14:06.432Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -3232,6 +3232,32 @@
       "last_pushed_at": "2026-01-10T20:13:11.276Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:303": {
+      "kind": "problem",
+      "id": "303",
+      "title": "Forward Diffusion Process",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/303",
+      "path": "problems/0303-forward-diffusion-process",
+      "first_solved_at": "2026-01-11T02:16:45.230Z",
+      "last_pushed_at": "2026-01-11T02:16:45.230Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:302": {
+      "kind": "problem",
+      "id": "302",
+      "title": "Diffusion Reconstruction Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/302",
+      "path": "problems/0302-diffusion-reconstruction-loss",
+      "first_solved_at": "2026-01-11T02:42:54.265Z",
+      "last_pushed_at": "2026-01-11T02:42:54.265Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
