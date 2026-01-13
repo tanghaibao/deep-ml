@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**283** solved · 209 problems · 0 labs · 74 math
+**284** solved · 210 problems · 0 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2025-02-08 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2024-08-03 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2024-08-03 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate Batch Prediction Health Metrics](https://www.deep-ml.com/problems/249) | easy | 2026-01-13 | [solution](problems/0249-calculate-batch-prediction-health-metrics) |
 | [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2025-09-03 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2025-08-27 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2024-12-06 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
