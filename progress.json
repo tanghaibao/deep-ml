@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:14:10.779Z",
+  "generated_at": "2026-11-14T14:14:12.590Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -3544,6 +3544,149 @@
       "last_pushed_at": "2026-01-13T07:39:50.696Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:290": {
+      "kind": "problem",
+      "id": "290",
+      "title": "Implement He Weight Initialization",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/290",
+      "path": "problems/0290-implement-he-weight-initialization",
+      "first_solved_at": "2026-01-14T00:36:55.290Z",
+      "last_pushed_at": "2026-01-14T00:36:55.290Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:250": {
+      "kind": "problem",
+      "id": "250",
+      "title": "Calculate SLA Compliance Metrics for Model Service",
+      "difficulty": "easy",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/250",
+      "path": "problems/0250-calculate-sla-compliance-metrics-for-model-service",
+      "first_solved_at": "2026-01-14T00:45:21.326Z",
+      "last_pushed_at": "2026-01-14T00:45:21.326Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:248": {
+      "kind": "problem",
+      "id": "248",
+      "title": "Calculate Model Inference Statistics for Monitoring",
+      "difficulty": "easy",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/248",
+      "path": "problems/0248-calculate-model-inference-statistics-for-monitoring",
+      "first_solved_at": "2026-01-14T01:05:42.751Z",
+      "last_pushed_at": "2026-01-14T01:05:42.751Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:238": {
+      "kind": "problem",
+      "id": "238",
+      "title": "Flip an Image Horizontally or Vertically",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/238",
+      "path": "problems/0238-flip-an-image-horizontally-or-vertically",
+      "first_solved_at": "2026-01-14T03:05:54.774Z",
+      "last_pushed_at": "2026-01-14T03:05:54.774Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:226": {
+      "kind": "problem",
+      "id": "226",
+      "title": "Pass@k and Majority Voting Evaluation Metrics",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/226",
+      "path": "problems/0226-pass-k-and-majority-voting-evaluation-metrics",
+      "first_solved_at": "2026-01-14T03:14:08.459Z",
+      "last_pushed_at": "2026-01-14T03:14:08.459Z",
+      "language": "python",
+      "lines": 51
+    },
+    "problem:225": {
+      "kind": "problem",
+      "id": "225",
+      "title": "KL Divergence Estimator for GRPO",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/225",
+      "path": "problems/0225-kl-divergence-estimator-for-grpo",
+      "first_solved_at": "2026-01-14T03:16:57.646Z",
+      "last_pushed_at": "2026-01-14T03:16:57.646Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:224": {
+      "kind": "problem",
+      "id": "224",
+      "title": "Group Relative Advantage for GRPO",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/224",
+      "path": "problems/0224-group-relative-advantage-for-grpo",
+      "first_solved_at": "2026-01-14T03:22:21.459Z",
+      "last_pushed_at": "2026-01-14T03:22:21.459Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:216": {
+      "kind": "problem",
+      "id": "216",
+      "title": "Thanksgiving Feast Predictor: Softmax for Dish Selection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/216",
+      "path": "problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection",
+      "first_solved_at": "2026-01-14T03:26:39.052Z",
+      "last_pushed_at": "2026-01-14T03:26:39.052Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:304": {
+      "kind": "problem",
+      "id": "304",
+      "title": "Forward & Backward Diffusion Process",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/304",
+      "path": "problems/0304-forward-backward-diffusion-process",
+      "first_solved_at": "2026-01-14T05:46:39.377Z",
+      "last_pushed_at": "2026-01-14T05:46:39.377Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:204": {
+      "kind": "problem",
+      "id": "204",
+      "title": "Mutual Information",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/204",
+      "path": "problems/0204-mutual-information",
+      "first_solved_at": "2026-01-14T15:26:19.157Z",
+      "last_pushed_at": "2026-01-14T15:26:19.157Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-01-14T15:49:58.869Z",
+      "last_pushed_at": "2026-01-14T15:49:58.869Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
