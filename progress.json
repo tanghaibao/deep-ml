@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:14:12.590Z",
+  "generated_at": "2026-11-14T14:14:14.727Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -3687,6 +3687,71 @@
       "last_pushed_at": "2026-01-14T15:49:58.869Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-01-16T00:26:22.475Z",
+      "last_pushed_at": "2026-01-16T00:26:22.475Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:331": {
+      "kind": "problem",
+      "id": "331",
+      "title": "Check Linear Independence of Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/331",
+      "path": "problems/0331-check-linear-independence-of-vectors",
+      "first_solved_at": "2026-01-16T00:32:07.747Z",
+      "last_pushed_at": "2026-01-16T00:32:07.747Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:332": {
+      "kind": "problem",
+      "id": "332",
+      "title": "Check if Matrix is Positive Definite",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/332",
+      "path": "problems/0332-check-if-matrix-is-positive-definite",
+      "first_solved_at": "2026-01-16T00:42:24.948Z",
+      "last_pushed_at": "2026-01-16T00:42:24.948Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-01-16T23:22:22.665Z",
+      "last_pushed_at": "2026-01-16T23:22:22.665Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-01-16T23:30:34.775Z",
+      "last_pushed_at": "2026-01-16T23:30:34.775Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }

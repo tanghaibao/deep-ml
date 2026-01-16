@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**295** solved · 221 problems · 0 labs · 74 math
+**300** solved · 226 problems · 0 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2025-10-22 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2025-01-27 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-10-05 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
+| [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-01-16 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2025-08-27 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2025-08-30 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2026-01-12 | [solution](problems/0257-compute-temporal-difference-error) |
@@ -145,6 +146,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2024-08-03 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2025-10-22 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-09-20 | [solution](problems/0121-vector-element-wise-sum) |
+| [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-01-16 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2024-10-03 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-01-08 | [solution](problems/0087-adam-optimizer) |
 | [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-09-23 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
@@ -159,6 +161,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2024-12-07 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Calinski-Harabasz Index for Clustering Evaluation](https://www.deep-ml.com/problems/258) | medium | 2026-01-12 | [solution](problems/0258-calinski-harabasz-index-for-clustering-evaluation) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2025-10-30 | [solution](problems/0182-central-limit-theorem-simulation) |
+| [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-01-16 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-08-25 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2025-11-09 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2025-09-01 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
@@ -217,6 +220,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2024-09-16 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2025-10-25 | [solution](problems/0190-overlapping-max-pooling) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-08-09 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-01-16 | [solution](problems/0309-product-rule-for-derivatives) |
+| [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-01-16 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Reward Model Loss from Pairwise Human Preferences](https://www.deep-ml.com/problems/484) | medium | 2026-09-29 | [solution](problems/0484-reward-model-loss-from-pairwise-human-preferences) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2024-08-09 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2025-08-27 | [solution](problems/0132-simulate-markov-chain-transitions) |
