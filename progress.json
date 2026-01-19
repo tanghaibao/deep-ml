@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:14:19.273Z",
+  "generated_at": "2026-11-14T14:14:52.575Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -4207,6 +4207,149 @@
       "last_pushed_at": "2026-01-18T23:26:33.576Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:254": {
+      "kind": "problem",
+      "id": "254",
+      "title": "Silhouette Score for Clustering Evaluation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/254",
+      "path": "problems/0254-silhouette-score-for-clustering-evaluation",
+      "first_solved_at": "2026-01-19T00:04:36.592Z",
+      "last_pushed_at": "2026-01-19T00:04:36.592Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:278": {
+      "kind": "problem",
+      "id": "278",
+      "title": "Implement Precision-Recall Curve",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/278",
+      "path": "problems/0278-implement-precision-recall-curve",
+      "first_solved_at": "2026-01-19T00:25:19.960Z",
+      "last_pushed_at": "2026-01-19T00:25:19.960Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:255": {
+      "kind": "problem",
+      "id": "255",
+      "title": "Implement Focal Loss for Imbalanced Classification",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/255",
+      "path": "problems/0255-implement-focal-loss-for-imbalanced-classification",
+      "first_solved_at": "2026-01-19T04:25:58.448Z",
+      "last_pushed_at": "2026-01-19T04:25:58.448Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:228": {
+      "kind": "problem",
+      "id": "228",
+      "title": "Budget-Constrained RL Loss",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/228",
+      "path": "problems/0228-budget-constrained-rl-loss",
+      "first_solved_at": "2026-01-19T04:58:24.254Z",
+      "last_pushed_at": "2026-01-19T04:58:24.254Z",
+      "language": "python",
+      "lines": 29
+    },
+    "lab:4": {
+      "kind": "lab",
+      "id": "4",
+      "title": "MNIST: Classification Loss (with Gradient)",
+      "difficulty": "hard",
+      "category": "Loss Functions",
+      "url": "https://www.deep-ml.com/labs/4",
+      "path": "labs/0004-mnist-classification-loss-with-gradient",
+      "first_solved_at": "2026-01-19T05:08:48.999Z",
+      "last_pushed_at": "2026-01-19T05:08:48.999Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:152": {
+      "kind": "problem",
+      "id": "152",
+      "title": "Implementing ROUGE Score",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/152",
+      "path": "problems/0152-implementing-rouge-score",
+      "first_solved_at": "2026-01-19T13:47:11.344Z",
+      "last_pushed_at": "2026-01-19T13:47:11.344Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:287": {
+      "kind": "problem",
+      "id": "287",
+      "title": "Implement GRU Cell",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/287",
+      "path": "problems/0287-implement-gru-cell",
+      "first_solved_at": "2026-01-19T14:06:43.064Z",
+      "last_pushed_at": "2026-01-19T14:06:43.064Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:296": {
+      "kind": "problem",
+      "id": "296",
+      "title": "Calculate Statistical Power for Experiment Design",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/296",
+      "path": "problems/0296-calculate-statistical-power-for-experiment-design",
+      "first_solved_at": "2026-01-19T19:33:13.658Z",
+      "last_pushed_at": "2026-01-19T19:33:13.658Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:211": {
+      "kind": "problem",
+      "id": "211",
+      "title": "Two-Sample T-Test Implementation",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/211",
+      "path": "problems/0211-two-sample-t-test-implementation",
+      "first_solved_at": "2026-01-19T19:44:42.882Z",
+      "last_pushed_at": "2026-01-19T19:44:42.882Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:236": {
+      "kind": "problem",
+      "id": "236",
+      "title": "Mean Ablation for Circuit Discovery",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/236",
+      "path": "problems/0236-mean-ablation-for-circuit-discovery",
+      "first_solved_at": "2026-01-19T23:31:34.637Z",
+      "last_pushed_at": "2026-01-19T23:31:34.637Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:260": {
+      "kind": "problem",
+      "id": "260",
+      "title": "Calculate Expected Calibration Error (ECE)",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/260",
+      "path": "problems/0260-calculate-expected-calibration-error-ece",
+      "first_solved_at": "2026-01-19T23:47:54.764Z",
+      "last_pushed_at": "2026-01-19T23:47:54.764Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }

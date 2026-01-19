@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**335** solved · 261 problems · 0 labs · 74 math
+**346** solved · 271 problems · 1 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -158,15 +158,18 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-01-08 | [solution](problems/0079-binomial-distribution-probability) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-01-18 | [solution](problems/0246-birthday-problem-probability) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-01-11 | [solution](problems/0090-bm25-ranking) |
+| [Budget-Constrained RL Loss](https://www.deep-ml.com/problems/228) | medium | 2026-01-19 | [solution](problems/0228-budget-constrained-rl-loss) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2025-10-14 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-04 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-01-18 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-08-03 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-03 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Calculate Expected Calibration Error (ECE)](https://www.deep-ml.com/problems/260) | medium | 2026-01-19 | [solution](problems/0260-calculate-expected-calibration-error-ece) |
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2025-08-31 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
 | [Calculate Matthews Correlation Coefficient](https://www.deep-ml.com/problems/279) | medium | 2026-01-17 | [solution](problems/0279-calculate-matthews-correlation-coefficient) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/291) | medium | 2026-01-18 | [solution](problems/0291-calculate-number-of-parameters-in-neural-network) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2024-12-07 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Calculate Statistical Power for Experiment Design](https://www.deep-ml.com/problems/296) | medium | 2026-01-19 | [solution](problems/0296-calculate-statistical-power-for-experiment-design) |
 | [Calinski-Harabasz Index for Clustering Evaluation](https://www.deep-ml.com/problems/258) | medium | 2026-01-12 | [solution](problems/0258-calinski-harabasz-index-for-clustering-evaluation) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2025-10-30 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-01-17 | [solution](problems/0214-chain-rule-for-composite-functions) |
@@ -208,10 +211,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2025-10-12 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2025-09-01 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Focal Loss](https://www.deep-ml.com/problems/915) | medium | 2026-09-25 | [solution](problems/0915-implement-focal-loss) |
+| [Implement Focal Loss for Imbalanced Classification](https://www.deep-ml.com/problems/255) | medium | 2026-01-19 | [solution](problems/0255-implement-focal-loss-for-imbalanced-classification) |
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-01-18 | [solution](problems/0271-implement-gated-attention) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2024-08-30 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-01-18 | [solution](problems/0288-implement-grid-search) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2025-10-02 | [solution](problems/0126-implement-group-normalization) |
+| [Implement GRU Cell](https://www.deep-ml.com/problems/287) | medium | 2026-01-19 | [solution](problems/0287-implement-gru-cell) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-01-18 | [solution](problems/0294-implement-int8-quantization) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2024-08-21 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Label Smoothing for Multi-Class Cross-Entropy](https://www.deep-ml.com/problems/194) | medium | 2025-11-14 | [solution](problems/0194-implement-label-smoothing-for-multi-class-cross-entropy) |
@@ -222,6 +227,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-02-27 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement MuonClip (qk-clip) for Stabilizing Attention](https://www.deep-ml.com/problems/177) | medium | 2025-11-10 | [solution](problems/0177-implement-muonclip-qk-clip-for-stabilizing-attention) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2025-09-03 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
+| [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-01-19 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-01-27 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-01-18 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2024-09-02 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
@@ -233,6 +239,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/289) | medium | 2026-01-18 | [solution](problems/0289-implement-xavier-glorot-weight-initialization) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2024-09-25 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2024-08-18 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-01-19 | [solution](problems/0152-implementing-rouge-score) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-01-18 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-01-14 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-01-17 | [solution](problems/0203-jensen-shannon-divergence) |
@@ -243,6 +250,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-01-18 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-08-03 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-08-03 | [solution](problems/0007-matrix-transformation) |
+| [Mean Ablation for Circuit Discovery](https://www.deep-ml.com/problems/236) | medium | 2026-01-19 | [solution](problems/0236-mean-ablation-for-circuit-discovery) |
 | [Minimax Algorithm for Tic-Tac-Toe](https://www.deep-ml.com/problems/171) | medium | 2025-09-01 | [solution](problems/0171-minimax-algorithm-for-tic-tac-toe) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-01-18 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-01-14 | [solution](problems/0204-mutual-information) |
@@ -260,6 +268,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-01-18 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-01-16 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Reward Model Loss from Pairwise Human Preferences](https://www.deep-ml.com/problems/484) | medium | 2026-09-29 | [solution](problems/0484-reward-model-loss-from-pairwise-human-preferences) |
+| [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-01-19 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2024-08-09 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2025-08-27 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2024-08-21 | [solution](problems/0025-single-neuron-with-backpropagation) |
@@ -275,6 +284,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2024-08-24 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2024-08-24 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2024-08-21 | [solution](problems/0028-svd-of-a-2x2-matrix) |
+| [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-01-19 | [solution](problems/0211-two-sample-t-test-implementation) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-01-19 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
 ## Math
 
