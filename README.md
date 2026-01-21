@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**360** solved · 283 problems · 3 labs · 74 math
+**362** solved · 285 problems · 3 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -157,6 +157,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2026-01-20 | [solution](problems/0144-apriori-frequent-itemset-mining) |
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-09-28 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-01-17 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
+| [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-01-21 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-01-08 | [solution](problems/0079-binomial-distribution-probability) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-01-18 | [solution](problems/0246-birthday-problem-probability) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-01-20 | [solution](problems/0321-bleu-score-for-text-generation) |
@@ -208,6 +209,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-01-11 | [solution](problems/0303-forward-diffusion-process) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2024-10-07 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2024-10-11 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-01-21 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Gaussian Random Projection (Johnson-Lindenstrauss)](https://www.deep-ml.com/problems/822) | medium | 2026-09-23 | [solution](problems/0822-gaussian-random-projection-johnson-lindenstrauss) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2024-08-09 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2024-08-09 | [solution](problems/0032-generate-sorted-polynomial-features) |
