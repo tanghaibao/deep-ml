@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:14:57.178Z",
+  "generated_at": "2026-11-14T14:14:59.166Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -4558,6 +4558,45 @@
       "last_pushed_at": "2026-01-21T06:40:13.688Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:335": {
+      "kind": "problem",
+      "id": "335",
+      "title": "Train a Paris-Style Decentralized Expert Model",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/335",
+      "path": "problems/0335-train-a-paris-style-decentralized-expert-model",
+      "first_solved_at": "2026-01-22T05:45:05.127Z",
+      "last_pushed_at": "2026-01-22T05:45:05.127Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:336": {
+      "kind": "problem",
+      "id": "336",
+      "title": "Compute Posterior Probability using Bayes' Theorem",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/336",
+      "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
+      "first_solved_at": "2026-01-22T23:51:26.173Z",
+      "last_pushed_at": "2026-01-22T23:51:26.173Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:340": {
+      "kind": "problem",
+      "id": "340",
+      "title": "Exponential Distribution PDF and CDF",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/340",
+      "path": "problems/0340-exponential-distribution-pdf-and-cdf",
+      "first_solved_at": "2026-01-22T23:58:18.398Z",
+      "last_pushed_at": "2026-01-22T23:58:18.398Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
