@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**365** solved · 288 problems · 3 labs · 74 math
+**373** solved · 296 problems · 3 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2024-08-03 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-23 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-11-09 | [solution](problems/1220-create-and-inspect-a-tensor) |
+| [Demonstrate Law of Large Numbers with Sampling](https://www.deep-ml.com/problems/342) | easy | 2026-01-23 | [solution](problems/0342-demonstrate-law-of-large-numbers-with-sampling) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2025-08-27 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-01-12 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2024-12-21 | [solution](problems/0078-descriptive-statistics-calculator) |
@@ -160,6 +161,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-09-28 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-01-17 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-01-21 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
+| [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-01-23 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-01-08 | [solution](problems/0079-binomial-distribution-probability) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-01-18 | [solution](problems/0246-birthday-problem-probability) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-01-20 | [solution](problems/0321-bleu-score-for-text-generation) |
@@ -169,6 +171,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-04 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-01-18 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-08-03 | [solution](problems/0037-calculate-correlation-matrix) |
+| [Calculate Davies-Bouldin Index for Clustering Evaluation](https://www.deep-ml.com/problems/256) | medium | 2026-01-23 | [solution](problems/0256-calculate-davies-bouldin-index-for-clustering-evaluation) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-03 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Expected Calibration Error (ECE)](https://www.deep-ml.com/problems/260) | medium | 2026-01-19 | [solution](problems/0260-calculate-expected-calibration-error-ece) |
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2025-08-31 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
@@ -215,6 +218,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Random Projection (Johnson-Lindenstrauss)](https://www.deep-ml.com/problems/822) | medium | 2026-09-23 | [solution](problems/0822-gaussian-random-projection-johnson-lindenstrauss) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2024-08-09 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2024-08-09 | [solution](problems/0032-generate-sorted-polynomial-features) |
+| [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-01-23 | [solution](problems/0197-gradient-clipping-by-global-norm) |
+| [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-01-23 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-01-18 | [solution](problems/0245-hypergeometric-distribution-pmf) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2024-09-05 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2025-10-12 | [solution](problems/0169-implement-adamw-optimizer-step) |
@@ -229,6 +234,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement GRU Cell](https://www.deep-ml.com/problems/287) | medium | 2026-01-19 | [solution](problems/0287-implement-gru-cell) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-01-18 | [solution](problems/0294-implement-int8-quantization) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2024-08-21 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-01-23 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Label Smoothing for Multi-Class Cross-Entropy](https://www.deep-ml.com/problems/194) | medium | 2025-11-14 | [solution](problems/0194-implement-label-smoothing-for-multi-class-cross-entropy) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2024-09-09 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-03-14 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
@@ -246,6 +252,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2024-09-25 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-01-20 | [solution](problems/0275-implement-stratified-train-test-split) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2024-10-18 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
+| [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2026-01-23 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2025-11-09 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2025-10-01 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/289) | medium | 2026-01-18 | [solution](problems/0289-implement-xavier-glorot-weight-initialization) |
@@ -263,6 +270,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-01-18 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-08-03 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-08-03 | [solution](problems/0007-matrix-transformation) |
+| [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-01-23 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Mean Ablation for Circuit Discovery](https://www.deep-ml.com/problems/236) | medium | 2026-01-19 | [solution](problems/0236-mean-ablation-for-circuit-discovery) |
 | [Minimax Algorithm for Tic-Tac-Toe](https://www.deep-ml.com/problems/171) | medium | 2025-09-01 | [solution](problems/0171-minimax-algorithm-for-tic-tac-toe) |
 | [Mixed Precision Training](https://www.deep-ml.com/problems/160) | medium | 2026-01-20 | [solution](problems/0160-mixed-precision-training) |
