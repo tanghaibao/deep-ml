@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:15:01.002Z",
+  "generated_at": "2026-11-14T14:15:03.521Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -4701,6 +4701,45 @@
       "last_pushed_at": "2026-01-23T22:13:35.253Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:306": {
+      "kind": "problem",
+      "id": "306",
+      "title": "Implement Soft Voting Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/306",
+      "path": "problems/0306-implement-soft-voting-classifier",
+      "first_solved_at": "2026-01-24T00:26:25.570Z",
+      "last_pushed_at": "2026-01-24T00:26:25.570Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:229": {
+      "kind": "problem",
+      "id": "229",
+      "title": "Sparse MoE Top-K Routing",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/229",
+      "path": "problems/0229-sparse-moe-top-k-routing",
+      "first_solved_at": "2026-01-24T04:20:48.889Z",
+      "last_pushed_at": "2026-01-24T04:20:48.889Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:133": {
+      "kind": "problem",
+      "id": "133",
+      "title": "Implement Q-Learning Algorithm for MDPs",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/133",
+      "path": "problems/0133-implement-q-learning-algorithm-for-mdps",
+      "first_solved_at": "2026-01-24T20:31:39.558Z",
+      "last_pushed_at": "2026-01-24T20:31:39.558Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
