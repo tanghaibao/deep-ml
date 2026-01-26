@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:15:05.513Z",
+  "generated_at": "2026-11-14T14:15:08.291Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -4896,6 +4896,71 @@
       "last_pushed_at": "2026-01-25T22:48:09.731Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:191": {
+      "kind": "problem",
+      "id": "191",
+      "title": "PCA Color Augmentation",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/191",
+      "path": "problems/0191-pca-color-augmentation",
+      "first_solved_at": "2026-01-26T02:09:09.680Z",
+      "last_pushed_at": "2026-01-26T02:09:09.680Z",
+      "language": "python",
+      "lines": 24
+    },
+    "lab:9": {
+      "kind": "lab",
+      "id": "9",
+      "title": "Design Your Own Activation Function",
+      "difficulty": "easy",
+      "category": "Activation Functions",
+      "url": "https://www.deep-ml.com/labs/9",
+      "path": "labs/0009-design-your-own-activation-function",
+      "first_solved_at": "2026-01-26T02:14:51.917Z",
+      "last_pushed_at": "2026-01-26T02:14:51.917Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:94": {
+      "kind": "problem",
+      "id": "94",
+      "title": "Implement Multi-Head Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/94",
+      "path": "problems/0094-implement-multi-head-attention",
+      "first_solved_at": "2026-01-26T02:38:42.122Z",
+      "last_pushed_at": "2026-01-26T02:38:42.122Z",
+      "language": "python",
+      "lines": 40
+    },
+    "problem:85": {
+      "kind": "problem",
+      "id": "85",
+      "title": "Positional Encoding Calculator",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/85",
+      "path": "problems/0085-positional-encoding-calculator",
+      "first_solved_at": "2026-01-26T06:34:17.118Z",
+      "last_pushed_at": "2026-01-26T06:34:17.118Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:88": {
+      "kind": "problem",
+      "id": "88",
+      "title": "GPT-2 Text Generation",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/88",
+      "path": "problems/0088-gpt-2-text-generation",
+      "first_solved_at": "2026-01-26T20:34:02.992Z",
+      "last_pushed_at": "2026-01-26T20:34:02.992Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }

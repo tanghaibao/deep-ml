@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**388** solved · 309 problems · 5 labs · 74 math
+**393** solved · 313 problems · 6 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -314,10 +314,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-01-20 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-21 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-08-08 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-01-26 | [solution](problems/0088-gpt-2-text-generation) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2024-10-28 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2024-08-24 | [solution](problems/0038-implement-adaboost-fit-method) |
+| [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-01-26 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2024-08-08 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
+| [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-01-26 | [solution](problems/0191-pca-color-augmentation) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2024-08-24 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
+| [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-01-26 | [solution](problems/0085-positional-encoding-calculator) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-01-25 | [solution](problems/0201-qr-decomposition) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2024-08-24 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2024-08-21 | [solution](problems/0028-svd-of-a-2x2-matrix) |
@@ -328,6 +332,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-01-26 | [solution](labs/0009-design-your-own-activation-function) |
 | [Dimensionality Reduction with Sklearn](https://www.deep-ml.com/labs/15) | easy | 2026-01-25 | [solution](labs/0015-dimensionality-reduction-with-sklearn) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-01-20 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-01-25 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
