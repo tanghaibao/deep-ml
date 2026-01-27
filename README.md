@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**393** solved · 313 problems · 6 labs · 74 math
+**399** solved · 319 problems · 6 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -184,6 +184,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-01-17 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-01-16 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-08-25 | [solution](problems/0176-chi-square-probability-distribution) |
+| [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-01-27 | [solution](problems/0334-cholesky-decomposition) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-01-17 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2025-11-09 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-01-17 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |
@@ -212,6 +213,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2025-08-25 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2025-08-25 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2024-11-11 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
+| [First-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/272) | medium | 2026-01-27 | [solution](problems/0272-first-visit-monte-carlo-prediction) |
 | [Forward & Backward Diffusion Process](https://www.deep-ml.com/problems/304) | medium | 2026-01-14 | [solution](problems/0304-forward-backward-diffusion-process) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-01-11 | [solution](problems/0303-forward-diffusion-process) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2024-10-07 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
@@ -314,9 +316,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-01-20 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-21 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-08-08 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-01-27 | [solution](problems/0186-gaussian-process-for-regression) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-01-26 | [solution](problems/0088-gpt-2-text-generation) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2024-10-28 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2024-08-24 | [solution](problems/0038-implement-adaboost-fit-method) |
+| [Implement Kernel PCA with RBF Kernel](https://www.deep-ml.com/problems/349) | hard | 2026-01-27 | [solution](problems/0349-implement-kernel-pca-with-rbf-kernel) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-01-26 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2024-08-08 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-01-26 | [solution](problems/0191-pca-color-augmentation) |
@@ -325,6 +329,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-01-25 | [solution](problems/0201-qr-decomposition) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2024-08-24 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2024-08-21 | [solution](problems/0028-svd-of-a-2x2-matrix) |
+| [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-01-27 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
+| [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-01-27 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-01-19 | [solution](problems/0211-two-sample-t-test-implementation) |
 | [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-01-25 | [solution](problems/0206-variational-inference-elbo-computation) |
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:15:08.291Z",
+  "generated_at": "2026-11-14T14:15:10.503Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -4961,6 +4961,84 @@
       "last_pushed_at": "2026-01-26T20:34:02.992Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:272": {
+      "kind": "problem",
+      "id": "272",
+      "title": "First-Visit Monte Carlo Prediction",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/272",
+      "path": "problems/0272-first-visit-monte-carlo-prediction",
+      "first_solved_at": "2026-01-27T00:47:19.274Z",
+      "last_pushed_at": "2026-01-27T00:47:19.274Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:334": {
+      "kind": "problem",
+      "id": "334",
+      "title": "Cholesky Decomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/334",
+      "path": "problems/0334-cholesky-decomposition",
+      "first_solved_at": "2026-01-27T01:12:50.276Z",
+      "last_pushed_at": "2026-01-27T01:12:50.276Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:186": {
+      "kind": "problem",
+      "id": "186",
+      "title": "Gaussian Process for Regression",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/186",
+      "path": "problems/0186-gaussian-process-for-regression",
+      "first_solved_at": "2026-01-27T04:39:22.036Z",
+      "last_pushed_at": "2026-01-27T04:39:22.036Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:349": {
+      "kind": "problem",
+      "id": "349",
+      "title": "Implement Kernel PCA with RBF Kernel",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/349",
+      "path": "problems/0349-implement-kernel-pca-with-rbf-kernel",
+      "first_solved_at": "2026-01-27T12:32:42.426Z",
+      "last_pushed_at": "2026-01-27T12:32:42.426Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:106": {
+      "kind": "problem",
+      "id": "106",
+      "title": "Train Logistic Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/106",
+      "path": "problems/0106-train-logistic-regression-with-gradient-descent",
+      "first_solved_at": "2026-01-27T22:13:38.322Z",
+      "last_pushed_at": "2026-01-27T22:13:38.322Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:105": {
+      "kind": "problem",
+      "id": "105",
+      "title": "Train Softmax Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/105",
+      "path": "problems/0105-train-softmax-regression-with-gradient-descent",
+      "first_solved_at": "2026-01-27T22:19:38.175Z",
+      "last_pushed_at": "2026-01-27T22:19:38.175Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
