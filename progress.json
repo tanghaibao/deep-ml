@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:15:10.503Z",
+  "generated_at": "2026-11-14T14:15:12.369Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -5039,6 +5039,110 @@
       "last_pushed_at": "2026-01-27T22:19:38.175Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:137": {
+      "kind": "problem",
+      "id": "137",
+      "title": "Implement a Dense Block with 2D Convolutions",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/137",
+      "path": "problems/0137-implement-a-dense-block-with-2d-convolutions",
+      "first_solved_at": "2026-01-28T06:06:28.823Z",
+      "last_pushed_at": "2026-01-28T06:06:28.823Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:350": {
+      "kind": "problem",
+      "id": "350",
+      "title": "Calculate Explained Variance Ratio for PCA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/350",
+      "path": "problems/0350-calculate-explained-variance-ratio-for-pca",
+      "first_solved_at": "2026-01-28T06:14:55.297Z",
+      "last_pushed_at": "2026-01-28T06:14:55.297Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:353": {
+      "kind": "problem",
+      "id": "353",
+      "title": "Reconstruction Error from PCA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/353",
+      "path": "problems/0353-reconstruction-error-from-pca",
+      "first_solved_at": "2026-01-28T06:22:54.318Z",
+      "last_pushed_at": "2026-01-28T06:22:54.318Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:326": {
+      "kind": "problem",
+      "id": "326",
+      "title": "MMLU Letter-Matching Evaluation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/326",
+      "path": "problems/0326-mmlu-letter-matching-evaluation",
+      "first_solved_at": "2026-01-28T18:43:35.012Z",
+      "last_pushed_at": "2026-01-28T18:43:35.012Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:63": {
+      "kind": "problem",
+      "id": "63",
+      "title": "Implement the Conjugate Gradient Method for Solving Linear Systems",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/63",
+      "path": "problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems",
+      "first_solved_at": "2026-01-28T22:00:23.027Z",
+      "last_pushed_at": "2026-01-28T22:00:23.027Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:356": {
+      "kind": "problem",
+      "id": "356",
+      "title": "Label Encoding for Ordinal Variables",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/356",
+      "path": "problems/0356-label-encoding-for-ordinal-variables",
+      "first_solved_at": "2026-01-28T22:18:50.163Z",
+      "last_pushed_at": "2026-01-28T22:18:50.163Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:352": {
+      "kind": "problem",
+      "id": "352",
+      "title": "Implement t-SNE Gradient Calculation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/352",
+      "path": "problems/0352-implement-t-sne-gradient-calculation",
+      "first_solved_at": "2026-01-28T23:02:45.878Z",
+      "last_pushed_at": "2026-01-28T23:02:45.878Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:355": {
+      "kind": "problem",
+      "id": "355",
+      "title": "Outlier Detection and Removal Using IQR Method",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/355",
+      "path": "problems/0355-outlier-detection-and-removal-using-iqr-method",
+      "first_solved_at": "2026-01-28T23:30:17.879Z",
+      "last_pushed_at": "2026-01-28T23:30:17.879Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }

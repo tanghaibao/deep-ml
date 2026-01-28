@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**399** solved · 319 problems · 6 labs · 74 math
+**407** solved · 327 problems · 6 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -115,6 +115,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2024-10-07 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [KL Divergence Estimator for GRPO](https://www.deep-ml.com/problems/225) | easy | 2026-01-14 | [solution](problems/0225-kl-divergence-estimator-for-grpo) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-20 | [solution](problems/1022-l2-normalization-along-an-axis) |
+| [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-01-28 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2024-08-21 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2024-08-21 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2024-08-09 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -174,6 +175,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Davies-Bouldin Index for Clustering Evaluation](https://www.deep-ml.com/problems/256) | medium | 2026-01-23 | [solution](problems/0256-calculate-davies-bouldin-index-for-clustering-evaluation) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-03 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Expected Calibration Error (ECE)](https://www.deep-ml.com/problems/260) | medium | 2026-01-19 | [solution](problems/0260-calculate-expected-calibration-error-ece) |
+| [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-01-28 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2025-08-31 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
 | [Calculate Matthews Correlation Coefficient](https://www.deep-ml.com/problems/279) | medium | 2026-01-17 | [solution](problems/0279-calculate-matthews-correlation-coefficient) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/291) | medium | 2026-01-18 | [solution](problems/0291-calculate-number-of-parameters-in-neural-network) |
@@ -258,6 +260,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2024-09-25 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-01-24 | [solution](problems/0306-implement-soft-voting-classifier) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-01-20 | [solution](problems/0275-implement-stratified-train-test-split) |
+| [Implement t-SNE Gradient Calculation](https://www.deep-ml.com/problems/352) | medium | 2026-01-28 | [solution](problems/0352-implement-t-sne-gradient-calculation) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2024-10-18 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2026-01-23 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2025-11-09 | [solution](problems/0192-implement-the-huber-loss-function) |
@@ -285,6 +288,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Ablation for Circuit Discovery](https://www.deep-ml.com/problems/236) | medium | 2026-01-19 | [solution](problems/0236-mean-ablation-for-circuit-discovery) |
 | [Minimax Algorithm for Tic-Tac-Toe](https://www.deep-ml.com/problems/171) | medium | 2025-09-01 | [solution](problems/0171-minimax-algorithm-for-tic-tac-toe) |
 | [Mixed Precision Training](https://www.deep-ml.com/problems/160) | medium | 2026-01-20 | [solution](problems/0160-mixed-precision-training) |
+| [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-01-28 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-01-18 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-01-14 | [solution](problems/0204-mutual-information) |
 | [n-Step TD Prediction](https://www.deep-ml.com/problems/273) | medium | 2026-01-25 | [solution](problems/0273-n-step-td-prediction) |
@@ -295,12 +299,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-01-17 | [solution](problems/0313-numerical-gradient-checking) |
 | [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2025-10-29 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2024-09-16 | [solution](problems/0051-optimal-string-alignment-distance) |
+| [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-01-28 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2025-10-25 | [solution](problems/0190-overlapping-max-pooling) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-01-17 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-08-09 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-01-16 | [solution](problems/0309-product-rule-for-derivatives) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-01-18 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-01-16 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-01-28 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [Reward Model Loss from Pairwise Human Preferences](https://www.deep-ml.com/problems/484) | medium | 2026-09-29 | [solution](problems/0484-reward-model-loss-from-pairwise-human-preferences) |
 | [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-01-19 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2024-08-09 | [solution](problems/0041-simple-convolutional-2d-layer) |
@@ -318,10 +324,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-08-08 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-01-27 | [solution](problems/0186-gaussian-process-for-regression) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-01-26 | [solution](problems/0088-gpt-2-text-generation) |
+| [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-01-28 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2024-10-28 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2024-08-24 | [solution](problems/0038-implement-adaboost-fit-method) |
 | [Implement Kernel PCA with RBF Kernel](https://www.deep-ml.com/problems/349) | hard | 2026-01-27 | [solution](problems/0349-implement-kernel-pca-with-rbf-kernel) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-01-26 | [solution](problems/0094-implement-multi-head-attention) |
+| [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-01-28 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2024-08-08 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-01-26 | [solution](problems/0191-pca-color-augmentation) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2024-08-24 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
