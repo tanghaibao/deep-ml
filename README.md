@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**421** solved · 341 problems · 6 labs · 74 math
+**430** solved · 350 problems · 6 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -204,6 +204,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Count Trainable Parameters with Weight Tying in a GPT Model](https://www.deep-ml.com/problems/1009) | medium | 2026-10-04 | [solution](problems/1009-count-trainable-parameters-with-weight-tying-in-a-gpt-model) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2024-12-07 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-11-14 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
+| [Data Quality Scoring for ML Pipelines](https://www.deep-ml.com/problems/252) | medium | 2026-01-30 | [solution](problems/0252-data-quality-scoring-for-ml-pipelines) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-01-17 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-01-17 | [solution](problems/0219-derivative-of-softmax) |
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-01-11 | [solution](problems/0302-diffusion-reconstruction-loss) |
@@ -229,6 +230,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Random Projection (Johnson-Lindenstrauss)](https://www.deep-ml.com/problems/822) | medium | 2026-09-23 | [solution](problems/0822-gaussian-random-projection-johnson-lindenstrauss) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2024-08-09 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2024-08-09 | [solution](problems/0032-generate-sorted-polynomial-features) |
+| [Gradient Bandit Action Selection](https://www.deep-ml.com/problems/163) | medium | 2026-01-30 | [solution](problems/0163-gradient-bandit-action-selection) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-01-23 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-01-23 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-01-29 | [solution](problems/0354-handle-missing-data-with-imputation) |
@@ -236,7 +238,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2024-09-05 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2025-10-12 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2025-09-01 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
+| [Implement DBSCAN Clustering Algorithm](https://www.deep-ml.com/problems/259) | medium | 2026-01-30 | [solution](problems/0259-implement-dbscan-clustering-algorithm) |
 | [Implement Efficient Sparse Window Attention](https://www.deep-ml.com/problems/131) | medium | 2026-01-20 | [solution](problems/0131-implement-efficient-sparse-window-attention) |
+| [Implement Entropy-based Split Selection](https://www.deep-ml.com/problems/284) | medium | 2026-01-30 | [solution](problems/0284-implement-entropy-based-split-selection) |
 | [Implement Focal Loss](https://www.deep-ml.com/problems/915) | medium | 2026-09-25 | [solution](problems/0915-implement-focal-loss) |
 | [Implement Focal Loss for Imbalanced Classification](https://www.deep-ml.com/problems/255) | medium | 2026-01-19 | [solution](problems/0255-implement-focal-loss-for-imbalanced-classification) |
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-01-18 | [solution](problems/0271-implement-gated-attention) |
@@ -257,6 +261,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Out-of-Bag Score Calculation](https://www.deep-ml.com/problems/345) | medium | 2026-01-29 | [solution](problems/0345-implement-out-of-bag-score-calculation) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2025-09-03 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-01-19 | [solution](problems/0278-implement-precision-recall-curve) |
+| [Implement Prediction Distribution Monitoring](https://www.deep-ml.com/problems/295) | medium | 2026-01-30 | [solution](problems/0295-implement-prediction-distribution-monitoring) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-01-27 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2026-01-24 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
 | [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-01-29 | [solution](problems/0343-implement-random-forest-feature-importance) |
@@ -298,6 +303,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mixed Precision Training](https://www.deep-ml.com/problems/160) | medium | 2026-01-20 | [solution](problems/0160-mixed-precision-training) |
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-01-28 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-01-18 | [solution](problems/0316-mmlu-log-probability-scoring) |
+| [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-01-30 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
+| [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2026-01-30 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-01-14 | [solution](problems/0204-mutual-information) |
 | [n-Step TD Prediction](https://www.deep-ml.com/problems/273) | medium | 2026-01-25 | [solution](problems/0273-n-step-td-prediction) |
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-01-18 | [solution](problems/0247-negative-binomial-distribution-probability) |
@@ -331,6 +338,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train a Paris-Style Decentralized Expert Model](https://www.deep-ml.com/problems/335) | medium | 2026-01-22 | [solution](problems/0335-train-a-paris-style-decentralized-expert-model) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-09-21 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-01-20 | [solution](problems/0196-warmup-cosine-decay-schedule) |
+| [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-01-30 | [solution](problems/0347-xgboost-objective-function-calculation) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-21 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-08-08 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Gambler's Problem: Value Iteration](https://www.deep-ml.com/problems/164) | hard | 2026-01-29 | [solution](problems/0164-gambler-s-problem-value-iteration) |
@@ -344,6 +352,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-01-28 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-01-29 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2024-08-08 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
+| [Monte Carlo Tree Search](https://www.deep-ml.com/problems/207) | hard | 2026-01-30 | [solution](problems/0207-monte-carlo-tree-search) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-01-26 | [solution](problems/0191-pca-color-augmentation) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2024-08-24 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2026-01-29 | [solution](problems/0122-policy-gradient-with-reinforce) |

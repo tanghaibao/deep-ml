@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:17:29.867Z",
+  "generated_at": "2026-11-14T14:17:32.897Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -5325,6 +5325,123 @@
       "last_pushed_at": "2026-01-29T19:18:52.789Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:163": {
+      "kind": "problem",
+      "id": "163",
+      "title": "Gradient Bandit Action Selection",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/163",
+      "path": "problems/0163-gradient-bandit-action-selection",
+      "first_solved_at": "2026-01-30T01:38:44.534Z",
+      "last_pushed_at": "2026-01-30T01:38:44.534Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:170": {
+      "kind": "problem",
+      "id": "170",
+      "title": "Muon Optimizer Step with Matrix Preconditioning",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/170",
+      "path": "problems/0170-muon-optimizer-step-with-matrix-preconditioning",
+      "first_solved_at": "2026-01-30T04:44:29.753Z",
+      "last_pushed_at": "2026-01-30T04:44:29.753Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:172": {
+      "kind": "problem",
+      "id": "172",
+      "title": "Muon Optimizer Update with Newton-Schulz Iteration",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/172",
+      "path": "problems/0172-muon-optimizer-update-with-newton-schulz-iteration",
+      "first_solved_at": "2026-01-30T05:16:34.036Z",
+      "last_pushed_at": "2026-01-30T05:16:34.036Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:295": {
+      "kind": "problem",
+      "id": "295",
+      "title": "Implement Prediction Distribution Monitoring",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/295",
+      "path": "problems/0295-implement-prediction-distribution-monitoring",
+      "first_solved_at": "2026-01-30T05:31:24.027Z",
+      "last_pushed_at": "2026-01-30T05:31:24.027Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:207": {
+      "kind": "problem",
+      "id": "207",
+      "title": "Monte Carlo Tree Search",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/207",
+      "path": "problems/0207-monte-carlo-tree-search",
+      "first_solved_at": "2026-01-30T21:17:27.849Z",
+      "last_pushed_at": "2026-01-30T21:17:27.849Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:347": {
+      "kind": "problem",
+      "id": "347",
+      "title": "XGBoost Objective Function Calculation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/347",
+      "path": "problems/0347-xgboost-objective-function-calculation",
+      "first_solved_at": "2026-01-30T21:34:27.150Z",
+      "last_pushed_at": "2026-01-30T21:34:27.150Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:259": {
+      "kind": "problem",
+      "id": "259",
+      "title": "Implement DBSCAN Clustering Algorithm",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/259",
+      "path": "problems/0259-implement-dbscan-clustering-algorithm",
+      "first_solved_at": "2026-01-30T22:36:26.196Z",
+      "last_pushed_at": "2026-01-30T22:36:26.196Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:252": {
+      "kind": "problem",
+      "id": "252",
+      "title": "Data Quality Scoring for ML Pipelines",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/252",
+      "path": "problems/0252-data-quality-scoring-for-ml-pipelines",
+      "first_solved_at": "2026-01-30T23:00:09.616Z",
+      "last_pushed_at": "2026-01-30T23:00:09.616Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:284": {
+      "kind": "problem",
+      "id": "284",
+      "title": "Implement Entropy-based Split Selection",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/284",
+      "path": "problems/0284-implement-entropy-based-split-selection",
+      "first_solved_at": "2026-01-30T23:29:20.243Z",
+      "last_pushed_at": "2026-01-30T23:29:20.243Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
