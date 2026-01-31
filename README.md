@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**430** solved · 350 problems · 6 labs · 74 math
+**436** solved · 354 problems · 8 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -210,6 +210,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-01-11 | [solution](problems/0302-diffusion-reconstruction-loss) |
 | [Distance Correlation for Measuring Metadata Dependence](https://www.deep-ml.com/problems/359) | medium | 2026-01-29 | [solution](problems/0359-distance-correlation-for-measuring-metadata-dependence) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2024-08-09 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
+| [Domain Expert Model Fusion](https://www.deep-ml.com/problems/348) | medium | 2026-01-31 | [solution](problems/0348-domain-expert-model-fusion) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2025-10-08 | [solution](problems/0151-dropout-layer) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-01-20 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-01-17 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
@@ -218,6 +219,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2025-10-21 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Evaluate Expected Value in a Markov Decision Process](https://www.deep-ml.com/problems/166) | medium | 2026-01-18 | [solution](problems/0166-evaluate-expected-value-in-a-markov-decision-process) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2025-08-25 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
+| [Feature Drift Detection using Population Stability Index](https://www.deep-ml.com/problems/253) | medium | 2026-01-31 | [solution](problems/0253-feature-drift-detection-using-population-stability-index) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2025-08-25 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2024-11-11 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [First-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/272) | medium | 2026-01-27 | [solution](problems/0272-first-visit-monte-carlo-prediction) |
@@ -257,6 +259,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2025-10-28 | [solution](problems/0189-implement-local-response-normalization-lrn) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2024-10-16 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-02-27 | [solution](problems/0107-implement-masked-self-attention) |
+| [Implement mHC Forward Pass](https://www.deep-ml.com/problems/298) | medium | 2026-01-31 | [solution](problems/0298-implement-mhc-forward-pass) |
 | [Implement MuonClip (qk-clip) for Stabilizing Attention](https://www.deep-ml.com/problems/177) | medium | 2025-11-10 | [solution](problems/0177-implement-muonclip-qk-clip-for-stabilizing-attention) |
 | [Implement Out-of-Bag Score Calculation](https://www.deep-ml.com/problems/345) | medium | 2026-01-29 | [solution](problems/0345-implement-out-of-bag-score-calculation) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2025-09-03 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
@@ -341,6 +344,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-01-30 | [solution](problems/0347-xgboost-objective-function-calculation) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-21 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-08-08 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-01-31 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [Gambler's Problem: Value Iteration](https://www.deep-ml.com/problems/164) | hard | 2026-01-29 | [solution](problems/0164-gambler-s-problem-value-iteration) |
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-01-27 | [solution](problems/0186-gaussian-process-for-regression) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-01-26 | [solution](problems/0088-gpt-2-text-generation) |
@@ -372,8 +376,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-01-26 | [solution](labs/0009-design-your-own-activation-function) |
 | [Dimensionality Reduction with Sklearn](https://www.deep-ml.com/labs/15) | easy | 2026-01-25 | [solution](labs/0015-dimensionality-reduction-with-sklearn) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-01-20 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
+| [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2026-01-31 | [solution](labs/0001-mnist-pytorch-dataloader) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-01-25 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-01-20 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
+| [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-01-31 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-01-19 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
 ## Math

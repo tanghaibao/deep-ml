@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:17:32.897Z",
+  "generated_at": "2026-11-14T14:17:34.959Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -5442,6 +5442,84 @@
       "last_pushed_at": "2026-01-30T23:29:20.243Z",
       "language": "python",
       "lines": 33
+    },
+    "lab:6": {
+      "kind": "lab",
+      "id": "6",
+      "title": "MNIST: Build Neural Network from Scratch (NumPy Only)",
+      "difficulty": "hard",
+      "category": "Neural Network Fundamentals",
+      "url": "https://www.deep-ml.com/labs/6",
+      "path": "labs/0006-mnist-build-neural-network-from-scratch-numpy-only",
+      "first_solved_at": "2026-01-31T03:40:38.824Z",
+      "last_pushed_at": "2026-01-31T03:40:38.824Z",
+      "language": "python",
+      "lines": 125
+    },
+    "lab:1": {
+      "kind": "lab",
+      "id": "1",
+      "title": "MNIST: Pytorch DataLoader",
+      "difficulty": "medium",
+      "category": "Data Pipelines",
+      "url": "https://www.deep-ml.com/labs/1",
+      "path": "labs/0001-mnist-pytorch-dataloader",
+      "first_solved_at": "2026-01-31T04:50:17.094Z",
+      "last_pushed_at": "2026-01-31T04:50:17.094Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:208": {
+      "kind": "problem",
+      "id": "208",
+      "title": "Flash Attention v1 - Forward Pass",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/208",
+      "path": "problems/0208-flash-attention-v1-forward-pass",
+      "first_solved_at": "2026-01-31T05:32:05.828Z",
+      "last_pushed_at": "2026-01-31T05:32:05.828Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:298": {
+      "kind": "problem",
+      "id": "298",
+      "title": "Implement mHC Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/298",
+      "path": "problems/0298-implement-mhc-forward-pass",
+      "first_solved_at": "2026-01-31T06:08:03.668Z",
+      "last_pushed_at": "2026-01-31T06:08:03.668Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:348": {
+      "kind": "problem",
+      "id": "348",
+      "title": "Domain Expert Model Fusion",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/348",
+      "path": "problems/0348-domain-expert-model-fusion",
+      "first_solved_at": "2026-01-31T06:41:07.652Z",
+      "last_pushed_at": "2026-01-31T06:41:07.652Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:253": {
+      "kind": "problem",
+      "id": "253",
+      "title": "Feature Drift Detection using Population Stability Index",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/253",
+      "path": "problems/0253-feature-drift-detection-using-population-stability-index",
+      "first_solved_at": "2026-01-31T07:23:56.141Z",
+      "last_pushed_at": "2026-01-31T07:23:56.141Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
