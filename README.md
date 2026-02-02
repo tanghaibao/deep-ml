@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**440** solved · 358 problems · 8 labs · 74 math
+**447** solved · 363 problems · 10 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -166,6 +166,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-01-08 | [solution](problems/0079-binomial-distribution-probability) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-01-18 | [solution](problems/0246-birthday-problem-probability) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-01-20 | [solution](problems/0321-bleu-score-for-text-generation) |
+| [Block-wise FP8 Quantization](https://www.deep-ml.com/problems/234) | medium | 2026-02-02 | [solution](problems/0234-block-wise-fp8-quantization) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-01-11 | [solution](problems/0090-bm25-ranking) |
 | [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-01-29 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
 | [Bradley-Terry Model for Pairwise Rankings](https://www.deep-ml.com/problems/322) | medium | 2026-01-29 | [solution](problems/0322-bradley-terry-model-for-pairwise-rankings) |
@@ -205,6 +206,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2024-12-07 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-11-14 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
 | [Data Quality Scoring for ML Pipelines](https://www.deep-ml.com/problems/252) | medium | 2026-01-30 | [solution](problems/0252-data-quality-scoring-for-ml-pipelines) |
+| [Decision Tree Pruning with Cost-Complexity](https://www.deep-ml.com/problems/285) | medium | 2026-02-02 | [solution](problems/0285-decision-tree-pruning-with-cost-complexity) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-01-17 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-01-17 | [solution](problems/0219-derivative-of-softmax) |
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-01-11 | [solution](problems/0302-diffusion-reconstruction-loss) |
@@ -283,6 +285,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2025-11-09 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2025-10-01 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implement the SARSA Algorithm on policy](https://www.deep-ml.com/problems/175) | medium | 2026-01-25 | [solution](problems/0175-implement-the-sarsa-algorithm-on-policy) |
+| [Implement the SGTM Parameter Update Step](https://www.deep-ml.com/problems/235) | medium | 2026-02-02 | [solution](problems/0235-implement-the-sgtm-parameter-update-step) |
+| [Implement Volume Bars Sampling](https://www.deep-ml.com/problems/300) | medium | 2026-02-02 | [solution](problems/0300-implement-volume-bars-sampling) |
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/289) | medium | 2026-01-18 | [solution](problems/0289-implement-xavier-glorot-weight-initialization) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2024-09-25 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2024-08-18 | [solution](problems/0026-implementing-basic-autograd-operations) |
@@ -325,6 +329,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-01-17 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-08-09 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-01-16 | [solution](problems/0309-product-rule-for-derivatives) |
+| [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-02-02 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-01-18 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-01-16 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-01-28 | [solution](problems/0353-reconstruction-error-from-pca) |
@@ -380,6 +385,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-01-26 | [solution](labs/0009-design-your-own-activation-function) |
 | [Dimensionality Reduction with Sklearn](https://www.deep-ml.com/labs/15) | easy | 2026-01-25 | [solution](labs/0015-dimensionality-reduction-with-sklearn) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-01-20 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
+| [MNIST: Design-Your-Own tiny Pytorch Model](https://www.deep-ml.com/labs/2) | medium | 2026-02-02 | [solution](labs/0002-mnist-design-your-own-tiny-pytorch-model) |
+| [MNIST: Fix Very Deep Network Training](https://www.deep-ml.com/labs/7) | medium | 2026-02-02 | [solution](labs/0007-mnist-fix-very-deep-network-training) |
 | [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2026-01-31 | [solution](labs/0001-mnist-pytorch-dataloader) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-01-25 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-01-20 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
