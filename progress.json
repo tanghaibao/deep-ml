@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:17:39.160Z",
+  "generated_at": "2026-11-14T14:17:41.210Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -5663,6 +5663,45 @@
       "last_pushed_at": "2026-02-02T03:57:05.158Z",
       "language": "python",
       "lines": 78
+    },
+    "problem:138": {
+      "kind": "problem",
+      "id": "138",
+      "title": "Find the Best Gini-Based Split for a Binary Decision Tree",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/138",
+      "path": "problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree",
+      "first_solved_at": "2026-02-03T00:16:14.656Z",
+      "last_pushed_at": "2026-02-03T00:16:14.656Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:240": {
+      "kind": "problem",
+      "id": "240",
+      "title": "Bilinear Image Resizing",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/240",
+      "path": "problems/0240-bilinear-image-resizing",
+      "first_solved_at": "2026-02-03T05:17:31.482Z",
+      "last_pushed_at": "2026-02-03T05:17:31.482Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:344": {
+      "kind": "problem",
+      "id": "344",
+      "title": "Implement Gradient Boosting Regressor Step",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/344",
+      "path": "problems/0344-implement-gradient-boosting-regressor-step",
+      "first_solved_at": "2026-02-03T05:58:29.374Z",
+      "last_pushed_at": "2026-02-03T05:58:29.374Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
