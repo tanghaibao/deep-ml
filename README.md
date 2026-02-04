@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**450** solved · 366 problems · 10 labs · 74 math
+**457** solved · 373 problems · 10 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -175,6 +175,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2025-10-14 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-04 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-01-18 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
+| [Calculate BIC/AIC for Model Selection](https://www.deep-ml.com/problems/368) | medium | 2026-02-04 | [solution](problems/0368-calculate-bic-aic-for-model-selection) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-08-03 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Davies-Bouldin Index for Clustering Evaluation](https://www.deep-ml.com/problems/256) | medium | 2026-01-23 | [solution](problems/0256-calculate-davies-bouldin-index-for-clustering-evaluation) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-03 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
@@ -214,6 +215,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Distance Correlation for Measuring Metadata Dependence](https://www.deep-ml.com/problems/359) | medium | 2026-01-29 | [solution](problems/0359-distance-correlation-for-measuring-metadata-dependence) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2024-08-09 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Domain Expert Model Fusion](https://www.deep-ml.com/problems/348) | medium | 2026-01-31 | [solution](problems/0348-domain-expert-model-fusion) |
+| [Dr. GRPO: Complete Objective Function](https://www.deep-ml.com/problems/210) | medium | 2026-02-04 | [solution](problems/0210-dr-grpo-complete-objective-function) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2025-10-08 | [solution](problems/0151-dropout-layer) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-01-20 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-01-17 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
@@ -226,6 +228,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2025-08-25 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-02-03 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2024-11-11 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
+| [Fine-Tune Model Weights with RLHF Policy Gradient](https://www.deep-ml.com/problems/361) | medium | 2026-02-04 | [solution](problems/0361-fine-tune-model-weights-with-rlhf-policy-gradient) |
 | [First-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/272) | medium | 2026-01-27 | [solution](problems/0272-first-visit-monte-carlo-prediction) |
 | [Forward & Backward Diffusion Process](https://www.deep-ml.com/problems/304) | medium | 2026-01-14 | [solution](problems/0304-forward-backward-diffusion-process) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-01-11 | [solution](problems/0303-forward-diffusion-process) |
@@ -239,6 +242,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Bandit Action Selection](https://www.deep-ml.com/problems/163) | medium | 2026-01-30 | [solution](problems/0163-gradient-bandit-action-selection) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-01-23 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-01-23 | [solution](problems/0142-gridworld-policy-evaluation) |
+| [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-02-04 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-01-29 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-01-18 | [solution](problems/0245-hypergeometric-distribution-pmf) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2024-09-05 | [solution](problems/0049-implement-adam-optimization-algorithm) |
@@ -246,6 +250,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2025-09-01 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement DBSCAN Clustering Algorithm](https://www.deep-ml.com/problems/259) | medium | 2026-01-30 | [solution](problems/0259-implement-dbscan-clustering-algorithm) |
 | [Implement Decision Tree for Regression](https://www.deep-ml.com/problems/286) | medium | 2026-02-01 | [solution](problems/0286-implement-decision-tree-for-regression) |
+| [Implement Dollar Bars Sampling](https://www.deep-ml.com/problems/301) | medium | 2026-02-04 | [solution](problems/0301-implement-dollar-bars-sampling) |
 | [Implement Efficient Sparse Window Attention](https://www.deep-ml.com/problems/131) | medium | 2026-01-20 | [solution](problems/0131-implement-efficient-sparse-window-attention) |
 | [Implement Entropy-based Split Selection](https://www.deep-ml.com/problems/284) | medium | 2026-01-30 | [solution](problems/0284-implement-entropy-based-split-selection) |
 | [Implement Focal Loss](https://www.deep-ml.com/problems/915) | medium | 2026-09-25 | [solution](problems/0915-implement-focal-loss) |
@@ -277,6 +282,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-01-29 | [solution](problems/0343-implement-random-forest-feature-importance) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-01-18 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2024-09-02 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
+| [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-02-04 | [solution](problems/0297-implement-request-batching-for-inference) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-01-20 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-01-18 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2024-09-25 | [solution](problems/0053-implement-self-attention-mechanism) |
@@ -289,6 +295,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2025-10-01 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implement the SARSA Algorithm on policy](https://www.deep-ml.com/problems/175) | medium | 2026-01-25 | [solution](problems/0175-implement-the-sarsa-algorithm-on-policy) |
 | [Implement the SGTM Parameter Update Step](https://www.deep-ml.com/problems/235) | medium | 2026-02-02 | [solution](problems/0235-implement-the-sgtm-parameter-update-step) |
+| [Implement Tick Bars Sampling](https://www.deep-ml.com/problems/299) | medium | 2026-02-04 | [solution](problems/0299-implement-tick-bars-sampling) |
 | [Implement Volume Bars Sampling](https://www.deep-ml.com/problems/300) | medium | 2026-02-02 | [solution](problems/0300-implement-volume-bars-sampling) |
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/289) | medium | 2026-01-18 | [solution](problems/0289-implement-xavier-glorot-weight-initialization) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2024-09-25 | [solution](problems/0054-implementing-a-simple-rnn) |
