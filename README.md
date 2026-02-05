@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**457** solved · 373 problems · 10 labs · 74 math
+**460** solved · 376 problems · 10 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -256,6 +256,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Focal Loss](https://www.deep-ml.com/problems/915) | medium | 2026-09-25 | [solution](problems/0915-implement-focal-loss) |
 | [Implement Focal Loss for Imbalanced Classification](https://www.deep-ml.com/problems/255) | medium | 2026-01-19 | [solution](problems/0255-implement-focal-loss-for-imbalanced-classification) |
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-01-18 | [solution](problems/0271-implement-gated-attention) |
+| [Implement Gaussian Mixture Model (GMM) E-step](https://www.deep-ml.com/problems/365) | medium | 2026-02-05 | [solution](problems/0365-implement-gaussian-mixture-model-gmm-e-step) |
+| [Implement Gaussian Mixture Model (GMM) M-step](https://www.deep-ml.com/problems/366) | medium | 2026-02-05 | [solution](problems/0366-implement-gaussian-mixture-model-gmm-m-step) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-02-03 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2024-08-30 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-01-18 | [solution](problems/0288-implement-grid-search) |
@@ -263,6 +265,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement GRU Cell](https://www.deep-ml.com/problems/287) | medium | 2026-01-19 | [solution](problems/0287-implement-gru-cell) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-01-18 | [solution](problems/0294-implement-int8-quantization) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2024-08-21 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-02-05 | [solution](problems/0362-implement-k-means-initialization) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-01-23 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Label Smoothing for Multi-Class Cross-Entropy](https://www.deep-ml.com/problems/194) | medium | 2025-11-14 | [solution](problems/0194-implement-label-smoothing-for-multi-class-cross-entropy) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2024-09-09 | [solution](problems/0050-implement-lasso-regression-using-ista) |

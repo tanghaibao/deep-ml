@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:17:43.201Z",
+  "generated_at": "2026-11-14T14:17:45.203Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -5793,6 +5793,45 @@
       "last_pushed_at": "2026-02-04T23:16:54.997Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:365": {
+      "kind": "problem",
+      "id": "365",
+      "title": "Implement Gaussian Mixture Model (GMM) E-step",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/365",
+      "path": "problems/0365-implement-gaussian-mixture-model-gmm-e-step",
+      "first_solved_at": "2026-02-05T01:57:36.009Z",
+      "last_pushed_at": "2026-02-05T01:57:36.009Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:366": {
+      "kind": "problem",
+      "id": "366",
+      "title": "Implement Gaussian Mixture Model (GMM) M-step",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/366",
+      "path": "problems/0366-implement-gaussian-mixture-model-gmm-m-step",
+      "first_solved_at": "2026-02-05T04:30:48.638Z",
+      "last_pushed_at": "2026-02-05T04:30:48.638Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:362": {
+      "kind": "problem",
+      "id": "362",
+      "title": "Implement K-Means++ Initialization",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/362",
+      "path": "problems/0362-implement-k-means-initialization",
+      "first_solved_at": "2026-02-05T06:48:04.578Z",
+      "last_pushed_at": "2026-02-05T06:48:04.578Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
