@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**460** solved · 376 problems · 10 labs · 74 math
+**461** solved · 377 problems · 10 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -378,6 +378,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-01-29 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2024-08-08 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Monte Carlo Tree Search](https://www.deep-ml.com/problems/207) | hard | 2026-01-30 | [solution](problems/0207-monte-carlo-tree-search) |
+| [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-02-06 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-01-26 | [solution](problems/0191-pca-color-augmentation) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2024-08-24 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2026-01-29 | [solution](problems/0122-policy-gradient-with-reinforce) |
