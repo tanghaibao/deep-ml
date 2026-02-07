@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**461** solved · 377 problems · 10 labs · 74 math
+**464** solved · 380 problems · 10 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -157,6 +157,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2024-10-03 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-01-18 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-01-08 | [solution](problems/0087-adam-optimizer) |
+| [Analyze Canary Deployment Health for Model Rollout](https://www.deep-ml.com/problems/251) | medium | 2026-02-07 | [solution](problems/0251-analyze-canary-deployment-health-for-model-rollout) |
 | [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-09-23 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2026-01-20 | [solution](problems/0144-apriori-frequent-itemset-mining) |
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-09-28 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
@@ -285,6 +286,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-01-29 | [solution](problems/0343-implement-random-forest-feature-importance) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-01-18 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2024-09-02 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
+| [Implement Relativistic Critic Rewards for Adversarial Reasoning](https://www.deep-ml.com/problems/268) | medium | 2026-02-07 | [solution](problems/0268-implement-relativistic-critic-rewards-for-adversarial-reasoning) |
 | [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-02-04 | [solution](problems/0297-implement-request-batching-for-inference) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-01-20 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-01-18 | [solution](problems/0276-implement-roc-curve-calculation) |
@@ -372,6 +374,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2024-10-28 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 | [Implement a Sparse Mixture of Experts Layer](https://www.deep-ml.com/problems/125) | hard | 2026-02-01 | [solution](problems/0125-implement-a-sparse-mixture-of-experts-layer) |
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2024-08-24 | [solution](problems/0038-implement-adaboost-fit-method) |
+| [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-02-07 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Kernel PCA with RBF Kernel](https://www.deep-ml.com/problems/349) | hard | 2026-01-27 | [solution](problems/0349-implement-kernel-pca-with-rbf-kernel) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-01-26 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-01-28 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |

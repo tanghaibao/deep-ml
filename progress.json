@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:17:47.222Z",
+  "generated_at": "2026-11-14T14:17:49.276Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -5845,6 +5845,45 @@
       "last_pushed_at": "2026-02-06T07:22:42.256Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:251": {
+      "kind": "problem",
+      "id": "251",
+      "title": "Analyze Canary Deployment Health for Model Rollout",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/251",
+      "path": "problems/0251-analyze-canary-deployment-health-for-model-rollout",
+      "first_solved_at": "2026-02-07T22:22:03.051Z",
+      "last_pushed_at": "2026-02-07T22:22:03.051Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:268": {
+      "kind": "problem",
+      "id": "268",
+      "title": "Implement Relativistic Critic Rewards for Adversarial Reasoning",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/268",
+      "path": "problems/0268-implement-relativistic-critic-rewards-for-adversarial-reasoning",
+      "first_solved_at": "2026-02-07T22:43:41.459Z",
+      "last_pushed_at": "2026-02-07T22:43:41.459Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:307": {
+      "kind": "problem",
+      "id": "307",
+      "title": "Implement Bagging Classifier from Scratch",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/307",
+      "path": "problems/0307-implement-bagging-classifier-from-scratch",
+      "first_solved_at": "2026-02-07T23:26:30.773Z",
+      "last_pushed_at": "2026-02-07T23:26:30.773Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
