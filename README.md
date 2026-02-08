@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**464** solved · 380 problems · 10 labs · 74 math
+**478** solved · 393 problems · 11 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2025-01-16 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2024-08-03 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Model Inference Statistics for Monitoring](https://www.deep-ml.com/problems/248) | easy | 2026-01-14 | [solution](problems/0248-calculate-model-inference-statistics-for-monitoring) |
+| [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-02-08 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-01-12 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-01-12 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2025-09-11 | [solution](problems/0183-calculate-portfolio-variance) |
@@ -110,6 +111,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-01-12 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [Implement Triplet Loss](https://www.deep-ml.com/problems/916) | easy | 2026-09-25 | [solution](problems/0916-implement-triplet-loss) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2025-11-09 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
+| [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/369) | easy | 2026-02-08 | [solution](problems/0369-implement-xavier-glorot-weight-initialization) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2024-08-08 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2025-10-20 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2024-10-07 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
@@ -264,7 +266,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-01-18 | [solution](problems/0288-implement-grid-search) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2025-10-02 | [solution](problems/0126-implement-group-normalization) |
 | [Implement GRU Cell](https://www.deep-ml.com/problems/287) | medium | 2026-01-19 | [solution](problems/0287-implement-gru-cell) |
+| [Implement He Weight Initialization for Neural Networks](https://www.deep-ml.com/problems/370) | medium | 2026-02-08 | [solution](problems/0370-implement-he-weight-initialization-for-neural-networks) |
+| [Implement Hierarchical Clustering (Agglomerative)](https://www.deep-ml.com/problems/364) | medium | 2026-02-08 | [solution](problems/0364-implement-hierarchical-clustering-agglomerative) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-01-18 | [solution](problems/0294-implement-int8-quantization) |
+| [Implement Isolation Forest for Anomaly Detection](https://www.deep-ml.com/problems/367) | medium | 2026-02-08 | [solution](problems/0367-implement-isolation-forest-for-anomaly-detection) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2024-08-21 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-02-05 | [solution](problems/0362-implement-k-means-initialization) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-01-23 | [solution](problems/0173-implement-k-nearest-neighbors) |
@@ -275,6 +280,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2024-10-16 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-02-27 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement mHC Forward Pass](https://www.deep-ml.com/problems/298) | medium | 2026-01-31 | [solution](problems/0298-implement-mhc-forward-pass) |
+| [Implement Mini-Batch K-Means](https://www.deep-ml.com/problems/363) | medium | 2026-02-08 | [solution](problems/0363-implement-mini-batch-k-means) |
 | [Implement MuonClip (qk-clip) for Stabilizing Attention](https://www.deep-ml.com/problems/177) | medium | 2025-11-10 | [solution](problems/0177-implement-muonclip-qk-clip-for-stabilizing-attention) |
 | [Implement Neural Memory Update with Surprise and Momentum](https://www.deep-ml.com/problems/267) | medium | 2026-02-01 | [solution](problems/0267-implement-neural-memory-update-with-surprise-and-momentum) |
 | [Implement Out-of-Bag Score Calculation](https://www.deep-ml.com/problems/345) | medium | 2026-01-29 | [solution](problems/0345-implement-out-of-bag-score-calculation) |
@@ -364,22 +370,29 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-09-21 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-01-20 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-01-30 | [solution](problems/0347-xgboost-objective-function-calculation) |
+| [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2026-02-08 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |
+| [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-02-08 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-21 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-08-08 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-01-31 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [Gambler's Problem: Value Iteration](https://www.deep-ml.com/problems/164) | hard | 2026-01-29 | [solution](problems/0164-gambler-s-problem-value-iteration) |
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-01-27 | [solution](problems/0186-gaussian-process-for-regression) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-01-26 | [solution](problems/0088-gpt-2-text-generation) |
+| [GSPO: Group Sequence Policy Optimization](https://www.deep-ml.com/problems/209) | hard | 2026-02-08 | [solution](problems/0209-gspo-group-sequence-policy-optimization) |
 | [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-01-28 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2024-10-28 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 | [Implement a Sparse Mixture of Experts Layer](https://www.deep-ml.com/problems/125) | hard | 2026-02-01 | [solution](problems/0125-implement-a-sparse-mixture-of-experts-layer) |
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2024-08-24 | [solution](problems/0038-implement-adaboost-fit-method) |
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-02-07 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
+| [Implement Core MDN Residualization](https://www.deep-ml.com/problems/358) | hard | 2026-02-08 | [solution](problems/0358-implement-core-mdn-residualization) |
 | [Implement Kernel PCA with RBF Kernel](https://www.deep-ml.com/problems/349) | hard | 2026-01-27 | [solution](problems/0349-implement-kernel-pca-with-rbf-kernel) |
+| [Implement LLE (Locally Linear Embedding)](https://www.deep-ml.com/problems/351) | hard | 2026-02-08 | [solution](problems/0351-implement-lle-locally-linear-embedding) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-01-26 | [solution](problems/0094-implement-multi-head-attention) |
+| [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-02-08 | [solution](problems/0346-implement-stacking-classifier) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-01-28 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-01-29 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2024-08-08 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
+| [MDN with Label Collinearity Control](https://www.deep-ml.com/problems/360) | hard | 2026-02-08 | [solution](problems/0360-mdn-with-label-collinearity-control) |
 | [Monte Carlo Tree Search](https://www.deep-ml.com/problems/207) | hard | 2026-01-30 | [solution](problems/0207-monte-carlo-tree-search) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-02-06 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-01-26 | [solution](problems/0191-pca-color-augmentation) |
@@ -407,6 +420,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2026-01-31 | [solution](labs/0001-mnist-pytorch-dataloader) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-01-25 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-01-20 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
+| [Feature Deconfounder for Biased Image Data](https://www.deep-ml.com/labs/16) | hard | 2026-02-08 | [solution](labs/0016-feature-deconfounder-for-biased-image-data) |
 | [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-01-31 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-01-19 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
