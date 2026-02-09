@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:17:51.468Z",
+  "generated_at": "2026-11-14T14:17:54.885Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6066,6 +6066,58 @@
       "last_pushed_at": "2026-02-08T23:59:22.703Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:274": {
+      "kind": "problem",
+      "id": "274",
+      "title": "TD(λ) with Eligibility Traces",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/274",
+      "path": "problems/0274-td-with-eligibility-traces",
+      "first_solved_at": "2026-02-09T00:30:42.502Z",
+      "last_pushed_at": "2026-02-09T00:30:42.502Z",
+      "language": "python",
+      "lines": 32
+    },
+    "lab:10": {
+      "kind": "lab",
+      "id": "10",
+      "title": "Design Your Own Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Attention & Transformers",
+      "url": "https://www.deep-ml.com/labs/10",
+      "path": "labs/0010-design-your-own-attention-mechanism",
+      "first_solved_at": "2026-02-09T01:36:24.862Z",
+      "last_pushed_at": "2026-02-09T01:36:24.862Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:130": {
+      "kind": "problem",
+      "id": "130",
+      "title": "Implement a Simple CNN Training Function with Backpropagation",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/130",
+      "path": "problems/0130-implement-a-simple-cnn-training-function-with-backpropagation",
+      "first_solved_at": "2026-02-09T06:17:19.265Z",
+      "last_pushed_at": "2026-02-09T06:17:19.265Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:270": {
+      "kind": "problem",
+      "id": "270",
+      "title": "ML Pipeline DAG Scheduler with Critical Path Analysis",
+      "difficulty": "hard",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/270",
+      "path": "problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis",
+      "first_solved_at": "2026-02-09T06:17:59.503Z",
+      "last_pushed_at": "2026-02-09T06:17:59.503Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
