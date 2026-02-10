@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:17:54.885Z",
+  "generated_at": "2026-11-14T14:17:56.936Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6118,6 +6118,32 @@
       "last_pushed_at": "2026-02-09T06:17:59.503Z",
       "language": "python",
       "lines": 35
+    },
+    "lab:3": {
+      "kind": "lab",
+      "id": "3",
+      "title": "MNIST: Design Your Own Pytorch Optimizer",
+      "difficulty": "medium",
+      "category": "Optimizers",
+      "url": "https://www.deep-ml.com/labs/3",
+      "path": "labs/0003-mnist-design-your-own-pytorch-optimizer",
+      "first_solved_at": "2026-02-10T04:55:29.391Z",
+      "last_pushed_at": "2026-02-10T04:55:29.391Z",
+      "language": "python",
+      "lines": 59
+    },
+    "lab:11": {
+      "kind": "lab",
+      "id": "11",
+      "title": "Data Preprocessing: Handling Missing Values",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/labs/11",
+      "path": "labs/0011-data-preprocessing-handling-missing-values",
+      "first_solved_at": "2026-02-10T05:05:21.089Z",
+      "last_pushed_at": "2026-02-10T05:05:21.089Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }

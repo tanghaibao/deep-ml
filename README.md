@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**482** solved · 396 problems · 12 labs · 74 math
+**484** solved · 396 problems · 14 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -418,7 +418,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-01-26 | [solution](labs/0009-design-your-own-activation-function) |
 | [Dimensionality Reduction with Sklearn](https://www.deep-ml.com/labs/15) | easy | 2026-01-25 | [solution](labs/0015-dimensionality-reduction-with-sklearn) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-01-20 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
+| [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-02-10 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-02-09 | [solution](labs/0010-design-your-own-attention-mechanism) |
+| [MNIST: Design Your Own Pytorch Optimizer](https://www.deep-ml.com/labs/3) | medium | 2026-02-10 | [solution](labs/0003-mnist-design-your-own-pytorch-optimizer) |
 | [MNIST: Design-Your-Own tiny Pytorch Model](https://www.deep-ml.com/labs/2) | medium | 2026-02-02 | [solution](labs/0002-mnist-design-your-own-tiny-pytorch-model) |
 | [MNIST: Fix Very Deep Network Training](https://www.deep-ml.com/labs/7) | medium | 2026-02-02 | [solution](labs/0007-mnist-fix-very-deep-network-training) |
 | [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2026-01-31 | [solution](labs/0001-mnist-pytorch-dataloader) |
