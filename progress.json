@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:17:56.936Z",
+  "generated_at": "2026-11-14T14:19:29.211Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6144,6 +6144,32 @@
       "last_pushed_at": "2026-02-10T05:05:21.089Z",
       "language": "python",
       "lines": 22
+    },
+    "lab:8": {
+      "kind": "lab",
+      "id": "8",
+      "title": "Design Your Own Optimizer (NumPy)",
+      "difficulty": "medium",
+      "category": "Optimizers",
+      "url": "https://www.deep-ml.com/labs/8",
+      "path": "labs/0008-design-your-own-optimizer-numpy",
+      "first_solved_at": "2026-02-11T02:19:11.207Z",
+      "last_pushed_at": "2026-02-11T02:19:11.207Z",
+      "language": "python",
+      "lines": 37
+    },
+    "lab:5": {
+      "kind": "lab",
+      "id": "5",
+      "title": "MNIST: Adversarial Example Generation",
+      "difficulty": "hard",
+      "category": "Adversarial Robustness",
+      "url": "https://www.deep-ml.com/labs/5",
+      "path": "labs/0005-mnist-adversarial-example-generation",
+      "first_solved_at": "2026-02-11T02:56:49.967Z",
+      "last_pushed_at": "2026-02-11T02:56:49.967Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
