@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:19:29.211Z",
+  "generated_at": "2026-11-14T14:19:31.491Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6170,6 +6170,32 @@
       "last_pushed_at": "2026-02-11T02:56:49.967Z",
       "language": "python",
       "lines": 37
+    },
+    "lab:18": {
+      "kind": "lab",
+      "id": "18",
+      "title": "Train a Linear Regression Model",
+      "difficulty": "easy",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/18",
+      "path": "labs/0018-train-a-linear-regression-model",
+      "first_solved_at": "2026-02-12T01:41:49.938Z",
+      "last_pushed_at": "2026-02-12T01:41:49.938Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:372": {
+      "kind": "problem",
+      "id": "372",
+      "title": "Implement RMSNorm (Root Mean Square Layer Normalization)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/372",
+      "path": "problems/0372-implement-rmsnorm-root-mean-square-layer-normalization",
+      "first_solved_at": "2026-02-12T05:30:49.136Z",
+      "last_pushed_at": "2026-02-12T05:30:49.136Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }

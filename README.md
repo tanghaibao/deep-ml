@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**486** solved · 396 problems · 16 labs · 74 math
+**488** solved · 397 problems · 17 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -99,6 +99,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2024-09-25 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2024-08-16 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2024-08-16 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-02-12 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
 | [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2025-10-12 | [solution](problems/0156-implement-swiglu-activation-function) |
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2025-01-27 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2025-01-27 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
@@ -418,6 +419,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-01-26 | [solution](labs/0009-design-your-own-activation-function) |
 | [Dimensionality Reduction with Sklearn](https://www.deep-ml.com/labs/15) | easy | 2026-01-25 | [solution](labs/0015-dimensionality-reduction-with-sklearn) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-01-20 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
+| [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-02-12 | [solution](labs/0018-train-a-linear-regression-model) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-02-10 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-02-09 | [solution](labs/0010-design-your-own-attention-mechanism) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-02-11 | [solution](labs/0008-design-your-own-optimizer-numpy) |
