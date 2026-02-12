@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:19:31.491Z",
+  "generated_at": "2026-11-14T14:19:35.251Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6196,6 +6196,84 @@
       "last_pushed_at": "2026-02-12T05:30:49.136Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:373": {
+      "kind": "problem",
+      "id": "373",
+      "title": "Implement the Square ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/373",
+      "path": "problems/0373-implement-the-square-relu-activation-function",
+      "first_solved_at": "2026-02-12T05:33:29.221Z",
+      "last_pushed_at": "2026-02-12T05:33:29.221Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:374": {
+      "kind": "problem",
+      "id": "374",
+      "title": "Character-Level Tokenizer (stoi/itos/BOS)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/374",
+      "path": "problems/0374-character-level-tokenizer-stoi-itos-bos",
+      "first_solved_at": "2026-02-12T05:48:55.486Z",
+      "last_pushed_at": "2026-02-12T05:48:55.486Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:375": {
+      "kind": "problem",
+      "id": "375",
+      "title": "Learned Positional Embeddings",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/375",
+      "path": "problems/0375-learned-positional-embeddings",
+      "first_solved_at": "2026-02-12T05:54:08.631Z",
+      "last_pushed_at": "2026-02-12T05:54:08.631Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:377": {
+      "kind": "problem",
+      "id": "377",
+      "title": "Linear Learning Rate Decay",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/377",
+      "path": "problems/0377-linear-learning-rate-decay",
+      "first_solved_at": "2026-02-12T06:02:01.674Z",
+      "last_pushed_at": "2026-02-12T06:02:01.674Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:376": {
+      "kind": "problem",
+      "id": "376",
+      "title": "KV Cache for Efficient Autoregressive Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/376",
+      "path": "problems/0376-kv-cache-for-efficient-autoregressive-attention",
+      "first_solved_at": "2026-02-12T08:14:17.525Z",
+      "last_pushed_at": "2026-02-12T08:14:17.525Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:378": {
+      "kind": "problem",
+      "id": "378",
+      "title": "Temperature Sampling",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/378",
+      "path": "problems/0378-temperature-sampling",
+      "first_solved_at": "2026-02-12T08:17:03.656Z",
+      "last_pushed_at": "2026-02-12T08:17:03.656Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }

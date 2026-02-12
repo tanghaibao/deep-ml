@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**488** solved · 397 problems · 17 labs · 74 math
+**494** solved · 403 problems · 17 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2025-10-22 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2025-01-27 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-10-05 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
+| [Character-Level Tokenizer (stoi/itos/BOS)](https://www.deep-ml.com/problems/374) | easy | 2026-02-12 | [solution](problems/0374-character-level-tokenizer-stoi-itos-bos) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-01-16 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2025-08-27 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2025-08-30 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
@@ -108,6 +109,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2025-02-08 | [solution](problems/0103-implement-the-selu-activation-function) |
 | [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2025-01-27 | [solution](problems/0099-implement-the-softplus-activation-function) |
 | [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2025-01-28 | [solution](problems/0100-implement-the-softsign-activation-function) |
+| [Implement the Square ReLU Activation Function](https://www.deep-ml.com/problems/373) | easy | 2026-02-12 | [solution](problems/0373-implement-the-square-relu-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2025-02-08 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-01-12 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [Implement Triplet Loss](https://www.deep-ml.com/problems/916) | easy | 2026-09-25 | [solution](problems/0916-implement-triplet-loss) |
@@ -120,7 +122,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-20 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-01-28 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2024-08-21 | [solution](problems/0044-leaky-relu-activation-function) |
+| [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-02-12 | [solution](problems/0375-learned-positional-embeddings) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2024-08-21 | [solution](problems/0045-linear-kernel-function) |
+| [Linear Learning Rate Decay](https://www.deep-ml.com/problems/377) | easy | 2026-02-12 | [solution](problems/0377-linear-learning-rate-decay) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2024-08-09 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2024-08-09 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-01-12 | [solution](problems/0195-matrix-determinant-trace) |
@@ -319,6 +323,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-01-17 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2024-08-21 | [solution](problems/0017-k-means-clustering) |
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-01-18 | [solution](problems/0227-knowledge-distillation-loss) |
+| [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-02-12 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-01-17 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2025-01-19 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-01-18 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
@@ -366,6 +371,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2025-09-30 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [Sparse MoE Top-K Routing](https://www.deep-ml.com/problems/229) | medium | 2026-01-24 | [solution](problems/0229-sparse-moe-top-k-routing) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-01-20 | [solution](problems/0231-temperature-decay-scheduler) |
+| [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-02-12 | [solution](problems/0378-temperature-sampling) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2025-01-08 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Train a Paris-Style Decentralized Expert Model](https://www.deep-ml.com/problems/335) | medium | 2026-01-22 | [solution](problems/0335-train-a-paris-style-decentralized-expert-model) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-09-21 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
