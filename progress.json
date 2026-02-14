@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:19:37.444Z",
+  "generated_at": "2026-11-14T14:19:39.416Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6300,6 +6300,97 @@
       "last_pushed_at": "2026-02-13T22:09:45.372Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:384": {
+      "kind": "problem",
+      "id": "384",
+      "title": "Contrastive Loss (InfoNCE / SimCLR-style)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/384",
+      "path": "problems/0384-contrastive-loss-infonce-simclr-style",
+      "first_solved_at": "2026-02-14T00:02:14.262Z",
+      "last_pushed_at": "2026-02-14T00:02:14.262Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:381": {
+      "kind": "problem",
+      "id": "381",
+      "title": "Rotary Positional Embeddings (RoPE)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/381",
+      "path": "problems/0381-rotary-positional-embeddings-rope",
+      "first_solved_at": "2026-02-14T00:48:57.087Z",
+      "last_pushed_at": "2026-02-14T00:48:57.087Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:382": {
+      "kind": "problem",
+      "id": "382",
+      "title": "Direct Preference Optimization (DPO) Loss",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/382",
+      "path": "problems/0382-direct-preference-optimization-dpo-loss",
+      "first_solved_at": "2026-02-14T00:59:05.730Z",
+      "last_pushed_at": "2026-02-14T00:59:05.730Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:379": {
+      "kind": "problem",
+      "id": "379",
+      "title": "RAFT: Iterative Reward-Ranked Fine-Tuning Loop",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/379",
+      "path": "problems/0379-raft-iterative-reward-ranked-fine-tuning-loop",
+      "first_solved_at": "2026-02-14T04:15:48.462Z",
+      "last_pushed_at": "2026-02-14T04:15:48.462Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:380": {
+      "kind": "problem",
+      "id": "380",
+      "title": "Byte Pair Encoding (BPE) Tokenizer",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/380",
+      "path": "problems/0380-byte-pair-encoding-bpe-tokenizer",
+      "first_solved_at": "2026-02-14T04:34:42.454Z",
+      "last_pushed_at": "2026-02-14T04:34:42.454Z",
+      "language": "python",
+      "lines": 30
+    },
+    "lab:22": {
+      "kind": "lab",
+      "id": "22",
+      "title": "Fix Overfitting with Regularization (Sklearn)",
+      "difficulty": "easy",
+      "category": "Regularized Regression",
+      "url": "https://www.deep-ml.com/labs/22",
+      "path": "labs/0022-fix-overfitting-with-regularization-sklearn",
+      "first_solved_at": "2026-02-14T04:37:14.093Z",
+      "last_pushed_at": "2026-02-14T04:37:14.093Z",
+      "language": "python",
+      "lines": 41
+    },
+    "lab:21": {
+      "kind": "lab",
+      "id": "21",
+      "title": "Fix Overfitting with Regularization (NumPy)",
+      "difficulty": "medium",
+      "category": "Regularized Regression",
+      "url": "https://www.deep-ml.com/labs/21",
+      "path": "labs/0021-fix-overfitting-with-regularization-numpy",
+      "first_solved_at": "2026-02-14T05:56:26.567Z",
+      "last_pushed_at": "2026-02-14T05:56:26.567Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
