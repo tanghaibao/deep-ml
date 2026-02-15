@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:19:39.416Z",
+  "generated_at": "2026-11-14T14:19:41.621Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6391,6 +6391,71 @@
       "last_pushed_at": "2026-02-14T05:56:26.567Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:385": {
+      "kind": "problem",
+      "id": "385",
+      "title": "Beam Search Decoding",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/385",
+      "path": "problems/0385-beam-search-decoding",
+      "first_solved_at": "2026-02-15T18:10:01.534Z",
+      "last_pushed_at": "2026-02-15T18:10:01.534Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:387": {
+      "kind": "problem",
+      "id": "387",
+      "title": "Triplet Margin Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/387",
+      "path": "problems/0387-triplet-margin-loss",
+      "first_solved_at": "2026-02-15T18:17:59.491Z",
+      "last_pushed_at": "2026-02-15T18:17:59.491Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:389": {
+      "kind": "problem",
+      "id": "389",
+      "title": "Mixture of Experts Load Balancing Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/389",
+      "path": "problems/0389-mixture-of-experts-load-balancing-loss",
+      "first_solved_at": "2026-02-15T18:46:08.604Z",
+      "last_pushed_at": "2026-02-15T18:46:08.604Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:388": {
+      "kind": "problem",
+      "id": "388",
+      "title": "Sliding Window Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/388",
+      "path": "problems/0388-sliding-window-attention",
+      "first_solved_at": "2026-02-15T18:59:58.277Z",
+      "last_pushed_at": "2026-02-15T18:59:58.277Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:386": {
+      "kind": "problem",
+      "id": "386",
+      "title": "Spectral Normalization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/386",
+      "path": "problems/0386-spectral-normalization",
+      "first_solved_at": "2026-02-15T19:08:49.610Z",
+      "last_pushed_at": "2026-02-15T19:08:49.610Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }

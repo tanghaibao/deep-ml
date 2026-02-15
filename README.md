@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**503** solved · 409 problems · 20 labs · 74 math
+**508** solved · 414 problems · 20 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -169,6 +169,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2026-01-20 | [solution](problems/0144-apriori-frequent-itemset-mining) |
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-09-28 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-01-17 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
+| [Beam Search Decoding](https://www.deep-ml.com/problems/385) | medium | 2026-02-15 | [solution](problems/0385-beam-search-decoding) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-01-21 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-01-23 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
 | [Bilinear Image Resizing](https://www.deep-ml.com/problems/240) | medium | 2026-02-03 | [solution](problems/0240-bilinear-image-resizing) |
@@ -340,6 +341,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Ablation for Circuit Discovery](https://www.deep-ml.com/problems/236) | medium | 2026-01-19 | [solution](problems/0236-mean-ablation-for-circuit-discovery) |
 | [Minimax Algorithm for Tic-Tac-Toe](https://www.deep-ml.com/problems/171) | medium | 2025-09-01 | [solution](problems/0171-minimax-algorithm-for-tic-tac-toe) |
 | [Mixed Precision Training](https://www.deep-ml.com/problems/160) | medium | 2026-01-20 | [solution](problems/0160-mixed-precision-training) |
+| [Mixture of Experts Load Balancing Loss](https://www.deep-ml.com/problems/389) | medium | 2026-02-15 | [solution](problems/0389-mixture-of-experts-load-balancing-loss) |
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-01-28 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-01-18 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-01-30 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
@@ -371,15 +373,18 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2024-08-09 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2025-08-27 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2024-08-21 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-02-15 | [solution](problems/0388-sliding-window-attention) |
 | [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-01-29 | [solution](problems/0241-sobel-edge-detection) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2024-08-04 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2025-09-30 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [Sparse MoE Top-K Routing](https://www.deep-ml.com/problems/229) | medium | 2026-01-24 | [solution](problems/0229-sparse-moe-top-k-routing) |
+| [Spectral Normalization](https://www.deep-ml.com/problems/386) | medium | 2026-02-15 | [solution](problems/0386-spectral-normalization) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-01-20 | [solution](problems/0231-temperature-decay-scheduler) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-02-12 | [solution](problems/0378-temperature-sampling) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2025-01-08 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-02-13 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Train a Paris-Style Decentralized Expert Model](https://www.deep-ml.com/problems/335) | medium | 2026-01-22 | [solution](problems/0335-train-a-paris-style-decentralized-expert-model) |
+| [Triplet Margin Loss](https://www.deep-ml.com/problems/387) | medium | 2026-02-15 | [solution](problems/0387-triplet-margin-loss) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-09-21 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-01-20 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-01-30 | [solution](problems/0347-xgboost-objective-function-calculation) |
