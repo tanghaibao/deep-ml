@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:19:41.621Z",
+  "generated_at": "2026-11-14T14:19:43.827Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6456,6 +6456,84 @@
       "last_pushed_at": "2026-02-15T19:08:49.610Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:390": {
+      "kind": "problem",
+      "id": "390",
+      "title": "Implement Multiquery Attention (MQA)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/390",
+      "path": "problems/0390-implement-multiquery-attention-mqa",
+      "first_solved_at": "2026-02-16T02:20:36.037Z",
+      "last_pushed_at": "2026-02-16T02:20:36.037Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:393": {
+      "kind": "problem",
+      "id": "393",
+      "title": "Implement Variational Autoencoder (VAE) Loss (ELBO)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/393",
+      "path": "problems/0393-implement-variational-autoencoder-vae-loss-elbo",
+      "first_solved_at": "2026-02-16T02:32:24.226Z",
+      "last_pushed_at": "2026-02-16T02:32:24.226Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:391": {
+      "kind": "problem",
+      "id": "391",
+      "title": "Implement Grouped Query Attention (GQA)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/391",
+      "path": "problems/0391-implement-grouped-query-attention-gqa",
+      "first_solved_at": "2026-02-16T02:56:35.339Z",
+      "last_pushed_at": "2026-02-16T02:56:35.339Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:392": {
+      "kind": "problem",
+      "id": "392",
+      "title": "Implement Cosine Annealing with Warm Restarts",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/392",
+      "path": "problems/0392-implement-cosine-annealing-with-warm-restarts",
+      "first_solved_at": "2026-02-16T03:09:30.736Z",
+      "last_pushed_at": "2026-02-16T03:09:30.736Z",
+      "language": "python",
+      "lines": 30
+    },
+    "lab:23": {
+      "kind": "lab",
+      "id": "23",
+      "title": "Train a Binary Classifier",
+      "difficulty": "easy",
+      "category": "Logistic Regression",
+      "url": "https://www.deep-ml.com/labs/23",
+      "path": "labs/0023-train-a-binary-classifier",
+      "first_solved_at": "2026-02-16T04:33:45.318Z",
+      "last_pushed_at": "2026-02-16T04:33:45.318Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:394": {
+      "kind": "problem",
+      "id": "394",
+      "title": "Implement Speculative Decoding Verification",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/394",
+      "path": "problems/0394-implement-speculative-decoding-verification",
+      "first_solved_at": "2026-02-16T04:58:55.106Z",
+      "last_pushed_at": "2026-02-16T04:58:55.106Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
