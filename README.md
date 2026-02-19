@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**515** solved · 420 problems · 21 labs · 74 math
+**519** solved · 424 problems · 21 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -203,6 +203,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-01-16 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-08-25 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-01-27 | [solution](problems/0334-cholesky-decomposition) |
+| [Classifier-Free Guidance for Conditional Diffusion](https://www.deep-ml.com/problems/397) | medium | 2026-02-19 | [solution](problems/0397-classifier-free-guidance-for-conditional-diffusion) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-01-17 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-01-29 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2025-11-09 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
@@ -220,6 +221,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2024-12-07 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-11-14 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
 | [Data Quality Scoring for ML Pipelines](https://www.deep-ml.com/problems/252) | medium | 2026-01-30 | [solution](problems/0252-data-quality-scoring-for-ml-pipelines) |
+| [DDPM Noise Schedule (Linear Beta Schedule)](https://www.deep-ml.com/problems/395) | medium | 2026-02-19 | [solution](problems/0395-ddpm-noise-schedule-linear-beta-schedule) |
 | [Decision Tree Pruning with Cost-Complexity](https://www.deep-ml.com/problems/285) | medium | 2026-02-02 | [solution](problems/0285-decision-tree-pruning-with-cost-complexity) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-01-17 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-01-17 | [solution](problems/0219-derivative-of-softmax) |
@@ -263,6 +265,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2025-09-01 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Cosine Annealing with Warm Restarts](https://www.deep-ml.com/problems/392) | medium | 2026-02-16 | [solution](problems/0392-implement-cosine-annealing-with-warm-restarts) |
 | [Implement DBSCAN Clustering Algorithm](https://www.deep-ml.com/problems/259) | medium | 2026-01-30 | [solution](problems/0259-implement-dbscan-clustering-algorithm) |
+| [Implement DDPM Reverse Sampling Step](https://www.deep-ml.com/problems/396) | medium | 2026-02-19 | [solution](problems/0396-implement-ddpm-reverse-sampling-step) |
 | [Implement Decision Tree for Regression](https://www.deep-ml.com/problems/286) | medium | 2026-02-01 | [solution](problems/0286-implement-decision-tree-for-regression) |
 | [Implement Dollar Bars Sampling](https://www.deep-ml.com/problems/301) | medium | 2026-02-04 | [solution](problems/0301-implement-dollar-bars-sampling) |
 | [Implement Efficient Sparse Window Attention](https://www.deep-ml.com/problems/131) | medium | 2026-01-20 | [solution](problems/0131-implement-efficient-sparse-window-attention) |
@@ -356,6 +359,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-01-18 | [solution](problems/0247-negative-binomial-distribution-probability) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-09-23 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-01-17 | [solution](problems/0221-newton-s-method-for-optimization) |
+| [Noise Prediction Loss for Diffusion Training](https://www.deep-ml.com/problems/400) | medium | 2026-02-19 | [solution](problems/0400-noise-prediction-loss-for-diffusion-training) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-01-08 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-01-17 | [solution](problems/0313-numerical-gradient-checking) |
 | [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2025-10-29 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |

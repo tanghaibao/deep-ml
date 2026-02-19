@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:19:46.321Z",
+  "generated_at": "2026-11-14T14:19:48.614Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6547,6 +6547,58 @@
       "last_pushed_at": "2026-02-18T16:14:40.328Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:395": {
+      "kind": "problem",
+      "id": "395",
+      "title": "DDPM Noise Schedule (Linear Beta Schedule)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/395",
+      "path": "problems/0395-ddpm-noise-schedule-linear-beta-schedule",
+      "first_solved_at": "2026-02-19T05:50:28.227Z",
+      "last_pushed_at": "2026-02-19T05:50:28.227Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:396": {
+      "kind": "problem",
+      "id": "396",
+      "title": "Implement DDPM Reverse Sampling Step",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/396",
+      "path": "problems/0396-implement-ddpm-reverse-sampling-step",
+      "first_solved_at": "2026-02-19T06:06:30.143Z",
+      "last_pushed_at": "2026-02-19T06:06:30.143Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:400": {
+      "kind": "problem",
+      "id": "400",
+      "title": "Noise Prediction Loss for Diffusion Training",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/400",
+      "path": "problems/0400-noise-prediction-loss-for-diffusion-training",
+      "first_solved_at": "2026-02-19T06:20:39.141Z",
+      "last_pushed_at": "2026-02-19T06:20:39.141Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:397": {
+      "kind": "problem",
+      "id": "397",
+      "title": "Classifier-Free Guidance for Conditional Diffusion",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/397",
+      "path": "problems/0397-classifier-free-guidance-for-conditional-diffusion",
+      "first_solved_at": "2026-02-19T07:00:56.914Z",
+      "last_pushed_at": "2026-02-19T07:00:56.914Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
