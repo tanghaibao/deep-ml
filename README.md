@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**519** solved · 424 problems · 21 labs · 74 math
+**525** solved · 429 problems · 22 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -221,10 +221,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2024-12-07 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-11-14 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
 | [Data Quality Scoring for ML Pipelines](https://www.deep-ml.com/problems/252) | medium | 2026-01-30 | [solution](problems/0252-data-quality-scoring-for-ml-pipelines) |
+| [DDIM Deterministic Sampling Step](https://www.deep-ml.com/problems/398) | medium | 2026-02-21 | [solution](problems/0398-ddim-deterministic-sampling-step) |
 | [DDPM Noise Schedule (Linear Beta Schedule)](https://www.deep-ml.com/problems/395) | medium | 2026-02-19 | [solution](problems/0395-ddpm-noise-schedule-linear-beta-schedule) |
 | [Decision Tree Pruning with Cost-Complexity](https://www.deep-ml.com/problems/285) | medium | 2026-02-02 | [solution](problems/0285-decision-tree-pruning-with-cost-complexity) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-01-17 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-01-17 | [solution](problems/0219-derivative-of-softmax) |
+| [Diffusion Cosine Noise Schedule](https://www.deep-ml.com/problems/403) | medium | 2026-02-21 | [solution](problems/0403-diffusion-cosine-noise-schedule) |
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-01-11 | [solution](problems/0302-diffusion-reconstruction-loss) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-02-14 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Distance Correlation for Measuring Metadata Dependence](https://www.deep-ml.com/problems/359) | medium | 2026-01-29 | [solution](problems/0359-distance-correlation-for-measuring-metadata-dependence) |
@@ -337,6 +339,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-01-18 | [solution](problems/0227-knowledge-distillation-loss) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-02-12 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-01-17 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
+| [Latent Diffusion Encoding and Decoding](https://www.deep-ml.com/problems/402) | medium | 2026-02-21 | [solution](problems/0402-latent-diffusion-encoding-and-decoding) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2025-01-19 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-01-18 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-01-25 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
@@ -352,6 +355,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mixture of Experts Load Balancing Loss](https://www.deep-ml.com/problems/389) | medium | 2026-02-15 | [solution](problems/0389-mixture-of-experts-load-balancing-loss) |
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-01-28 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-01-18 | [solution](problems/0316-mmlu-log-probability-scoring) |
+| [MoE with Shared Expert Forward Pass](https://www.deep-ml.com/problems/409) | medium | 2026-02-21 | [solution](problems/0409-moe-with-shared-expert-forward-pass) |
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-01-30 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
 | [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2026-01-30 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-01-14 | [solution](problems/0204-mutual-information) |
@@ -371,6 +375,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-08-09 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-01-16 | [solution](problems/0309-product-rule-for-derivatives) |
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-02-02 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
+| [QK-Norm (Query-Key Normalization)](https://www.deep-ml.com/problems/407) | medium | 2026-02-21 | [solution](problems/0407-qk-norm-query-key-normalization) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-01-18 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-01-16 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [RAFT: Iterative Reward-Ranked Fine-Tuning Loop](https://www.deep-ml.com/problems/379) | medium | 2026-02-14 | [solution](problems/0379-raft-iterative-reward-ranked-fine-tuning-loop) |
@@ -444,6 +449,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-01-26 | [solution](labs/0009-design-your-own-activation-function) |
+| [Design Your Own Normalization Layer](https://www.deep-ml.com/labs/24) | easy | 2026-02-21 | [solution](labs/0024-design-your-own-normalization-layer) |
 | [Dimensionality Reduction with Sklearn](https://www.deep-ml.com/labs/15) | easy | 2026-01-25 | [solution](labs/0015-dimensionality-reduction-with-sklearn) |
 | [Fix Overfitting with Regularization (Sklearn)](https://www.deep-ml.com/labs/22) | easy | 2026-02-14 | [solution](labs/0022-fix-overfitting-with-regularization-sklearn) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-01-20 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |

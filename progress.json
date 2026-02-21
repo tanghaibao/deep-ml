@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:19:48.614Z",
+  "generated_at": "2026-11-14T14:19:50.778Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6599,6 +6599,84 @@
       "last_pushed_at": "2026-02-19T07:00:56.914Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:407": {
+      "kind": "problem",
+      "id": "407",
+      "title": "QK-Norm (Query-Key Normalization)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/407",
+      "path": "problems/0407-qk-norm-query-key-normalization",
+      "first_solved_at": "2026-02-21T17:46:13.581Z",
+      "last_pushed_at": "2026-02-21T17:46:13.581Z",
+      "language": "python",
+      "lines": 28
+    },
+    "lab:24": {
+      "kind": "lab",
+      "id": "24",
+      "title": "Design Your Own Normalization Layer",
+      "difficulty": "easy",
+      "category": "Normalization",
+      "url": "https://www.deep-ml.com/labs/24",
+      "path": "labs/0024-design-your-own-normalization-layer",
+      "first_solved_at": "2026-02-21T17:52:15.734Z",
+      "last_pushed_at": "2026-02-21T17:52:15.734Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:398": {
+      "kind": "problem",
+      "id": "398",
+      "title": "DDIM Deterministic Sampling Step",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/398",
+      "path": "problems/0398-ddim-deterministic-sampling-step",
+      "first_solved_at": "2026-02-21T18:06:55.159Z",
+      "last_pushed_at": "2026-02-21T18:06:55.159Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:403": {
+      "kind": "problem",
+      "id": "403",
+      "title": "Diffusion Cosine Noise Schedule",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/403",
+      "path": "problems/0403-diffusion-cosine-noise-schedule",
+      "first_solved_at": "2026-02-21T19:05:43.526Z",
+      "last_pushed_at": "2026-02-21T19:05:43.526Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:409": {
+      "kind": "problem",
+      "id": "409",
+      "title": "MoE with Shared Expert Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/409",
+      "path": "problems/0409-moe-with-shared-expert-forward-pass",
+      "first_solved_at": "2026-02-21T22:56:58.733Z",
+      "last_pushed_at": "2026-02-21T22:56:58.733Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:402": {
+      "kind": "problem",
+      "id": "402",
+      "title": "Latent Diffusion Encoding and Decoding",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/402",
+      "path": "problems/0402-latent-diffusion-encoding-and-decoding",
+      "first_solved_at": "2026-02-21T23:12:57.377Z",
+      "last_pushed_at": "2026-02-21T23:12:57.377Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
