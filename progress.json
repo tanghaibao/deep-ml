@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:19:50.778Z",
+  "generated_at": "2026-11-14T14:19:52.801Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6677,6 +6677,58 @@
       "last_pushed_at": "2026-02-21T23:12:57.377Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:404": {
+      "kind": "problem",
+      "id": "404",
+      "title": "Implement Score Matching for Score-Based Diffusion",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/404",
+      "path": "problems/0404-implement-score-matching-for-score-based-diffusion",
+      "first_solved_at": "2026-02-22T00:34:48.710Z",
+      "last_pushed_at": "2026-02-22T00:34:48.710Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:399": {
+      "kind": "problem",
+      "id": "399",
+      "title": "Diffusion Model U-Net Time Embedding",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/399",
+      "path": "problems/0399-diffusion-model-u-net-time-embedding",
+      "first_solved_at": "2026-02-22T01:48:56.596Z",
+      "last_pushed_at": "2026-02-22T01:48:56.596Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:408": {
+      "kind": "problem",
+      "id": "408",
+      "title": "Pre-Norm vs Post-Norm Transformer Block",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/408",
+      "path": "problems/0408-pre-norm-vs-post-norm-transformer-block",
+      "first_solved_at": "2026-02-22T05:47:46.614Z",
+      "last_pushed_at": "2026-02-22T05:47:46.614Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:405": {
+      "kind": "problem",
+      "id": "405",
+      "title": "Multi-Head Latent Attention (MLA)",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/405",
+      "path": "problems/0405-multi-head-latent-attention-mla",
+      "first_solved_at": "2026-02-22T20:14:35.143Z",
+      "last_pushed_at": "2026-02-22T20:14:35.143Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }

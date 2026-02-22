@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**525** solved · 429 problems · 22 labs · 74 math
+**529** solved · 433 problems · 22 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -227,6 +227,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-01-17 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-01-17 | [solution](problems/0219-derivative-of-softmax) |
 | [Diffusion Cosine Noise Schedule](https://www.deep-ml.com/problems/403) | medium | 2026-02-21 | [solution](problems/0403-diffusion-cosine-noise-schedule) |
+| [Diffusion Model U-Net Time Embedding](https://www.deep-ml.com/problems/399) | medium | 2026-02-22 | [solution](problems/0399-diffusion-model-u-net-time-embedding) |
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-01-11 | [solution](problems/0302-diffusion-reconstruction-loss) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-02-14 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Distance Correlation for Measuring Metadata Dependence](https://www.deep-ml.com/problems/359) | medium | 2026-01-29 | [solution](problems/0359-distance-correlation-for-measuring-metadata-dependence) |
@@ -314,6 +315,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-02-04 | [solution](problems/0297-implement-request-batching-for-inference) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-01-20 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-01-18 | [solution](problems/0276-implement-roc-curve-calculation) |
+| [Implement Score Matching for Score-Based Diffusion](https://www.deep-ml.com/problems/404) | medium | 2026-02-22 | [solution](problems/0404-implement-score-matching-for-score-based-diffusion) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2024-09-25 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-01-24 | [solution](problems/0306-implement-soft-voting-classifier) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-01-20 | [solution](problems/0275-implement-stratified-train-test-split) |
@@ -372,6 +374,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2025-10-25 | [solution](problems/0190-overlapping-max-pooling) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-01-29 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-01-17 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Pre-Norm vs Post-Norm Transformer Block](https://www.deep-ml.com/problems/408) | medium | 2026-02-22 | [solution](problems/0408-pre-norm-vs-post-norm-transformer-block) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-08-09 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-01-16 | [solution](problems/0309-product-rule-for-derivatives) |
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-02-02 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
@@ -429,6 +432,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MDN with Label Collinearity Control](https://www.deep-ml.com/problems/360) | hard | 2026-02-08 | [solution](problems/0360-mdn-with-label-collinearity-control) |
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-02-09 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
 | [Monte Carlo Tree Search](https://www.deep-ml.com/problems/207) | hard | 2026-01-30 | [solution](problems/0207-monte-carlo-tree-search) |
+| [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-02-22 | [solution](problems/0405-multi-head-latent-attention-mla) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-02-06 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-01-26 | [solution](problems/0191-pca-color-augmentation) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2024-08-24 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
