@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:19:54.617Z",
+  "generated_at": "2026-11-14T14:19:56.542Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6742,6 +6742,123 @@
       "last_pushed_at": "2026-02-23T03:32:09.757Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:414": {
+      "kind": "problem",
+      "id": "414",
+      "title": "Compute Arithmetic Intensity and Classify Bottleneck",
+      "difficulty": "easy",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/414",
+      "path": "problems/0414-compute-arithmetic-intensity-and-classify-bottleneck",
+      "first_solved_at": "2026-02-27T01:57:24.573Z",
+      "last_pushed_at": "2026-02-27T01:57:24.573Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:412": {
+      "kind": "problem",
+      "id": "412",
+      "title": "Estimate Minimum GPU Count for Model Deployment",
+      "difficulty": "easy",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/412",
+      "path": "problems/0412-estimate-minimum-gpu-count-for-model-deployment",
+      "first_solved_at": "2026-02-27T02:03:37.221Z",
+      "last_pushed_at": "2026-02-27T02:03:37.221Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:411": {
+      "kind": "problem",
+      "id": "411",
+      "title": "Compute TTFT ITL and TPS from a Token Timestamp Stream",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/411",
+      "path": "problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream",
+      "first_solved_at": "2026-02-27T02:16:09.277Z",
+      "last_pushed_at": "2026-02-27T02:16:09.277Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:410": {
+      "kind": "problem",
+      "id": "410",
+      "title": "Speculative Decoding End-to-End Simulation",
+      "difficulty": "hard",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/410",
+      "path": "problems/0410-speculative-decoding-end-to-end-simulation",
+      "first_solved_at": "2026-02-27T21:45:48.941Z",
+      "last_pushed_at": "2026-02-27T21:45:48.941Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:413": {
+      "kind": "problem",
+      "id": "413",
+      "title": "End-to-End Latency Decomposition",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/413",
+      "path": "problems/0413-end-to-end-latency-decomposition",
+      "first_solved_at": "2026-02-27T22:11:06.709Z",
+      "last_pushed_at": "2026-02-27T22:11:06.709Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:415": {
+      "kind": "problem",
+      "id": "415",
+      "title": "Roofline Model Analysis for GPU Operations",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/415",
+      "path": "problems/0415-roofline-model-analysis-for-gpu-operations",
+      "first_solved_at": "2026-02-27T22:28:29.561Z",
+      "last_pushed_at": "2026-02-27T22:28:29.561Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:416": {
+      "kind": "problem",
+      "id": "416",
+      "title": "Compute Attention Memory Traffic and FLOPs",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/416",
+      "path": "problems/0416-compute-attention-memory-traffic-and-flops",
+      "first_solved_at": "2026-02-27T22:36:35.881Z",
+      "last_pushed_at": "2026-02-27T22:36:35.881Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:417": {
+      "kind": "problem",
+      "id": "417",
+      "title": "Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/417",
+      "path": "problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound",
+      "first_solved_at": "2026-02-27T22:48:44.581Z",
+      "last_pushed_at": "2026-02-27T22:48:44.581Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:418": {
+      "kind": "problem",
+      "id": "418",
+      "title": "Estimate KV Cache Size from Model Config",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/418",
+      "path": "problems/0418-estimate-kv-cache-size-from-model-config",
+      "first_solved_at": "2026-02-27T23:12:52.347Z",
+      "last_pushed_at": "2026-02-27T23:12:52.347Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
