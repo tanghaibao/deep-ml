@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**539** solved · 443 problems · 22 labs · 74 math
+**542** solved · 445 problems · 23 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -349,6 +349,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-02-12 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-01-17 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Latent Diffusion Encoding and Decoding](https://www.deep-ml.com/problems/402) | medium | 2026-02-21 | [solution](problems/0402-latent-diffusion-encoding-and-decoding) |
+| [Latent Space Patchification for Diffusion Transformers](https://www.deep-ml.com/problems/420) | medium | 2026-02-28 | [solution](problems/0420-latent-space-patchification-for-diffusion-transformers) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2025-01-19 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-01-18 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-01-25 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
@@ -415,6 +416,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-01-30 | [solution](problems/0347-xgboost-objective-function-calculation) |
 | [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2026-02-08 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-02-08 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
+| [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-02-28 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-21 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-08-08 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-01-31 | [solution](problems/0208-flash-attention-v1-forward-pass) |
@@ -472,6 +474,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-02-13 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-02-10 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-02-09 | [solution](labs/0010-design-your-own-attention-mechanism) |
+| [Design Your Own MoE Router](https://www.deep-ml.com/labs/25) | medium | 2026-02-28 | [solution](labs/0025-design-your-own-moe-router) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-02-11 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-02-14 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 | [MNIST: Design Your Own Pytorch Optimizer](https://www.deep-ml.com/labs/3) | medium | 2026-02-10 | [solution](labs/0003-mnist-design-your-own-pytorch-optimizer) |

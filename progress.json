@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:19:56.542Z",
+  "generated_at": "2026-11-14T14:19:58.681Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6859,6 +6859,45 @@
       "last_pushed_at": "2026-02-27T23:12:52.347Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:420": {
+      "kind": "problem",
+      "id": "420",
+      "title": "Latent Space Patchification for Diffusion Transformers",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/420",
+      "path": "problems/0420-latent-space-patchification-for-diffusion-transformers",
+      "first_solved_at": "2026-02-28T00:07:46.439Z",
+      "last_pushed_at": "2026-02-28T00:07:46.439Z",
+      "language": "python",
+      "lines": 29
+    },
+    "lab:25": {
+      "kind": "lab",
+      "id": "25",
+      "title": "Design Your Own MoE Router",
+      "difficulty": "medium",
+      "category": "Mixture of Experts",
+      "url": "https://www.deep-ml.com/labs/25",
+      "path": "labs/0025-design-your-own-moe-router",
+      "first_solved_at": "2026-02-28T03:36:14.053Z",
+      "last_pushed_at": "2026-02-28T03:36:14.053Z",
+      "language": "python",
+      "lines": 46
+    },
+    "problem:419": {
+      "kind": "problem",
+      "id": "419",
+      "title": "Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/419",
+      "path": "problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p",
+      "first_solved_at": "2026-02-28T18:17:21.113Z",
+      "last_pushed_at": "2026-02-28T18:17:21.113Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
