@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:19:58.681Z",
+  "generated_at": "2026-11-14T14:20:00.590Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6898,6 +6898,19 @@
       "last_pushed_at": "2026-02-28T18:17:21.113Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:421": {
+      "kind": "problem",
+      "id": "421",
+      "title": "GPU Ops:Byte Ratio Calculation from Spec Sheet",
+      "difficulty": "easy",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/421",
+      "path": "problems/0421-gpu-ops-byte-ratio-calculation-from-spec-sheet",
+      "first_solved_at": "2026-03-05T21:22:34.111Z",
+      "last_pushed_at": "2026-03-05T21:22:34.111Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
