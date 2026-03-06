@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:20:00.590Z",
+  "generated_at": "2026-11-14T14:20:02.466Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6911,6 +6911,71 @@
       "last_pushed_at": "2026-03-05T21:22:34.111Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:434": {
+      "kind": "problem",
+      "id": "434",
+      "title": "Prefix Cache Hit Rate Calculator",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/434",
+      "path": "problems/0434-prefix-cache-hit-rate-calculator",
+      "first_solved_at": "2026-03-06T00:33:54.504Z",
+      "last_pushed_at": "2026-03-06T00:33:54.504Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:439": {
+      "kind": "problem",
+      "id": "439",
+      "title": "Expert Parallelism Token Routing and Communication Cost",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/439",
+      "path": "problems/0439-expert-parallelism-token-routing-and-communication-cost",
+      "first_solved_at": "2026-03-06T07:48:31.928Z",
+      "last_pushed_at": "2026-03-06T07:48:31.928Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:442": {
+      "kind": "problem",
+      "id": "442",
+      "title": "VLM Visual Token Count from Image Resolution and Patch Size",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/442",
+      "path": "problems/0442-vlm-visual-token-count-from-image-resolution-and-patch-size",
+      "first_solved_at": "2026-03-06T22:15:40.844Z",
+      "last_pushed_at": "2026-03-06T22:15:40.844Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:436": {
+      "kind": "problem",
+      "id": "436",
+      "title": "KV Cache Tiered Offloading Simulator",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/436",
+      "path": "problems/0436-kv-cache-tiered-offloading-simulator",
+      "first_solved_at": "2026-03-06T23:01:43.197Z",
+      "last_pushed_at": "2026-03-06T23:01:43.197Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:446": {
+      "kind": "problem",
+      "id": "446",
+      "title": "Video Generation Latent Space Memory Estimation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/446",
+      "path": "problems/0446-video-generation-latent-space-memory-estimation",
+      "first_solved_at": "2026-03-06T23:33:02.140Z",
+      "last_pushed_at": "2026-03-06T23:33:02.140Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
