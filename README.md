@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**548** solved · 451 problems · 23 labs · 74 math
+**549** solved · 452 problems · 23 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -349,6 +349,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-01-14 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-01-17 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2024-08-21 | [solution](problems/0017-k-means-clustering) |
+| [Kernel Fusion Memory Savings Calculator](https://www.deep-ml.com/problems/424) | medium | 2026-03-07 | [solution](problems/0424-kernel-fusion-memory-savings-calculator) |
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-01-18 | [solution](problems/0227-knowledge-distillation-loss) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-02-12 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [KV Cache Tiered Offloading Simulator](https://www.deep-ml.com/problems/436) | medium | 2026-03-06 | [solution](problems/0436-kv-cache-tiered-offloading-simulator) |
