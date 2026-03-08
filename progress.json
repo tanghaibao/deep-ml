@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:20:04.465Z",
+  "generated_at": "2026-11-14T14:20:06.356Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -6989,6 +6989,71 @@
       "last_pushed_at": "2026-03-07T00:15:00.012Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:447": {
+      "kind": "problem",
+      "id": "447",
+      "title": "Classifier-Free Guidance Skip Speedup Calculator",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/447",
+      "path": "problems/0447-classifier-free-guidance-skip-speedup-calculator",
+      "first_solved_at": "2026-03-08T17:59:24.511Z",
+      "last_pushed_at": "2026-03-08T17:59:24.511Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:438": {
+      "kind": "problem",
+      "id": "438",
+      "title": "Tensor Parallelism All-Reduce Communication Cost",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/438",
+      "path": "problems/0438-tensor-parallelism-all-reduce-communication-cost",
+      "first_solved_at": "2026-03-08T18:47:48.744Z",
+      "last_pushed_at": "2026-03-08T18:47:48.744Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:425": {
+      "kind": "problem",
+      "id": "425",
+      "title": "Continuous Batching (In-Flight Batching) Simulator",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/425",
+      "path": "problems/0425-continuous-batching-in-flight-batching-simulator",
+      "first_solved_at": "2026-03-08T20:19:53.606Z",
+      "last_pushed_at": "2026-03-08T20:19:53.606Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:443": {
+      "kind": "problem",
+      "id": "443",
+      "title": "Embedding Quantization Quality via Cosine Similarity",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/443",
+      "path": "problems/0443-embedding-quantization-quality-via-cosine-similarity",
+      "first_solved_at": "2026-03-08T21:55:03.222Z",
+      "last_pushed_at": "2026-03-08T21:55:03.222Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:437": {
+      "kind": "problem",
+      "id": "437",
+      "title": "Cache-Aware Request Routing Across Replicas",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/437",
+      "path": "problems/0437-cache-aware-request-routing-across-replicas",
+      "first_solved_at": "2026-03-08T23:02:43.049Z",
+      "last_pushed_at": "2026-03-08T23:02:43.049Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }

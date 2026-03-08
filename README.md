@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**549** solved · 452 problems · 23 labs · 74 math
+**554** solved · 457 problems · 23 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -191,6 +191,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2025-10-14 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-04 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-02-14 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
+| [Cache-Aware Request Routing Across Replicas](https://www.deep-ml.com/problems/437) | medium | 2026-03-08 | [solution](problems/0437-cache-aware-request-routing-across-replicas) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-01-18 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate BIC/AIC for Model Selection](https://www.deep-ml.com/problems/368) | medium | 2026-02-04 | [solution](problems/0368-calculate-bic-aic-for-model-selection) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-08-03 | [solution](problems/0037-calculate-correlation-matrix) |
@@ -210,6 +211,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-08-25 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-01-27 | [solution](problems/0334-cholesky-decomposition) |
 | [Classifier-Free Guidance for Conditional Diffusion](https://www.deep-ml.com/problems/397) | medium | 2026-02-19 | [solution](problems/0397-classifier-free-guidance-for-conditional-diffusion) |
+| [Classifier-Free Guidance Skip Speedup Calculator](https://www.deep-ml.com/problems/447) | medium | 2026-03-08 | [solution](problems/0447-classifier-free-guidance-skip-speedup-calculator) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-01-17 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-02-27 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
 | [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-01-29 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
@@ -223,6 +225,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-01-18 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2025-09-03 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-01-17 | [solution](problems/0212-confidence-interval-for-population-mean) |
+| [Continuous Batching (In-Flight Batching) Simulator](https://www.deep-ml.com/problems/425) | medium | 2026-03-08 | [solution](problems/0425-continuous-batching-in-flight-batching-simulator) |
 | [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-02-14 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
 | [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-01-20 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Count Trainable Parameters with Weight Tying in a GPT Model](https://www.deep-ml.com/problems/1009) | medium | 2026-10-04 | [solution](problems/1009-count-trainable-parameters-with-weight-tying-in-a-gpt-model) |
@@ -245,6 +248,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2025-10-08 | [solution](problems/0151-dropout-layer) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-01-20 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-01-17 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
+| [Embedding Quantization Quality via Cosine Similarity](https://www.deep-ml.com/problems/443) | medium | 2026-03-08 | [solution](problems/0443-embedding-quantization-quality-via-cosine-similarity) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-02-27 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-01-25 | [solution](problems/0327-engram-context-aware-gating) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-01-17 | [solution](problems/0205-entropy-cross-entropy) |
@@ -413,6 +417,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Spectral Normalization](https://www.deep-ml.com/problems/386) | medium | 2026-02-15 | [solution](problems/0386-spectral-normalization) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-01-20 | [solution](problems/0231-temperature-decay-scheduler) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-02-12 | [solution](problems/0378-temperature-sampling) |
+| [Tensor Parallelism All-Reduce Communication Cost](https://www.deep-ml.com/problems/438) | medium | 2026-03-08 | [solution](problems/0438-tensor-parallelism-all-reduce-communication-cost) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2025-01-08 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-02-13 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Train a Paris-Style Decentralized Expert Model](https://www.deep-ml.com/problems/335) | medium | 2026-01-22 | [solution](problems/0335-train-a-paris-style-decentralized-expert-model) |
