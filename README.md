@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**554** solved · 457 problems · 23 labs · 74 math
+**559** solved · 462 problems · 23 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -215,6 +215,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-01-17 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-02-27 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
 | [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-01-29 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
+| [Cold Start Latency Budget Breakdown](https://www.deep-ml.com/problems/450) | medium | 2026-03-09 | [solution](problems/0450-cold-start-latency-budget-breakdown) |
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-02-27 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2025-11-09 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-01-17 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |
@@ -379,6 +380,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-01-30 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
 | [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2026-01-30 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-01-14 | [solution](problems/0204-mutual-information) |
+| [N-gram Speculation Dictionary Construction and Lookup](https://www.deep-ml.com/problems/432) | medium | 2026-03-09 | [solution](problems/0432-n-gram-speculation-dictionary-construction-and-lookup) |
 | [n-Step TD Prediction](https://www.deep-ml.com/problems/273) | medium | 2026-01-25 | [solution](problems/0273-n-step-td-prediction) |
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-01-18 | [solution](problems/0247-negative-binomial-distribution-probability) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-09-23 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
@@ -392,12 +394,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2025-10-25 | [solution](problems/0190-overlapping-max-pooling) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-01-29 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-01-17 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Post-Training Quantization with Per-Channel Scale Factors](https://www.deep-ml.com/problems/426) | medium | 2026-03-09 | [solution](problems/0426-post-training-quantization-with-per-channel-scale-factors) |
 | [Pre-Norm vs Post-Norm Transformer Block](https://www.deep-ml.com/problems/408) | medium | 2026-02-22 | [solution](problems/0408-pre-norm-vs-post-norm-transformer-block) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-08-09 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-01-16 | [solution](problems/0309-product-rule-for-derivatives) |
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-02-02 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
 | [QK-Norm (Query-Key Normalization)](https://www.deep-ml.com/problems/407) | medium | 2026-02-21 | [solution](problems/0407-qk-norm-query-key-normalization) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-01-18 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
+| [Quantization Quality Check via Perplexity Delta](https://www.deep-ml.com/problems/429) | medium | 2026-03-09 | [solution](problems/0429-quantization-quality-check-via-perplexity-delta) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-01-16 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [RAFT: Iterative Reward-Ranked Fine-Tuning Loop](https://www.deep-ml.com/problems/379) | medium | 2026-02-14 | [solution](problems/0379-raft-iterative-reward-ranked-fine-tuning-loop) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-01-28 | [solution](problems/0353-reconstruction-error-from-pca) |
@@ -415,6 +419,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2025-09-30 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [Sparse MoE Top-K Routing](https://www.deep-ml.com/problems/229) | medium | 2026-01-24 | [solution](problems/0229-sparse-moe-top-k-routing) |
 | [Spectral Normalization](https://www.deep-ml.com/problems/386) | medium | 2026-02-15 | [solution](problems/0386-spectral-normalization) |
+| [Speculative Decoding Acceptance Rate vs Temperature](https://www.deep-ml.com/problems/433) | medium | 2026-03-09 | [solution](problems/0433-speculative-decoding-acceptance-rate-vs-temperature) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-01-20 | [solution](problems/0231-temperature-decay-scheduler) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-02-12 | [solution](problems/0378-temperature-sampling) |
 | [Tensor Parallelism All-Reduce Communication Cost](https://www.deep-ml.com/problems/438) | medium | 2026-03-08 | [solution](problems/0438-tensor-parallelism-all-reduce-communication-cost) |

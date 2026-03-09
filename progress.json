@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:20:06.356Z",
+  "generated_at": "2026-11-14T14:20:08.332Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -7054,6 +7054,71 @@
       "last_pushed_at": "2026-03-08T23:02:43.049Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:450": {
+      "kind": "problem",
+      "id": "450",
+      "title": "Cold Start Latency Budget Breakdown",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/450",
+      "path": "problems/0450-cold-start-latency-budget-breakdown",
+      "first_solved_at": "2026-03-09T01:04:45.938Z",
+      "last_pushed_at": "2026-03-09T01:04:45.938Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:426": {
+      "kind": "problem",
+      "id": "426",
+      "title": "Post-Training Quantization with Per-Channel Scale Factors",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/426",
+      "path": "problems/0426-post-training-quantization-with-per-channel-scale-factors",
+      "first_solved_at": "2026-03-09T01:31:34.323Z",
+      "last_pushed_at": "2026-03-09T01:31:34.323Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:429": {
+      "kind": "problem",
+      "id": "429",
+      "title": "Quantization Quality Check via Perplexity Delta",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/429",
+      "path": "problems/0429-quantization-quality-check-via-perplexity-delta",
+      "first_solved_at": "2026-03-09T02:58:41.867Z",
+      "last_pushed_at": "2026-03-09T02:58:41.867Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:432": {
+      "kind": "problem",
+      "id": "432",
+      "title": "N-gram Speculation Dictionary Construction and Lookup",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/432",
+      "path": "problems/0432-n-gram-speculation-dictionary-construction-and-lookup",
+      "first_solved_at": "2026-03-09T20:30:09.790Z",
+      "last_pushed_at": "2026-03-09T20:30:09.790Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:433": {
+      "kind": "problem",
+      "id": "433",
+      "title": "Speculative Decoding Acceptance Rate vs Temperature",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/433",
+      "path": "problems/0433-speculative-decoding-acceptance-rate-vs-temperature",
+      "first_solved_at": "2026-03-09T22:06:46.834Z",
+      "last_pushed_at": "2026-03-09T22:06:46.834Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
