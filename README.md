@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**559** solved · 462 problems · 23 labs · 74 math
+**563** solved · 466 problems · 23 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -296,6 +296,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gaussian Mixture Model (GMM) M-step](https://www.deep-ml.com/problems/366) | medium | 2026-02-05 | [solution](problems/0366-implement-gaussian-mixture-model-gmm-m-step) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-02-03 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2024-08-30 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement Graph Convolution Network (GCN) Layer](https://www.deep-ml.com/problems/453) | medium | 2026-03-15 | [solution](problems/0453-implement-graph-convolution-network-gcn-layer) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-01-18 | [solution](problems/0288-implement-grid-search) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2025-10-02 | [solution](problems/0126-implement-group-normalization) |
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-02-16 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
@@ -357,6 +358,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Kernel Fusion Memory Savings Calculator](https://www.deep-ml.com/problems/424) | medium | 2026-03-07 | [solution](problems/0424-kernel-fusion-memory-savings-calculator) |
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-01-18 | [solution](problems/0227-knowledge-distillation-loss) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-02-12 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
+| [KV Cache Memory Budget and Eviction Policy](https://www.deep-ml.com/problems/435) | medium | 2026-03-15 | [solution](problems/0435-kv-cache-memory-budget-and-eviction-policy) |
 | [KV Cache Tiered Offloading Simulator](https://www.deep-ml.com/problems/436) | medium | 2026-03-06 | [solution](problems/0436-kv-cache-tiered-offloading-simulator) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-01-17 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Latent Diffusion Encoding and Decoding](https://www.deep-ml.com/problems/402) | medium | 2026-02-21 | [solution](problems/0402-latent-diffusion-encoding-and-decoding) |
@@ -377,6 +379,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-01-28 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-01-18 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [MoE with Shared Expert Forward Pass](https://www.deep-ml.com/problems/409) | medium | 2026-02-21 | [solution](problems/0409-moe-with-shared-expert-forward-pass) |
+| [Multi-GPU Communication Overhead (NVLink vs InfiniBand)](https://www.deep-ml.com/problems/422) | medium | 2026-03-15 | [solution](problems/0422-multi-gpu-communication-overhead-nvlink-vs-infiniband) |
+| [Multi-Instance GPU (MIG) Resource Allocation](https://www.deep-ml.com/problems/423) | medium | 2026-03-15 | [solution](problems/0423-multi-instance-gpu-mig-resource-allocation) |
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-01-30 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
 | [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2026-01-30 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-01-14 | [solution](problems/0204-mutual-information) |

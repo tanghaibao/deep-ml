@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:20:08.332Z",
+  "generated_at": "2026-11-14T14:20:10.331Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -7119,6 +7119,58 @@
       "last_pushed_at": "2026-03-09T22:06:46.834Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:453": {
+      "kind": "problem",
+      "id": "453",
+      "title": "Implement Graph Convolution Network (GCN) Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/453",
+      "path": "problems/0453-implement-graph-convolution-network-gcn-layer",
+      "first_solved_at": "2026-03-15T04:50:21.042Z",
+      "last_pushed_at": "2026-03-15T04:50:21.042Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:435": {
+      "kind": "problem",
+      "id": "435",
+      "title": "KV Cache Memory Budget and Eviction Policy",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/435",
+      "path": "problems/0435-kv-cache-memory-budget-and-eviction-policy",
+      "first_solved_at": "2026-03-15T20:23:25.596Z",
+      "last_pushed_at": "2026-03-15T20:23:25.596Z",
+      "language": "python",
+      "lines": 47
+    },
+    "problem:422": {
+      "kind": "problem",
+      "id": "422",
+      "title": "Multi-GPU Communication Overhead (NVLink vs InfiniBand)",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/422",
+      "path": "problems/0422-multi-gpu-communication-overhead-nvlink-vs-infiniband",
+      "first_solved_at": "2026-03-15T21:42:54.883Z",
+      "last_pushed_at": "2026-03-15T21:42:54.883Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:423": {
+      "kind": "problem",
+      "id": "423",
+      "title": "Multi-Instance GPU (MIG) Resource Allocation",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/423",
+      "path": "problems/0423-multi-instance-gpu-mig-resource-allocation",
+      "first_solved_at": "2026-03-15T23:26:41.593Z",
+      "last_pushed_at": "2026-03-15T23:26:41.593Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
