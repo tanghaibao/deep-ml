@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**564** solved · 467 problems · 23 labs · 74 math
+**565** solved · 467 problems · 23 labs · 75 math
 
 ![Coverage](./coverage.svg)
 
@@ -572,6 +572,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-20 | [solution](math/0013-solving-linear-systems) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-09-25 | [solution](math/0027-statistical-inference) |
 | [Sufficient Statistics and Belief States](https://www.deep-ml.com/math-problems/124) | medium | 2026-09-28 | [solution](math/0124-sufficient-statistics-and-belief-states) |
+| [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-08-30 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-09-25 | [solution](math/0041-the-em-algorithm) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-20 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [The Graph Laplacian, Its Eigenvectors and Spectral Clustering](https://www.deep-ml.com/math-problems/189) | medium | 2026-10-05 | [solution](math/0189-the-graph-laplacian-its-eigenvectors-and-spectral-clustering) |
