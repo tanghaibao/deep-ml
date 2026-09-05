@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**566** solved · 468 problems · 23 labs · 75 math
+**568** solved · 468 problems · 23 labs · 77 math
 
 ![Coverage](./coverage.svg)
 
@@ -527,6 +527,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Precision and Recall at a Threshold](https://www.deep-ml.com/math-problems/127) | easy | 2026-11-13 | [solution](math/0127-precision-and-recall-at-a-threshold) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-20 | [solution](math/0019-probability-fundamentals) |
 | [The Categorical MLE by Lagrange Multipliers](https://www.deep-ml.com/math-problems/384) | easy | 2026-11-14 | [solution](math/0384-the-categorical-mle-by-lagrange-multipliers) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-05 | [solution](math/0007-vector-operations) |
 | [AUC as the Probability of Ranking a Positive Above a Negative](https://www.deep-ml.com/math-problems/128) | medium | 2026-11-14 | [solution](math/0128-auc-as-the-probability-of-ranking-a-positive-above-a-negative) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-20 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Basis Functions and Degrees of Freedom](https://www.deep-ml.com/math-problems/95) | medium | 2026-09-27 | [solution](math/0095-basis-functions-and-degrees-of-freedom) |
@@ -567,6 +568,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-09-20 | [solution](math/0014-orthogonality-and-projections) |
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-09-23 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-09-20 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
+| [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-09-05 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-20 | [solution](math/0031-regularization-and-generalization) |
 | [Scaled Dot-Product Variance: Why Divide by the Square Root of d](https://www.deep-ml.com/math-problems/134) | medium | 2026-11-13 | [solution](math/0134-scaled-dot-product-variance-why-divide-by-the-square-root-of-d) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-20 | [solution](math/0032-softmax-and-cross-entropy) |

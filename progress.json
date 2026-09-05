@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:20:16.350Z",
+  "generated_at": "2026-11-14T14:20:18.450Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -7208,6 +7208,28 @@
       "last_pushed_at": "2026-09-03T15:26:28.105Z",
       "language": "python",
       "lines": 6
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-09-05T20:46:07.952Z",
+      "last_pushed_at": "2026-09-05T20:46:07.952Z"
+    },
+    "math:48": {
+      "kind": "math",
+      "id": "48",
+      "title": "Pseudoinverse and Minimum-Norm Least Squares",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/48",
+      "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
+      "first_solved_at": "2026-09-05T20:48:51.481Z",
+      "last_pushed_at": "2026-09-05T20:48:51.481Z"
     }
   }
 }
