@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:24:00.880Z",
+  "generated_at": "2026-09-20T21:26:24.514Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -754,6 +754,17 @@
       "last_pushed_at": "2024-10-11T04:18:56.450Z",
       "language": "python",
       "lines": 1
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-09-20T21:26:23.878Z",
+      "last_pushed_at": "2026-09-20T21:26:23.878Z"
     }
   }
 }

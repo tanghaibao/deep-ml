@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**58** solved · 58 problems · 0 labs · 0 math
+**59** solved · 58 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2024-08-24 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2024-08-24 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2024-08-21 | [solution](problems/0028-svd-of-a-2x2-matrix) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-20 | [solution](math/0009-matrix-basics) |
 
 ---
 
