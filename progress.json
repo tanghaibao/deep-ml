@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T23:51:15.298Z",
+  "generated_at": "2026-09-20T23:52:42.679Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1169,6 +1169,17 @@
       "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
       "first_solved_at": "2026-09-20T23:51:14.786Z",
       "last_pushed_at": "2026-09-20T23:51:14.786Z"
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-09-20T23:52:42.170Z",
+      "last_pushed_at": "2026-09-20T23:52:42.170Z"
     }
   }
 }
