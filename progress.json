@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:25:42.603Z",
+  "generated_at": "2026-09-20T22:27:01.561Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1011,6 +1011,17 @@
       "path": "math/0036-multivariate-gaussians",
       "first_solved_at": "2026-09-20T22:25:42.007Z",
       "last_pushed_at": "2026-09-20T22:25:42.007Z"
+    },
+    "math:23": {
+      "kind": "math",
+      "id": "23",
+      "title": "Law of Large Numbers and Central Limit Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/23",
+      "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
+      "first_solved_at": "2026-09-20T22:27:00.984Z",
+      "last_pushed_at": "2026-09-20T22:27:00.984Z"
     }
   }
 }
