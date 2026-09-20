@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:42:14.276Z",
+  "generated_at": "2026-09-20T21:43:22.697Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -846,6 +846,17 @@
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-09-20T21:42:13.726Z",
       "last_pushed_at": "2026-09-20T21:42:13.726Z"
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-09-20T21:43:22.190Z",
+      "last_pushed_at": "2026-09-20T21:43:22.190Z"
     }
   }
 }
