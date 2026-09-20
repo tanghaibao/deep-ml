@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:52:57.492Z",
+  "generated_at": "2026-09-20T21:55:39.443Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -912,6 +912,17 @@
       "path": "math/0017-covariance-and-correlation",
       "first_solved_at": "2026-09-20T21:52:56.792Z",
       "last_pushed_at": "2026-09-20T21:52:56.792Z"
+    },
+    "math:2": {
+      "kind": "math",
+      "id": "2",
+      "title": "Multivariate Calculus",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/2",
+      "path": "math/0002-multivariate-calculus",
+      "first_solved_at": "2026-09-20T21:55:38.909Z",
+      "last_pushed_at": "2026-09-20T21:55:38.909Z"
     }
   }
 }
