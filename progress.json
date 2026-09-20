@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:43:10.182Z",
+  "generated_at": "2026-09-20T22:44:51.073Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1066,6 +1066,17 @@
       "path": "math/0031-regularization-and-generalization",
       "first_solved_at": "2026-09-20T22:43:09.281Z",
       "last_pushed_at": "2026-09-20T22:43:09.281Z"
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-09-20T22:44:47.063Z",
+      "last_pushed_at": "2026-09-20T22:44:47.063Z"
     }
   }
 }
