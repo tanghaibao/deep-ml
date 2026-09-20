@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:20:18.450Z",
+  "generated_at": "2026-11-14T14:20:20.342Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -7230,6 +7230,30 @@
       "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
       "first_solved_at": "2026-09-05T20:48:51.481Z",
       "last_pushed_at": "2026-09-05T20:48:51.481Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-09-20T21:22:29.097Z",
+      "last_pushed_at": "2026-09-20T21:22:29.097Z"
+    },
+    "problem:1076": {
+      "kind": "problem",
+      "id": "1076",
+      "title": "Backpropagation Gradients for a Dense Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1076",
+      "path": "problems/1076-backpropagation-gradients-for-a-dense-layer",
+      "first_solved_at": "2026-09-20T23:29:07.934Z",
+      "last_pushed_at": "2026-09-20T23:29:07.934Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
