@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:27:01.561Z",
+  "generated_at": "2026-09-20T22:35:16.853Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1022,6 +1022,17 @@
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-09-20T22:27:00.984Z",
       "last_pushed_at": "2026-09-20T22:27:00.984Z"
+    },
+    "math:6": {
+      "kind": "math",
+      "id": "6",
+      "title": "Optimization: Convexity and Critical Points",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/6",
+      "path": "math/0006-optimization-convexity-and-critical-points",
+      "first_solved_at": "2026-09-20T22:35:16.328Z",
+      "last_pushed_at": "2026-09-20T22:35:16.328Z"
     }
   }
 }
