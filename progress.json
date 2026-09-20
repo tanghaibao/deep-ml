@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T23:49:10.688Z",
+  "generated_at": "2026-09-20T23:51:15.298Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1158,6 +1158,17 @@
       "path": "math/0047-gram-schmidt-and-orthonormal-bases",
       "first_solved_at": "2026-09-20T23:49:08.988Z",
       "last_pushed_at": "2026-09-20T23:49:08.988Z"
+    },
+    "math:50": {
+      "kind": "math",
+      "id": "50",
+      "title": "Positive Definite Matrices and Quadratic Forms",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/50",
+      "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
+      "first_solved_at": "2026-09-20T23:51:14.786Z",
+      "last_pushed_at": "2026-09-20T23:51:14.786Z"
     }
   }
 }
