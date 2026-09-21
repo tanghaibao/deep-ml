@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T23:52:42.679Z",
+  "generated_at": "2026-09-21T17:05:24.413Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1180,6 +1180,19 @@
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-09-20T23:52:42.170Z",
       "last_pushed_at": "2026-09-20T23:52:42.170Z"
+    },
+    "problem:872": {
+      "kind": "problem",
+      "id": "872",
+      "title": "Truncated SVD Rank-r Approximation of Weight Updates",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/872",
+      "path": "problems/0872-truncated-svd-rank-r-approximation-of-weight-updates",
+      "first_solved_at": "2026-09-21T17:05:23.804Z",
+      "last_pushed_at": "2026-09-21T17:05:23.804Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
