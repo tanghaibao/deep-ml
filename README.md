@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**97** solved · 63 problems · 0 labs · 34 math
+**98** solved · 64 problems · 0 labs · 34 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2024-08-03 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-09-20 | [solution](problems/0121-vector-element-wise-sum) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2024-10-03 | [solution](problems/0055-2d-translation-matrix-implementation) |
+| [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-09-23 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-08-03 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-03 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2024-08-09 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
