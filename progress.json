@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T20:44:50.385Z",
+  "generated_at": "2026-09-25T20:52:30.773Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1337,6 +1337,17 @@
       "last_pushed_at": "2026-09-25T20:44:49.767Z",
       "language": "python",
       "lines": 9
+    },
+    "math:39": {
+      "kind": "math",
+      "id": "39",
+      "title": "Bias–Variance Decomposition",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/39",
+      "path": "math/0039-bias-variance-decomposition",
+      "first_solved_at": "2026-09-25T20:52:26.900Z",
+      "last_pushed_at": "2026-09-25T20:52:26.900Z"
     }
   }
 }

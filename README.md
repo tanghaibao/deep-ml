@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**109** solved · 69 problems · 0 labs · 40 math
+**110** solved · 69 problems · 0 labs · 41 math
 
 ![Coverage](./coverage.svg)
 
@@ -95,6 +95,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-20 | [solution](math/0019-probability-fundamentals) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-20 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-09-20 | [solution](math/0020-bayes-theorem) |
+| [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-09-25 | [solution](math/0039-bias-variance-decomposition) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-09-20 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-09-20 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-20 | [solution](math/0017-covariance-and-correlation) |
