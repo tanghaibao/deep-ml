@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:49:11.757Z",
+  "generated_at": "2026-09-25T15:51:01.439Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1267,6 +1267,17 @@
       "path": "math/0041-the-em-algorithm",
       "first_solved_at": "2026-09-25T15:49:11.181Z",
       "last_pushed_at": "2026-09-25T15:49:11.181Z"
+    },
+    "math:27": {
+      "kind": "math",
+      "id": "27",
+      "title": "Statistical Inference",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/27",
+      "path": "math/0027-statistical-inference",
+      "first_solved_at": "2026-09-25T15:51:00.894Z",
+      "last_pushed_at": "2026-09-25T15:51:00.894Z"
     }
   }
 }
