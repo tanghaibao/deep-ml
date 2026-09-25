@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:53:35.092Z",
+  "generated_at": "2026-09-25T18:09:01.944Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1300,6 +1300,17 @@
       "path": "math/0029-probabilistic-models",
       "first_solved_at": "2026-09-25T15:53:34.410Z",
       "last_pushed_at": "2026-09-25T15:53:34.410Z"
+    },
+    "math:62": {
+      "kind": "math",
+      "id": "62",
+      "title": "Bytes in the KV Cache (MHA, GQA, MQA, MLA)",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/62",
+      "path": "math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla",
+      "first_solved_at": "2026-09-25T18:09:01.372Z",
+      "last_pushed_at": "2026-09-25T18:09:01.372Z"
     }
   }
 }
