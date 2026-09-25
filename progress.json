@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T19:05:05.670Z",
+  "generated_at": "2026-09-25T15:49:11.757Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1256,6 +1256,17 @@
       "last_pushed_at": "2026-09-23T19:05:05.053Z",
       "language": "python",
       "lines": 6
+    },
+    "math:41": {
+      "kind": "math",
+      "id": "41",
+      "title": "The EM Algorithm",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/41",
+      "path": "math/0041-the-em-algorithm",
+      "first_solved_at": "2026-09-25T15:49:11.181Z",
+      "last_pushed_at": "2026-09-25T15:49:11.181Z"
     }
   }
 }
