@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**104** solved · 67 problems · 0 labs · 37 math
+**105** solved · 67 problems · 0 labs · 38 math
 
 ![Coverage](./coverage.svg)
 
@@ -117,6 +117,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-09-25 | [solution](math/0027-statistical-inference) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-09-25 | [solution](math/0041-the-em-algorithm) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-20 | [solution](math/0046-the-four-fundamental-subspaces) |
+| [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-25 | [solution](math/0028-bayesian-methods) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-20 | [solution](math/0016-eigendecomposition-and-svd) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-09-20 | [solution](math/0025-kl-divergence) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-09-20 | [solution](math/0015-matrix-decompositions-lu-and-qr) |

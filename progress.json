@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:51:01.439Z",
+  "generated_at": "2026-09-25T15:51:55.419Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1278,6 +1278,17 @@
       "path": "math/0027-statistical-inference",
       "first_solved_at": "2026-09-25T15:51:00.894Z",
       "last_pushed_at": "2026-09-25T15:51:00.894Z"
+    },
+    "math:28": {
+      "kind": "math",
+      "id": "28",
+      "title": "Bayesian Methods",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/28",
+      "path": "math/0028-bayesian-methods",
+      "first_solved_at": "2026-09-25T15:51:54.920Z",
+      "last_pushed_at": "2026-09-25T15:51:54.920Z"
     }
   }
 }
