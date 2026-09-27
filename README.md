@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**116** solved · 69 problems · 0 labs · 47 math
+**117** solved · 69 problems · 0 labs · 48 math
 
 ![Coverage](./coverage.svg)
 
@@ -108,6 +108,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-09-20 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [LDA versus PCA: Separation or Variance](https://www.deep-ml.com/math-problems/146) | medium | 2026-09-27 | [solution](math/0146-lda-versus-pca-separation-or-variance) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-09-20 | [solution](math/0034-least-squares-and-the-normal-equations) |
+| [Least Squares as Maximum Likelihood under Gaussian Noise](https://www.deep-ml.com/math-problems/156) | medium | 2026-09-27 | [solution](math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-09-20 | [solution](math/0038-log-likelihood-gradients) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-09-20 | [solution](math/0035-matrix-calculus-identities) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-09-20 | [solution](math/0010-matrix-multiplication) |

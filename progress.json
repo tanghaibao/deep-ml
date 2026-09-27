@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:36:36.542Z",
+  "generated_at": "2026-09-27T23:48:54.826Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1414,6 +1414,17 @@
       "path": "math/0141-gradient-of-a-weight-shared-across-passes",
       "first_solved_at": "2026-09-27T23:36:34.893Z",
       "last_pushed_at": "2026-09-27T23:36:34.893Z"
+    },
+    "math:156": {
+      "kind": "math",
+      "id": "156",
+      "title": "Least Squares as Maximum Likelihood under Gaussian Noise",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/156",
+      "path": "math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise",
+      "first_solved_at": "2026-09-27T23:48:53.657Z",
+      "last_pushed_at": "2026-09-27T23:48:53.657Z"
     }
   }
 }
