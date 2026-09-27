@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:25:32.144Z",
+  "generated_at": "2026-09-27T23:36:36.542Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1403,6 +1403,17 @@
       "path": "math/0095-basis-functions-and-degrees-of-freedom",
       "first_solved_at": "2026-09-27T23:25:31.580Z",
       "last_pushed_at": "2026-09-27T23:25:31.580Z"
+    },
+    "math:141": {
+      "kind": "math",
+      "id": "141",
+      "title": "Gradient of a Weight Shared Across Passes",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/141",
+      "path": "math/0141-gradient-of-a-weight-shared-across-passes",
+      "first_solved_at": "2026-09-27T23:36:34.893Z",
+      "last_pushed_at": "2026-09-27T23:36:34.893Z"
     }
   }
 }
