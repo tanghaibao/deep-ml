@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:39:52.384Z",
+  "generated_at": "2026-09-27T22:45:20.687Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1359,6 +1359,17 @@
       "path": "math/0099-the-kaplan-meier-estimator-and-the-log-rank-test",
       "first_solved_at": "2026-09-27T22:39:49.934Z",
       "last_pushed_at": "2026-09-27T22:39:49.934Z"
+    },
+    "math:85": {
+      "kind": "math",
+      "id": "85",
+      "title": "False Discovery Rate and Benjamini-Hochberg",
+      "difficulty": "hard",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/85",
+      "path": "math/0085-false-discovery-rate-and-benjamini-hochberg",
+      "first_solved_at": "2026-09-27T22:45:20.175Z",
+      "last_pushed_at": "2026-09-27T22:45:20.175Z"
     }
   }
 }
