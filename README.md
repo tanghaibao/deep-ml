@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**110** solved · 69 problems · 0 labs · 41 math
+**111** solved · 69 problems · 0 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -121,6 +121,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-09-25 | [solution](math/0027-statistical-inference) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-09-25 | [solution](math/0041-the-em-algorithm) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-20 | [solution](math/0046-the-four-fundamental-subspaces) |
+| [The Kaplan-Meier Estimator and the Log-Rank Test](https://www.deep-ml.com/math-problems/99) | medium | 2026-09-27 | [solution](math/0099-the-kaplan-meier-estimator-and-the-log-rank-test) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-25 | [solution](math/0028-bayesian-methods) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-20 | [solution](math/0016-eigendecomposition-and-svd) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-09-20 | [solution](math/0025-kl-divergence) |

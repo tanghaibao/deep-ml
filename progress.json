@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T20:52:30.773Z",
+  "generated_at": "2026-09-27T22:39:52.384Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1348,6 +1348,17 @@
       "path": "math/0039-bias-variance-decomposition",
       "first_solved_at": "2026-09-25T20:52:26.900Z",
       "last_pushed_at": "2026-09-25T20:52:26.900Z"
+    },
+    "math:99": {
+      "kind": "math",
+      "id": "99",
+      "title": "The Kaplan-Meier Estimator and the Log-Rank Test",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/99",
+      "path": "math/0099-the-kaplan-meier-estimator-and-the-log-rank-test",
+      "first_solved_at": "2026-09-27T22:39:49.934Z",
+      "last_pushed_at": "2026-09-27T22:39:49.934Z"
     }
   }
 }
