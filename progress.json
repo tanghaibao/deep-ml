@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:48:54.826Z",
+  "generated_at": "2026-09-27T23:54:52.217Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1425,6 +1425,17 @@
       "path": "math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise",
       "first_solved_at": "2026-09-27T23:48:53.657Z",
       "last_pushed_at": "2026-09-27T23:48:53.657Z"
+    },
+    "math:122": {
+      "kind": "math",
+      "id": "122",
+      "title": "Matrix Completion and Missing Values",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/122",
+      "path": "math/0122-matrix-completion-and-missing-values",
+      "first_solved_at": "2026-09-27T23:54:51.715Z",
+      "last_pushed_at": "2026-09-27T23:54:51.715Z"
     }
   }
 }
