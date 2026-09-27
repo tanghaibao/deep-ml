@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:45:20.687Z",
+  "generated_at": "2026-09-27T22:58:25.320Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1370,6 +1370,17 @@
       "path": "math/0085-false-discovery-rate-and-benjamini-hochberg",
       "first_solved_at": "2026-09-27T22:45:20.175Z",
       "last_pushed_at": "2026-09-27T22:45:20.175Z"
+    },
+    "math:146": {
+      "kind": "math",
+      "id": "146",
+      "title": "LDA versus PCA: Separation or Variance",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/146",
+      "path": "math/0146-lda-versus-pca-separation-or-variance",
+      "first_solved_at": "2026-09-27T22:58:24.528Z",
+      "last_pushed_at": "2026-09-27T22:58:24.528Z"
     }
   }
 }
