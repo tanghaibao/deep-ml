@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:58:25.320Z",
+  "generated_at": "2026-09-27T23:10:33.627Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1381,6 +1381,17 @@
       "path": "math/0146-lda-versus-pca-separation-or-variance",
       "first_solved_at": "2026-09-27T22:58:24.528Z",
       "last_pushed_at": "2026-09-27T22:58:24.528Z"
+    },
+    "math:74": {
+      "kind": "math",
+      "id": "74",
+      "title": "Properties of Estimators: Bias, Consistency, Efficiency",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/74",
+      "path": "math/0074-properties-of-estimators-bias-consistency-efficiency",
+      "first_solved_at": "2026-09-27T23:10:32.905Z",
+      "last_pushed_at": "2026-09-27T23:10:32.905Z"
     }
   }
 }
