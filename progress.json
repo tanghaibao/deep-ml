@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:10:33.627Z",
+  "generated_at": "2026-09-27T23:25:32.144Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1392,6 +1392,17 @@
       "path": "math/0074-properties-of-estimators-bias-consistency-efficiency",
       "first_solved_at": "2026-09-27T23:10:32.905Z",
       "last_pushed_at": "2026-09-27T23:10:32.905Z"
+    },
+    "math:95": {
+      "kind": "math",
+      "id": "95",
+      "title": "Basis Functions and Degrees of Freedom",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/95",
+      "path": "math/0095-basis-functions-and-degrees-of-freedom",
+      "first_solved_at": "2026-09-27T23:25:31.580Z",
+      "last_pushed_at": "2026-09-27T23:25:31.580Z"
     }
   }
 }
