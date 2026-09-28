@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T03:14:10.466Z",
+  "generated_at": "2026-09-28T03:21:51.911Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1524,6 +1524,17 @@
       "path": "math/0125-effective-rank-and-the-entropy-of-a-spectrum",
       "first_solved_at": "2026-09-28T03:14:09.898Z",
       "last_pushed_at": "2026-09-28T03:14:09.898Z"
+    },
+    "math:87": {
+      "kind": "math",
+      "id": "87",
+      "title": "Chi-Square Tests: Goodness of Fit and Independence",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/87",
+      "path": "math/0087-chi-square-tests-goodness-of-fit-and-independence",
+      "first_solved_at": "2026-09-28T03:21:51.222Z",
+      "last_pushed_at": "2026-09-28T03:21:51.222Z"
     }
   }
 }
