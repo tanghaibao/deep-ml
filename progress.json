@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:59:08.339Z",
+  "generated_at": "2026-09-28T00:09:41.913Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1447,6 +1447,17 @@
       "path": "math/0133-attention-as-a-soft-dictionary-lookup",
       "first_solved_at": "2026-09-27T23:59:07.730Z",
       "last_pushed_at": "2026-09-27T23:59:07.730Z"
+    },
+    "math:40": {
+      "kind": "math",
+      "id": "40",
+      "title": "Logistic Regression as Maximum Likelihood",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/40",
+      "path": "math/0040-logistic-regression-as-maximum-likelihood",
+      "first_solved_at": "2026-09-28T00:09:39.145Z",
+      "last_pushed_at": "2026-09-28T00:09:39.145Z"
     }
   }
 }
