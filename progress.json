@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:14:36.066Z",
+  "generated_at": "2026-09-28T01:17:26.907Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1480,6 +1480,17 @@
       "path": "math/0136-elbo-decomposition-with-gaussian-kl",
       "first_solved_at": "2026-09-28T01:14:35.357Z",
       "last_pushed_at": "2026-09-28T01:14:35.357Z"
+    },
+    "math:137": {
+      "kind": "math",
+      "id": "137",
+      "title": "DDPM Forward-Process Variance Schedule",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/137",
+      "path": "math/0137-ddpm-forward-process-variance-schedule",
+      "first_solved_at": "2026-09-28T01:17:26.339Z",
+      "last_pushed_at": "2026-09-28T01:17:26.339Z"
     }
   }
 }
