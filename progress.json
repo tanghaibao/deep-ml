@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:29:45.067Z",
+  "generated_at": "2026-09-28T03:14:10.466Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1513,6 +1513,17 @@
       "path": "math/0052-dpo-as-closed-form-kl-constrained-rl",
       "first_solved_at": "2026-09-28T01:29:44.480Z",
       "last_pushed_at": "2026-09-28T01:29:44.480Z"
+    },
+    "math:125": {
+      "kind": "math",
+      "id": "125",
+      "title": "Effective Rank and the Entropy of a Spectrum",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/125",
+      "path": "math/0125-effective-rank-and-the-entropy-of-a-spectrum",
+      "first_solved_at": "2026-09-28T03:14:09.898Z",
+      "last_pushed_at": "2026-09-28T03:14:09.898Z"
     }
   }
 }
