@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T03:21:51.911Z",
+  "generated_at": "2026-09-28T03:36:13.105Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1535,6 +1535,17 @@
       "path": "math/0087-chi-square-tests-goodness-of-fit-and-independence",
       "first_solved_at": "2026-09-28T03:21:51.222Z",
       "last_pushed_at": "2026-09-28T03:21:51.222Z"
+    },
+    "math:90": {
+      "kind": "math",
+      "id": "90",
+      "title": "Odds, Log-Odds, and Reading Logistic Coefficients",
+      "difficulty": "easy",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/90",
+      "path": "math/0090-odds-log-odds-and-reading-logistic-coefficients",
+      "first_solved_at": "2026-09-28T03:36:12.445Z",
+      "last_pushed_at": "2026-09-28T03:36:12.445Z"
     }
   }
 }
