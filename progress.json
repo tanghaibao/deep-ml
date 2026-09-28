@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:07:03.884Z",
+  "generated_at": "2026-09-28T01:14:36.066Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1469,6 +1469,17 @@
       "path": "math/0124-sufficient-statistics-and-belief-states",
       "first_solved_at": "2026-09-28T01:07:03.148Z",
       "last_pushed_at": "2026-09-28T01:07:03.148Z"
+    },
+    "math:136": {
+      "kind": "math",
+      "id": "136",
+      "title": "ELBO Decomposition with Gaussian KL",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/136",
+      "path": "math/0136-elbo-decomposition-with-gaussian-kl",
+      "first_solved_at": "2026-09-28T01:14:35.357Z",
+      "last_pushed_at": "2026-09-28T01:14:35.357Z"
     }
   }
 }
