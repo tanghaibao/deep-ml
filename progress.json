@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:17:26.907Z",
+  "generated_at": "2026-09-28T01:22:43.907Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1491,6 +1491,17 @@
       "path": "math/0137-ddpm-forward-process-variance-schedule",
       "first_solved_at": "2026-09-28T01:17:26.339Z",
       "last_pushed_at": "2026-09-28T01:17:26.339Z"
+    },
+    "math:51": {
+      "kind": "math",
+      "id": "51",
+      "title": "Bradley-Terry Preference Model",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/51",
+      "path": "math/0051-bradley-terry-preference-model",
+      "first_solved_at": "2026-09-28T01:22:42.828Z",
+      "last_pushed_at": "2026-09-28T01:22:42.828Z"
     }
   }
 }
