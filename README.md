@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**124** solved · 69 problems · 0 labs · 55 math
+**125** solved · 69 problems · 0 labs · 56 math
 
 ![Coverage](./coverage.svg)
 
@@ -133,6 +133,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-20 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [The Kaplan-Meier Estimator and the Log-Rank Test](https://www.deep-ml.com/math-problems/99) | medium | 2026-09-27 | [solution](math/0099-the-kaplan-meier-estimator-and-the-log-rank-test) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-25 | [solution](math/0028-bayesian-methods) |
+| [DPO as Closed-Form KL-Constrained RL](https://www.deep-ml.com/math-problems/52) | hard | 2026-09-28 | [solution](math/0052-dpo-as-closed-form-kl-constrained-rl) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-20 | [solution](math/0016-eigendecomposition-and-svd) |
 | [False Discovery Rate and Benjamini-Hochberg](https://www.deep-ml.com/math-problems/85) | hard | 2026-09-27 | [solution](math/0085-false-discovery-rate-and-benjamini-hochberg) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-09-20 | [solution](math/0025-kl-divergence) |

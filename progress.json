@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:22:43.907Z",
+  "generated_at": "2026-09-28T01:29:45.067Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1502,6 +1502,17 @@
       "path": "math/0051-bradley-terry-preference-model",
       "first_solved_at": "2026-09-28T01:22:42.828Z",
       "last_pushed_at": "2026-09-28T01:22:42.828Z"
+    },
+    "math:52": {
+      "kind": "math",
+      "id": "52",
+      "title": "DPO as Closed-Form KL-Constrained RL",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/52",
+      "path": "math/0052-dpo-as-closed-form-kl-constrained-rl",
+      "first_solved_at": "2026-09-28T01:29:44.480Z",
+      "last_pushed_at": "2026-09-28T01:29:44.480Z"
     }
   }
 }
