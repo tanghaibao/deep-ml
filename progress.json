@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:09:41.913Z",
+  "generated_at": "2026-09-28T01:07:03.884Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1458,6 +1458,17 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-09-28T00:09:39.145Z",
       "last_pushed_at": "2026-09-28T00:09:39.145Z"
+    },
+    "math:124": {
+      "kind": "math",
+      "id": "124",
+      "title": "Sufficient Statistics and Belief States",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/124",
+      "path": "math/0124-sufficient-statistics-and-belief-states",
+      "first_solved_at": "2026-09-28T01:07:03.148Z",
+      "last_pushed_at": "2026-09-28T01:07:03.148Z"
     }
   }
 }

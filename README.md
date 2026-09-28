@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**120** solved · 69 problems · 0 labs · 51 math
+**121** solved · 69 problems · 0 labs · 52 math
 
 ![Coverage](./coverage.svg)
 
@@ -125,6 +125,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-20 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-20 | [solution](math/0013-solving-linear-systems) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-09-25 | [solution](math/0027-statistical-inference) |
+| [Sufficient Statistics and Belief States](https://www.deep-ml.com/math-problems/124) | medium | 2026-09-28 | [solution](math/0124-sufficient-statistics-and-belief-states) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-09-25 | [solution](math/0041-the-em-algorithm) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-20 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [The Kaplan-Meier Estimator and the Log-Rank Test](https://www.deep-ml.com/math-problems/99) | medium | 2026-09-27 | [solution](math/0099-the-kaplan-meier-estimator-and-the-log-rank-test) |
