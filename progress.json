@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T05:59:55.016Z",
+  "generated_at": "2026-10-05T06:04:10.564Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1661,6 +1661,19 @@
       "path": "math/0189-the-graph-laplacian-its-eigenvectors-and-spectral-clustering",
       "first_solved_at": "2026-10-05T05:59:53.915Z",
       "last_pushed_at": "2026-10-05T05:59:53.915Z"
+    },
+    "problem:1190": {
+      "kind": "problem",
+      "id": "1190",
+      "title": "Random Rotation Matrix and a Rotation Layer",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1190",
+      "path": "problems/1190-random-rotation-matrix-and-a-rotation-layer",
+      "first_solved_at": "2026-10-05T06:04:09.418Z",
+      "last_pushed_at": "2026-10-05T06:04:09.418Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
