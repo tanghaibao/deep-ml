@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T05:35:36.765Z",
+  "generated_at": "2026-10-05T05:59:55.016Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1650,6 +1650,17 @@
       "last_pushed_at": "2026-10-05T05:35:34.366Z",
       "language": "python",
       "lines": 18
+    },
+    "math:189": {
+      "kind": "math",
+      "id": "189",
+      "title": "The Graph Laplacian, Its Eigenvectors and Spectral Clustering",
+      "difficulty": "medium",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/189",
+      "path": "math/0189-the-graph-laplacian-its-eigenvectors-and-spectral-clustering",
+      "first_solved_at": "2026-10-05T05:59:53.915Z",
+      "last_pushed_at": "2026-10-05T05:59:53.915Z"
     }
   }
 }
