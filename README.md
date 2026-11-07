@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**138** solved · 78 problems · 0 labs · 60 math
+**139** solved · 78 problems · 0 labs · 61 math
 
 ![Coverage](./coverage.svg)
 
@@ -109,6 +109,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-09-20 | [solution](math/0020-bayes-theorem) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-09-25 | [solution](math/0039-bias-variance-decomposition) |
 | [Bradley-Terry Preference Model](https://www.deep-ml.com/math-problems/51) | medium | 2026-09-28 | [solution](math/0051-bradley-terry-preference-model) |
+| [Censoring and the Survival Function](https://www.deep-ml.com/math-problems/98) | medium | 2026-11-07 | [solution](math/0098-censoring-and-the-survival-function) |
 | [Chi-Square Tests: Goodness of Fit and Independence](https://www.deep-ml.com/math-problems/87) | medium | 2026-09-28 | [solution](math/0087-chi-square-tests-goodness-of-fit-and-independence) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-09-20 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-09-20 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
