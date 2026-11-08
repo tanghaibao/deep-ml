@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:34:06.294Z",
+  "generated_at": "2026-11-08T10:58:07.644Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1685,6 +1685,17 @@
       "path": "math/0098-censoring-and-the-survival-function",
       "first_solved_at": "2026-11-07T13:34:05.567Z",
       "last_pushed_at": "2026-11-07T13:34:05.567Z"
+    },
+    "math:357": {
+      "kind": "math",
+      "id": "357",
+      "title": "Law of Total Expectation and Total Variance: Lightbulbs and a Two-Component Mixture",
+      "difficulty": "easy",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/357",
+      "path": "math/0357-law-of-total-expectation-and-total-variance-lightbulbs-and-a-two-component-mixture",
+      "first_solved_at": "2026-11-08T10:58:06.921Z",
+      "last_pushed_at": "2026-11-08T10:58:06.921Z"
     }
   }
 }
