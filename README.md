@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**140** solved · 78 problems · 0 labs · 62 math
+**141** solved · 78 problems · 0 labs · 63 math
 
 ![Coverage](./coverage.svg)
 
@@ -122,6 +122,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient of a Weight Shared Across Passes](https://www.deep-ml.com/math-problems/141) | medium | 2026-09-27 | [solution](math/0141-gradient-of-a-weight-shared-across-passes) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-09-20 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-20 | [solution](math/0024-information-theory-entropy) |
+| [Interview Probability Puzzles: Unreliable Witnesses, Complements and Who Rolls First](https://www.deep-ml.com/math-problems/186) | medium | 2026-11-09 | [solution](math/0186-interview-probability-puzzles-unreliable-witnesses-complements-and-who-rolls-first) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-20 | [solution](math/0012-inverse-and-rank) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-09-20 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [LDA versus PCA: Separation or Variance](https://www.deep-ml.com/math-problems/146) | medium | 2026-09-27 | [solution](math/0146-lda-versus-pca-separation-or-variance) |

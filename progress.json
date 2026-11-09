@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T10:58:07.644Z",
+  "generated_at": "2026-11-09T09:12:41.168Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1696,6 +1696,17 @@
       "path": "math/0357-law-of-total-expectation-and-total-variance-lightbulbs-and-a-two-component-mixture",
       "first_solved_at": "2026-11-08T10:58:06.921Z",
       "last_pushed_at": "2026-11-08T10:58:06.921Z"
+    },
+    "math:186": {
+      "kind": "math",
+      "id": "186",
+      "title": "Interview Probability Puzzles: Unreliable Witnesses, Complements and Who Rolls First",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for ML",
+      "url": "https://www.deep-ml.com/math-problems/186",
+      "path": "math/0186-interview-probability-puzzles-unreliable-witnesses-complements-and-who-rolls-first",
+      "first_solved_at": "2026-11-09T09:12:39.998Z",
+      "last_pushed_at": "2026-11-09T09:12:39.998Z"
     }
   }
 }
