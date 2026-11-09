@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:25:29.712Z",
+  "generated_at": "2026-11-09T09:37:05.066Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1718,6 +1718,19 @@
       "path": "math/0194-link-prediction-scoring-negative-sampling-and-ranking-metrics",
       "first_solved_at": "2026-11-09T09:25:28.630Z",
       "last_pushed_at": "2026-11-09T09:25:28.630Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-11-09T09:37:04.123Z",
+      "last_pushed_at": "2026-11-09T09:37:04.123Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
