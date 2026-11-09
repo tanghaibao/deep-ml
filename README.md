@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**143** solved · 79 problems · 0 labs · 64 math
+**144** solved · 80 problems · 0 labs · 64 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute TPR and FPR from Classifications](https://www.deep-ml.com/problems/1217) | easy | 2026-09-28 | [solution](problems/1217-compute-tpr-and-fpr-from-classifications) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2024-08-03 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-23 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
+| [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-11-09 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-20 | [solution](problems/0083-dot-product-calculator) |
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-05 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-08-04 | [solution](problems/0016-feature-scaling-implementation) |
