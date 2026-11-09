@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:12:41.168Z",
+  "generated_at": "2026-11-09T09:25:29.712Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1707,6 +1707,17 @@
       "path": "math/0186-interview-probability-puzzles-unreliable-witnesses-complements-and-who-rolls-first",
       "first_solved_at": "2026-11-09T09:12:39.998Z",
       "last_pushed_at": "2026-11-09T09:12:39.998Z"
+    },
+    "math:194": {
+      "kind": "math",
+      "id": "194",
+      "title": "Link Prediction: Scoring, Negative Sampling and Ranking Metrics",
+      "difficulty": "medium",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/194",
+      "path": "math/0194-link-prediction-scoring-negative-sampling-and-ranking-metrics",
+      "first_solved_at": "2026-11-09T09:25:28.630Z",
+      "last_pushed_at": "2026-11-09T09:25:28.630Z"
     }
   }
 }

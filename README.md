@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**141** solved · 78 problems · 0 labs · 63 math
+**142** solved · 78 problems · 0 labs · 64 math
 
 ![Coverage](./coverage.svg)
 
@@ -128,6 +128,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LDA versus PCA: Separation or Variance](https://www.deep-ml.com/math-problems/146) | medium | 2026-09-27 | [solution](math/0146-lda-versus-pca-separation-or-variance) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-09-20 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Least Squares as Maximum Likelihood under Gaussian Noise](https://www.deep-ml.com/math-problems/156) | medium | 2026-09-27 | [solution](math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise) |
+| [Link Prediction: Scoring, Negative Sampling and Ranking Metrics](https://www.deep-ml.com/math-problems/194) | medium | 2026-11-09 | [solution](math/0194-link-prediction-scoring-negative-sampling-and-ranking-metrics) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-09-20 | [solution](math/0038-log-likelihood-gradients) |
 | [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-09-28 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-09-20 | [solution](math/0035-matrix-calculus-identities) |
