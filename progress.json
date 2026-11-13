@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:32:49.512Z",
+  "generated_at": "2026-11-13T12:41:21.311Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1814,6 +1814,17 @@
       "path": "math/0134-scaled-dot-product-variance-why-divide-by-the-square-root-of-d",
       "first_solved_at": "2026-11-13T12:32:48.595Z",
       "last_pushed_at": "2026-11-13T12:32:48.595Z"
+    },
+    "math:127": {
+      "kind": "math",
+      "id": "127",
+      "title": "Precision and Recall at a Threshold",
+      "difficulty": "easy",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/127",
+      "path": "math/0127-precision-and-recall-at-a-threshold",
+      "first_solved_at": "2026-11-13T12:41:19.963Z",
+      "last_pushed_at": "2026-11-13T12:41:19.963Z"
     }
   }
 }

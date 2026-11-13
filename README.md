@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**150** solved · 82 problems · 0 labs · 68 math
+**151** solved · 82 problems · 0 labs · 69 math
 
 ![Coverage](./coverage.svg)
 
@@ -108,6 +108,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-20 | [solution](math/0009-matrix-basics) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-20 | [solution](math/0030-ml-workflow-basics) |
 | [Odds, Log-Odds, and Reading Logistic Coefficients](https://www.deep-ml.com/math-problems/90) | easy | 2026-09-28 | [solution](math/0090-odds-log-odds-and-reading-logistic-coefficients) |
+| [Precision and Recall at a Threshold](https://www.deep-ml.com/math-problems/127) | easy | 2026-11-13 | [solution](math/0127-precision-and-recall-at-a-threshold) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-20 | [solution](math/0019-probability-fundamentals) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-20 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Basis Functions and Degrees of Freedom](https://www.deep-ml.com/math-problems/95) | medium | 2026-09-27 | [solution](math/0095-basis-functions-and-degrees-of-freedom) |
