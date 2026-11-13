@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**147** solved · 82 problems · 0 labs · 65 math
+**148** solved · 82 problems · 0 labs · 66 math
 
 ![Coverage](./coverage.svg)
 
@@ -125,6 +125,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ELBO Decomposition with Gaussian KL](https://www.deep-ml.com/math-problems/136) | medium | 2026-09-28 | [solution](math/0136-elbo-decomposition-with-gaussian-kl) |
 | [Gradient of a Weight Shared Across Passes](https://www.deep-ml.com/math-problems/141) | medium | 2026-09-27 | [solution](math/0141-gradient-of-a-weight-shared-across-passes) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-09-20 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
+| [GRPO Instead of PPO: Group Scores in Place of a Value Model](https://www.deep-ml.com/math-problems/595) | medium | 2026-11-13 | [solution](math/0595-grpo-instead-of-ppo-group-scores-in-place-of-a-value-model) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-20 | [solution](math/0024-information-theory-entropy) |
 | [Interview Probability Puzzles: Unreliable Witnesses, Complements and Who Rolls First](https://www.deep-ml.com/math-problems/186) | medium | 2026-11-09 | [solution](math/0186-interview-probability-puzzles-unreliable-witnesses-complements-and-who-rolls-first) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-20 | [solution](math/0012-inverse-and-rank) |

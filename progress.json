@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:25:03.337Z",
+  "generated_at": "2026-11-13T05:07:07.390Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1781,6 +1781,17 @@
       "path": "math/0230-why-scale-by-sqrt-d-k",
       "first_solved_at": "2026-11-12T14:25:01.741Z",
       "last_pushed_at": "2026-11-12T14:25:01.741Z"
+    },
+    "math:595": {
+      "kind": "math",
+      "id": "595",
+      "title": "GRPO Instead of PPO: Group Scores in Place of a Value Model",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/math-problems/595",
+      "path": "math/0595-grpo-instead-of-ppo-group-scores-in-place-of-a-value-model",
+      "first_solved_at": "2026-11-13T05:07:04.338Z",
+      "last_pushed_at": "2026-11-13T05:07:04.338Z"
     }
   }
 }
