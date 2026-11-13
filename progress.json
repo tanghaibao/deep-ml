@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:07:07.390Z",
+  "generated_at": "2026-11-13T11:56:07.851Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1792,6 +1792,17 @@
       "path": "math/0595-grpo-instead-of-ppo-group-scores-in-place-of-a-value-model",
       "first_solved_at": "2026-11-13T05:07:04.338Z",
       "last_pushed_at": "2026-11-13T05:07:04.338Z"
+    },
+    "math:361": {
+      "kind": "math",
+      "id": "361",
+      "title": "Conditioning a Bivariate Gaussian: Slice, Shrink and the Schur Complement",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/361",
+      "path": "math/0361-conditioning-a-bivariate-gaussian-slice-shrink-and-the-schur-complement",
+      "first_solved_at": "2026-11-13T11:56:06.889Z",
+      "last_pushed_at": "2026-11-13T11:56:06.889Z"
     }
   }
 }

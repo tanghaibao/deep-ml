@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**148** solved · 82 problems · 0 labs · 66 math
+**149** solved · 82 problems · 0 labs · 67 math
 
 ![Coverage](./coverage.svg)
 
@@ -118,6 +118,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chi-Square Tests: Goodness of Fit and Independence](https://www.deep-ml.com/math-problems/87) | medium | 2026-09-28 | [solution](math/0087-chi-square-tests-goodness-of-fit-and-independence) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-09-20 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-09-20 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
+| [Conditioning a Bivariate Gaussian: Slice, Shrink and the Schur Complement](https://www.deep-ml.com/math-problems/361) | medium | 2026-11-13 | [solution](math/0361-conditioning-a-bivariate-gaussian-slice-shrink-and-the-schur-complement) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-20 | [solution](math/0017-covariance-and-correlation) |
 | [DDPM Forward-Process Variance Schedule](https://www.deep-ml.com/math-problems/137) | medium | 2026-09-28 | [solution](math/0137-ddpm-forward-process-variance-schedule) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-20 | [solution](math/0011-determinants-and-trace) |
