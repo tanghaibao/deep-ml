@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**149** solved · 82 problems · 0 labs · 67 math
+**150** solved · 82 problems · 0 labs · 68 math
 
 ![Coverage](./coverage.svg)
 
@@ -147,6 +147,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-09-23 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-09-20 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-20 | [solution](math/0031-regularization-and-generalization) |
+| [Scaled Dot-Product Variance: Why Divide by the Square Root of d](https://www.deep-ml.com/math-problems/134) | medium | 2026-11-13 | [solution](math/0134-scaled-dot-product-variance-why-divide-by-the-square-root-of-d) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-20 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-20 | [solution](math/0013-solving-linear-systems) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-09-25 | [solution](math/0027-statistical-inference) |
