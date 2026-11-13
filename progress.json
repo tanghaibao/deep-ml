@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:41:21.311Z",
+  "generated_at": "2026-11-13T13:54:27.239Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1825,6 +1825,17 @@
       "path": "math/0127-precision-and-recall-at-a-threshold",
       "first_solved_at": "2026-11-13T12:41:19.963Z",
       "last_pushed_at": "2026-11-13T12:41:19.963Z"
+    },
+    "math:367": {
+      "kind": "math",
+      "id": "367",
+      "title": "Maximum Entropy Gives the Exponential Family (and the Gaussian)",
+      "difficulty": "hard",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/367",
+      "path": "math/0367-maximum-entropy-gives-the-exponential-family-and-the-gaussian",
+      "first_solved_at": "2026-11-13T13:54:26.389Z",
+      "last_pushed_at": "2026-11-13T13:54:26.389Z"
     }
   }
 }
