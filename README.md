@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**570** solved · 469 problems · 23 labs · 78 math
+**571** solved · 470 problems · 23 labs · 78 math
 
 ![Coverage](./coverage.svg)
 
@@ -147,6 +147,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-10-05 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2024-08-03 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-11-09 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
+| [Reparameterization Trick and the VAE Prior KL](https://www.deep-ml.com/problems/1384) | easy | 2026-11-13 | [solution](problems/1384-reparameterization-trick-and-the-vae-prior-kl) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-11-09 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2024-08-03 | [solution](problems/0003-reshape-matrix) |
 | [Reward Model Validation Accuracy](https://www.deep-ml.com/problems/488) | easy | 2026-03-30 | [solution](problems/0488-reward-model-validation-accuracy) |
