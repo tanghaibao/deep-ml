@@ -6,7 +6,8 @@ def random_split(data: np.ndarray, train_frac: float, validation_frac: float, se
     """
     # Your code here
     n = len(data)
-    s = data[np.random.default_rng(seed).permutation(n)]
+    shuffled = np.random.default_rng(seed).permutation(n)
+    data = data[shuffled]
     train_end = int(n * train_frac)
     validation_end = train_end + int(n * validation_frac)
-    return [s[:train_end], s[train_end:validation_end], s[validation_end:]]
+    return data[:train_end], data[train_end:validation_end], data[validation_end:]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T12:21:56.464Z",
+  "generated_at": "2026-11-14T12:35:15.632Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1728,9 +1728,9 @@
       "url": "https://www.deep-ml.com/problems/1058",
       "path": "problems/1058-random-train-validation-test-split-with-shuffling",
       "first_solved_at": "2026-11-09T09:37:04.123Z",
-      "last_pushed_at": "2026-11-09T09:37:04.123Z",
+      "last_pushed_at": "2026-11-14T12:35:14.755Z",
       "language": "python",
-      "lines": 12
+      "lines": 14
     },
     "problem:1220": {
       "kind": "problem",
