@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**156** solved · 84 problems · 0 labs · 72 math
+**157** solved · 84 problems · 0 labs · 73 math
 
 ![Coverage](./coverage.svg)
 
@@ -112,6 +112,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Odds, Log-Odds, and Reading Logistic Coefficients](https://www.deep-ml.com/math-problems/90) | easy | 2026-09-28 | [solution](math/0090-odds-log-odds-and-reading-logistic-coefficients) |
 | [Precision and Recall at a Threshold](https://www.deep-ml.com/math-problems/127) | easy | 2026-11-13 | [solution](math/0127-precision-and-recall-at-a-threshold) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-20 | [solution](math/0019-probability-fundamentals) |
+| [The Categorical MLE by Lagrange Multipliers](https://www.deep-ml.com/math-problems/384) | easy | 2026-11-14 | [solution](math/0384-the-categorical-mle-by-lagrange-multipliers) |
 | [AUC as the Probability of Ranking a Positive Above a Negative](https://www.deep-ml.com/math-problems/128) | medium | 2026-11-14 | [solution](math/0128-auc-as-the-probability-of-ranking-a-positive-above-a-negative) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-20 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Basis Functions and Degrees of Freedom](https://www.deep-ml.com/math-problems/95) | medium | 2026-09-27 | [solution](math/0095-basis-functions-and-degrees-of-freedom) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:57:27.843Z",
+  "generated_at": "2026-11-14T10:51:05.706Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1884,6 +1884,17 @@
       "path": "math/0128-auc-as-the-probability-of-ranking-a-positive-above-a-negative",
       "first_solved_at": "2026-11-14T09:57:26.879Z",
       "last_pushed_at": "2026-11-14T09:57:26.879Z"
+    },
+    "math:384": {
+      "kind": "math",
+      "id": "384",
+      "title": "The Categorical MLE by Lagrange Multipliers",
+      "difficulty": "easy",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/384",
+      "path": "math/0384-the-categorical-mle-by-lagrange-multipliers",
+      "first_solved_at": "2026-11-14T10:51:04.926Z",
+      "last_pushed_at": "2026-11-14T10:51:04.926Z"
     }
   }
 }
