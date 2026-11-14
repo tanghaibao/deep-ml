@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T12:35:15.632Z",
+  "generated_at": "2026-11-14T13:40:11.306Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1906,6 +1906,19 @@
       "path": "math/0243-convexity-of-the-logistic-loss-the-hessian-argument",
       "first_solved_at": "2026-11-14T12:21:55.815Z",
       "last_pushed_at": "2026-11-14T12:21:55.815Z"
+    },
+    "problem:839": {
+      "kind": "problem",
+      "id": "839",
+      "title": "Cross-Validated Prediction with K-Fold Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/839",
+      "path": "problems/0839-cross-validated-prediction-with-k-fold-linear-regression",
+      "first_solved_at": "2026-11-14T13:40:10.636Z",
+      "last_pushed_at": "2026-11-14T13:40:10.636Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
