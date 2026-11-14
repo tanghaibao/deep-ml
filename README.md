@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**152** solved · 82 problems · 0 labs · 70 math
+**153** solved · 83 problems · 0 labs · 70 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [RMS-Matched Update Rescaling for Orthogonalized Optimizers](https://www.deep-ml.com/problems/740) | easy | 2026-11-11 | [solution](problems/0740-rms-matched-update-rescaling-for-orthogonalized-optimizers) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2024-08-03 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2024-08-03 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-11-14 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2024-08-03 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2024-08-03 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-09-29 | [solution](problems/0945-token-embedding-lookup-table) |
