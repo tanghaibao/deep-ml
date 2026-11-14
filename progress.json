@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T10:51:05.706Z",
+  "generated_at": "2026-11-14T12:21:56.464Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1895,6 +1895,17 @@
       "path": "math/0384-the-categorical-mle-by-lagrange-multipliers",
       "first_solved_at": "2026-11-14T10:51:04.926Z",
       "last_pushed_at": "2026-11-14T10:51:04.926Z"
+    },
+    "math:243": {
+      "kind": "math",
+      "id": "243",
+      "title": "Convexity of the Logistic Loss: The Hessian Argument",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/243",
+      "path": "math/0243-convexity-of-the-logistic-loss-the-hessian-argument",
+      "first_solved_at": "2026-11-14T12:21:55.815Z",
+      "last_pushed_at": "2026-11-14T12:21:55.815Z"
     }
   }
 }

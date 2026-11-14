@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**157** solved · 84 problems · 0 labs · 73 math
+**158** solved · 84 problems · 0 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -125,6 +125,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-09-20 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Condition Numbers: Why the Determinant Lies About Near-Singularity](https://www.deep-ml.com/math-problems/412) | medium | 2026-11-14 | [solution](math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity) |
 | [Conditioning a Bivariate Gaussian: Slice, Shrink and the Schur Complement](https://www.deep-ml.com/math-problems/361) | medium | 2026-11-13 | [solution](math/0361-conditioning-a-bivariate-gaussian-slice-shrink-and-the-schur-complement) |
+| [Convexity of the Logistic Loss: The Hessian Argument](https://www.deep-ml.com/math-problems/243) | medium | 2026-11-14 | [solution](math/0243-convexity-of-the-logistic-loss-the-hessian-argument) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-20 | [solution](math/0017-covariance-and-correlation) |
 | [DDPM Forward-Process Variance Schedule](https://www.deep-ml.com/math-problems/137) | medium | 2026-09-28 | [solution](math/0137-ddpm-forward-process-variance-schedule) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-20 | [solution](math/0011-determinants-and-trace) |
