@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:15:58.582Z",
+  "generated_at": "2026-11-14T09:57:27.843Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1873,6 +1873,17 @@
       "path": "math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity",
       "first_solved_at": "2026-11-14T08:15:57.902Z",
       "last_pushed_at": "2026-11-14T08:15:57.902Z"
+    },
+    "math:128": {
+      "kind": "math",
+      "id": "128",
+      "title": "AUC as the Probability of Ranking a Positive Above a Negative",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/128",
+      "path": "math/0128-auc-as-the-probability-of-ranking-a-positive-above-a-negative",
+      "first_solved_at": "2026-11-14T09:57:26.879Z",
+      "last_pushed_at": "2026-11-14T09:57:26.879Z"
     }
   }
 }
