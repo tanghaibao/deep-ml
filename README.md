@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**153** solved · 83 problems · 0 labs · 70 math
+**154** solved · 84 problems · 0 labs · 70 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2024-08-03 | [solution](problems/0003-reshape-matrix) |
 | [RMS-Matched Update Rescaling for Orthogonalized Optimizers](https://www.deep-ml.com/problems/740) | easy | 2026-11-11 | [solution](problems/0740-rms-matched-update-rescaling-for-orthogonalized-optimizers) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2024-08-03 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-11-14 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2024-08-03 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-11-14 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2024-08-03 | [solution](problems/0024-single-neuron) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T07:47:01.619Z",
+  "generated_at": "2026-11-14T07:54:52.048Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1847,6 +1847,19 @@
       "path": "problems/0955-simple-self-attention-without-trainable-weights",
       "first_solved_at": "2026-11-14T07:47:00.969Z",
       "last_pushed_at": "2026-11-14T07:47:00.969Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:963": {
+      "kind": "problem",
+      "id": "963",
+      "title": "Scale Attention Scores by sqrt(d_k)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/963",
+      "path": "problems/0963-scale-attention-scores-by-sqrt-d-k",
+      "first_solved_at": "2026-11-14T07:54:51.389Z",
+      "last_pushed_at": "2026-11-14T07:54:51.389Z",
       "language": "python",
       "lines": 21
     }
