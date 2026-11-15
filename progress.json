@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:44:34.098Z",
+  "generated_at": "2026-11-15T08:36:26.147Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -7352,6 +7352,17 @@
       "path": "math/0260-from-decoder-to-encoder-bidirectional-masks-and-local-global-attention-cost",
       "first_solved_at": "2026-11-15T07:44:33.425Z",
       "last_pushed_at": "2026-11-15T07:44:33.425Z"
+    },
+    "math:510": {
+      "kind": "math",
+      "id": "510",
+      "title": "Contrastive Learning as Approximate Maximum Likelihood of an Energy-Based Model",
+      "difficulty": "hard",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/510",
+      "path": "math/0510-contrastive-learning-as-approximate-maximum-likelihood-of-an-energy-based-model",
+      "first_solved_at": "2026-11-15T08:36:25.262Z",
+      "last_pushed_at": "2026-11-15T08:36:25.262Z"
     }
   }
 }

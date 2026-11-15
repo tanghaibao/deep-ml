@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**578** solved · 474 problems · 23 labs · 81 math
+**579** solved · 474 problems · 23 labs · 82 math
 
 ![Coverage](./coverage.svg)
 
@@ -592,6 +592,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-20 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Why Scale by sqrt(d_k)](https://www.deep-ml.com/math-problems/230) | medium | 2026-11-12 | [solution](math/0230-why-scale-by-sqrt-d-k) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-25 | [solution](math/0028-bayesian-methods) |
+| [Contrastive Learning as Approximate Maximum Likelihood of an Energy-Based Model](https://www.deep-ml.com/math-problems/510) | hard | 2026-11-15 | [solution](math/0510-contrastive-learning-as-approximate-maximum-likelihood-of-an-energy-based-model) |
 | [DPO as Closed-Form KL-Constrained RL](https://www.deep-ml.com/math-problems/52) | hard | 2026-09-28 | [solution](math/0052-dpo-as-closed-form-kl-constrained-rl) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-20 | [solution](math/0016-eigendecomposition-and-svd) |
 | [False Discovery Rate and Benjamini-Hochberg](https://www.deep-ml.com/math-problems/85) | hard | 2026-09-27 | [solution](math/0085-false-discovery-rate-and-benjamini-hochberg) |
