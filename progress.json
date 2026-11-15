@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T05:35:00.736Z",
+  "generated_at": "2026-11-15T07:19:10.237Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -7328,6 +7328,19 @@
       "path": "math/0598-the-kl-regularized-objective-why-the-best-policy-is-rho-times-e-r-beta",
       "first_solved_at": "2026-11-15T05:34:59.828Z",
       "last_pushed_at": "2026-11-15T05:34:59.828Z"
+    },
+    "problem:489": {
+      "kind": "problem",
+      "id": "489",
+      "title": "Log-Probability Ratio for Token Sequences",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/489",
+      "path": "problems/0489-log-probability-ratio-for-token-sequences",
+      "first_solved_at": "2026-11-15T07:19:09.407Z",
+      "last_pushed_at": "2026-11-15T07:19:09.407Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }

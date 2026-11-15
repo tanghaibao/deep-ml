@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**576** solved · 473 problems · 23 labs · 80 math
+**577** solved · 474 problems · 23 labs · 80 math
 
 ![Coverage](./coverage.svg)
 
@@ -370,6 +370,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Latent Diffusion Encoding and Decoding](https://www.deep-ml.com/problems/402) | medium | 2026-02-21 | [solution](problems/0402-latent-diffusion-encoding-and-decoding) |
 | [Latent Space Patchification for Diffusion Transformers](https://www.deep-ml.com/problems/420) | medium | 2026-02-28 | [solution](problems/0420-latent-space-patchification-for-diffusion-transformers) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2025-01-19 | [solution](problems/0092-linear-regression-power-grid-optimization) |
+| [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-11-15 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-01-18 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-01-25 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-01-29 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
