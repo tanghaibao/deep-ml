@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T08:36:26.147Z",
+  "generated_at": "2026-11-15T11:51:28.672Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -7363,6 +7363,17 @@
       "path": "math/0510-contrastive-learning-as-approximate-maximum-likelihood-of-an-energy-based-model",
       "first_solved_at": "2026-11-15T08:36:25.262Z",
       "last_pushed_at": "2026-11-15T08:36:25.262Z"
+    },
+    "math:255": {
+      "kind": "math",
+      "id": "255",
+      "title": "Where 270M Parameters Go: The Embedder-Heavy Encoder",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/255",
+      "path": "math/0255-where-270m-parameters-go-the-embedder-heavy-encoder",
+      "first_solved_at": "2026-11-15T11:51:27.716Z",
+      "last_pushed_at": "2026-11-15T11:51:27.716Z"
     }
   }
 }
