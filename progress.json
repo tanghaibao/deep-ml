@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:51:28.672Z",
+  "generated_at": "2026-11-15T13:18:14.436Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -1916,7 +1916,7 @@
       "url": "https://www.deep-ml.com/problems/839",
       "path": "problems/0839-cross-validated-prediction-with-k-fold-linear-regression",
       "first_solved_at": "2026-11-14T13:40:10.636Z",
-      "last_pushed_at": "2026-11-14T13:40:10.636Z",
+      "last_pushed_at": "2026-11-15T13:18:13.480Z",
       "language": "python",
       "lines": 30
     },
