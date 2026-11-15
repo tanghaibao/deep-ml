@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:03:42.261Z",
+  "generated_at": "2026-11-15T23:21:37.185Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -7396,6 +7396,17 @@
       "path": "math/0276-rope-why-rotating-queries-and-keys-encodes-relative-position",
       "first_solved_at": "2026-11-15T23:03:41.482Z",
       "last_pushed_at": "2026-11-15T23:03:41.482Z"
+    },
+    "math:336": {
+      "kind": "math",
+      "id": "336",
+      "title": "SwiGLU Sizing and gpt-oss's Clamped Variant",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/336",
+      "path": "math/0336-swiglu-sizing-and-gpt-oss-s-clamped-variant",
+      "first_solved_at": "2026-11-15T23:21:36.314Z",
+      "last_pushed_at": "2026-11-15T23:21:36.314Z"
     }
   }
 }
