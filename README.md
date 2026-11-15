@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**577** solved · 474 problems · 23 labs · 80 math
+**578** solved · 474 problems · 23 labs · 81 math
 
 ![Coverage](./coverage.svg)
 
@@ -553,6 +553,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-20 | [solution](math/0011-determinants-and-trace) |
 | [Effective Rank and the Entropy of a Spectrum](https://www.deep-ml.com/math-problems/125) | medium | 2026-09-28 | [solution](math/0125-effective-rank-and-the-entropy-of-a-spectrum) |
 | [ELBO Decomposition with Gaussian KL](https://www.deep-ml.com/math-problems/136) | medium | 2026-09-28 | [solution](math/0136-elbo-decomposition-with-gaussian-kl) |
+| [From Decoder to Encoder: Bidirectional Masks and Local-Global Attention Cost](https://www.deep-ml.com/math-problems/260) | medium | 2026-11-15 | [solution](math/0260-from-decoder-to-encoder-bidirectional-masks-and-local-global-attention-cost) |
 | [Gradient of a Weight Shared Across Passes](https://www.deep-ml.com/math-problems/141) | medium | 2026-09-27 | [solution](math/0141-gradient-of-a-weight-shared-across-passes) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-09-20 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
 | [GRPO Instead of PPO: Group Scores in Place of a Value Model](https://www.deep-ml.com/math-problems/595) | medium | 2026-11-13 | [solution](math/0595-grpo-instead-of-ppo-group-scores-in-place-of-a-value-model) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:19:10.237Z",
+  "generated_at": "2026-11-15T07:44:34.098Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -7341,6 +7341,17 @@
       "last_pushed_at": "2026-11-15T07:19:09.407Z",
       "language": "python",
       "lines": 29
+    },
+    "math:260": {
+      "kind": "math",
+      "id": "260",
+      "title": "From Decoder to Encoder: Bidirectional Masks and Local-Global Attention Cost",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/260",
+      "path": "math/0260-from-decoder-to-encoder-bidirectional-masks-and-local-global-attention-cost",
+      "first_solved_at": "2026-11-15T07:44:33.425Z",
+      "last_pushed_at": "2026-11-15T07:44:33.425Z"
     }
   }
 }
