@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**572** solved · 470 problems · 23 labs · 79 math
+**573** solved · 471 problems · 23 labs · 79 math
 
 ![Coverage](./coverage.svg)
 
@@ -428,6 +428,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sparse MoE Top-K Routing](https://www.deep-ml.com/problems/229) | medium | 2026-01-24 | [solution](problems/0229-sparse-moe-top-k-routing) |
 | [Spectral Normalization](https://www.deep-ml.com/problems/386) | medium | 2026-02-15 | [solution](problems/0386-spectral-normalization) |
 | [Speculative Decoding Acceptance Rate vs Temperature](https://www.deep-ml.com/problems/433) | medium | 2026-03-09 | [solution](problems/0433-speculative-decoding-acceptance-rate-vs-temperature) |
+| [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-15 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-01-20 | [solution](problems/0231-temperature-decay-scheduler) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-02-12 | [solution](problems/0378-temperature-sampling) |
 | [Tensor Parallelism All-Reduce Communication Cost](https://www.deep-ml.com/problems/438) | medium | 2026-03-08 | [solution](problems/0438-tensor-parallelism-all-reduce-communication-cost) |
