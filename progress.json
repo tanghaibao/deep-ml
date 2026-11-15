@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:35:59.135Z",
+  "generated_at": "2026-11-15T23:03:42.261Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -7385,6 +7385,17 @@
       "path": "math/0600-why-learn-the-residual-degradation-and-the-identity-shortcut",
       "first_solved_at": "2026-11-15T13:35:58.396Z",
       "last_pushed_at": "2026-11-15T13:35:58.396Z"
+    },
+    "math:276": {
+      "kind": "math",
+      "id": "276",
+      "title": "RoPE: Why Rotating Queries and Keys Encodes Relative Position",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/276",
+      "path": "math/0276-rope-why-rotating-queries-and-keys-encodes-relative-position",
+      "first_solved_at": "2026-11-15T23:03:41.482Z",
+      "last_pushed_at": "2026-11-15T23:03:41.482Z"
     }
   }
 }

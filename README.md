@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**581** solved · 474 problems · 23 labs · 84 math
+**582** solved · 474 problems · 23 labs · 85 math
 
 ![Coverage](./coverage.svg)
 
@@ -579,6 +579,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-09-20 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
 | [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-09-05 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-20 | [solution](math/0031-regularization-and-generalization) |
+| [RoPE: Why Rotating Queries and Keys Encodes Relative Position](https://www.deep-ml.com/math-problems/276) | medium | 2026-11-15 | [solution](math/0276-rope-why-rotating-queries-and-keys-encodes-relative-position) |
 | [Scaled Dot-Product Variance: Why Divide by the Square Root of d](https://www.deep-ml.com/math-problems/134) | medium | 2026-11-13 | [solution](math/0134-scaled-dot-product-variance-why-divide-by-the-square-root-of-d) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-20 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-20 | [solution](math/0013-solving-linear-systems) |
