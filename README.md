@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**580** solved · 474 problems · 23 labs · 83 math
+**581** solved · 474 problems · 23 labs · 84 math
 
 ![Coverage](./coverage.svg)
 
@@ -591,6 +591,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Kaplan-Meier Estimator and the Log-Rank Test](https://www.deep-ml.com/math-problems/99) | medium | 2026-09-27 | [solution](math/0099-the-kaplan-meier-estimator-and-the-log-rank-test) |
 | [The KL-Regularized Objective: Why the Best Policy Is rho Times e^(r/beta)](https://www.deep-ml.com/math-problems/598) | medium | 2026-11-15 | [solution](math/0598-the-kl-regularized-objective-why-the-best-policy-is-rho-times-e-r-beta) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-20 | [solution](math/0008-vector-norms-and-linear-independence) |
+| [Why Learn the Residual: Degradation and the Identity Shortcut](https://www.deep-ml.com/math-problems/600) | medium | 2026-11-15 | [solution](math/0600-why-learn-the-residual-degradation-and-the-identity-shortcut) |
 | [Why Scale by sqrt(d_k)](https://www.deep-ml.com/math-problems/230) | medium | 2026-11-12 | [solution](math/0230-why-scale-by-sqrt-d-k) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-25 | [solution](math/0028-bayesian-methods) |
 | [Contrastive Learning as Approximate Maximum Likelihood of an Energy-Based Model](https://www.deep-ml.com/math-problems/510) | hard | 2026-11-15 | [solution](math/0510-contrastive-learning-as-approximate-maximum-likelihood-of-an-energy-based-model) |

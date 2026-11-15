@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:19:57.936Z",
+  "generated_at": "2026-11-15T13:35:59.135Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -7374,6 +7374,17 @@
       "path": "math/0255-where-270m-parameters-go-the-embedder-heavy-encoder",
       "first_solved_at": "2026-11-15T11:51:27.716Z",
       "last_pushed_at": "2026-11-15T11:51:27.716Z"
+    },
+    "math:600": {
+      "kind": "math",
+      "id": "600",
+      "title": "Why Learn the Residual: Degradation and the Identity Shortcut",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/math-problems/600",
+      "path": "math/0600-why-learn-the-residual-degradation-and-the-identity-shortcut",
+      "first_solved_at": "2026-11-15T13:35:58.396Z",
+      "last_pushed_at": "2026-11-15T13:35:58.396Z"
     }
   }
 }
