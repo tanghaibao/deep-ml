@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T04:13:30.511Z",
+  "generated_at": "2026-11-15T05:35:00.736Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -7317,6 +7317,17 @@
       "last_pushed_at": "2026-11-15T04:13:28.766Z",
       "language": "python",
       "lines": 17
+    },
+    "math:598": {
+      "kind": "math",
+      "id": "598",
+      "title": "The KL-Regularized Objective: Why the Best Policy Is rho Times e^(r/beta)",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/math-problems/598",
+      "path": "math/0598-the-kl-regularized-objective-why-the-best-policy-is-rho-times-e-r-beta",
+      "first_solved_at": "2026-11-15T05:34:59.828Z",
+      "last_pushed_at": "2026-11-15T05:34:59.828Z"
     }
   }
 }

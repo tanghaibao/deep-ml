@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**575** solved · 473 problems · 23 labs · 79 math
+**576** solved · 473 problems · 23 labs · 80 math
 
 ![Coverage](./coverage.svg)
 
@@ -586,6 +586,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-20 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [The Graph Laplacian, Its Eigenvectors and Spectral Clustering](https://www.deep-ml.com/math-problems/189) | medium | 2026-10-05 | [solution](math/0189-the-graph-laplacian-its-eigenvectors-and-spectral-clustering) |
 | [The Kaplan-Meier Estimator and the Log-Rank Test](https://www.deep-ml.com/math-problems/99) | medium | 2026-09-27 | [solution](math/0099-the-kaplan-meier-estimator-and-the-log-rank-test) |
+| [The KL-Regularized Objective: Why the Best Policy Is rho Times e^(r/beta)](https://www.deep-ml.com/math-problems/598) | medium | 2026-11-15 | [solution](math/0598-the-kl-regularized-objective-why-the-best-policy-is-rho-times-e-r-beta) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-20 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Why Scale by sqrt(d_k)](https://www.deep-ml.com/math-problems/230) | medium | 2026-11-12 | [solution](math/0230-why-scale-by-sqrt-d-k) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-25 | [solution](math/0028-bayesian-methods) |
